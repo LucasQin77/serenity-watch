@@ -38,7 +38,7 @@ If you follow stocks, semiconductors, or AI investing, you've almost certainly s
 - 📝 **~13,000 structured mentions** extracted from ~6,200 of Serenity's posts (July 2025 – June 2026), with stance labels, reasons, and links to original posts
 - 💾 **All data stored as plain JSON files** — plug into your own analysis tools, dashboards, or research pipelines
 
-<img width="4096" height="3911" alt="stock-opinion-tracker-case-showcase-numbered-hq" src="https://github.com/user-attachments/assets/0ed83be6-c1e2-40fb-bd8d-6b856a67351e" />
+<img width="1280" height="823" alt="stock-opinion-tracker-readme-demo-animated-light" src="https://github.com/user-attachments/assets/15f19aa4-acaf-447c-a1cf-9d175bca3956" />
 
 **Plus a complete analysis toolchain:**
 
