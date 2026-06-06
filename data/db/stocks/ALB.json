@@ -1,0 +1,248 @@
+{
+  "ticker": "ALB",
+  "cashtag": "$ALB",
+  "price_symbol": "ALB",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-23",
+  "last_mention": "2026-03-23",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2035984148159164870",
+      "date": "2026-03-23",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ALB",
+      "text": "Normally this goes in shower thoughts but will post main timeline today.\n\n$ALOY - Rare earth powders -> high-purity metals. Magnets used in the liquid cooling pumps\n$NB - Scandium, lightweight metal frames for server racks.\n$UURAF- Separation of rare earths.\n$ARA - Upstream feedstock for magnets\n$MEI - IAC deposit outside of China. \n$NTU - hard-rock heavy rare earths\n\nThese are all more under the radar stuff like sub <$1B. \n\nThen for robotics supply chains I made this earlier:\n\n$UUUU - Processes monazite sand into high-purity Neodymium \n$MP - Extracting bastnäsite at Mountain Pass and vertically integrating into domestic NdFeB magnet manufacturing.\n $ALOY - Converting heavy rare earth oxides into defense-grade alloys and high-temperature metals like Samarium and Gadolinium \n$USAR- Process heavy rare earth elements and manufacture sintered NdFeB magnets \n$LYSDY -(Lynas Rare Earths Limited) - Only commercial producer of separated heavy rare earth elements outside of China. \n$NEO -(TSX): They are the only Western company commercially producing the actual NdFeB magnetic powders and alloys at scale right now. \n$ILU- (rare earths refinery): rare earths refinery for Australia \n$ARU- (ASX): \"Ore-to-oxide\" NdPr facility  2. Structural Metallurgy (Niobium, Vanadium, Titanium, Beryllium)  $ATI - Dominant US producer of high-performance titanium and specialty alloys required for robotic joints. $CRS - US supplier of specialty structural alloys, including the high-strength steels, titanium, and magnetic \n$FCX - World's largest producer of Molybdenum, which is strictly necessary for the structural steel in planetary roller screws. \n$NB - Critical pure-play company developing the Elk Creek project in Nebraska, aimed at supplying domestic Niobium, Scandium, and Titanium \n$MTRN - Major global processor of Beryllium \n$LGO - Leading publicly traded processors of Vanadium  \n$BMM - Onshore supply and processing for like Germanium and Gallium \n$VNP - Gallium, Germanium, and Indium for advanced sensors and electronics\n$TECK - Most significant producer of Germanium outside of China \n$ALB - Lithium extraction \n$EAF - High-purity Graphite for battery anodes \n$ALTM - Western lithium required to supply the batteries \n$SYR - Balama mine for Graphite \n$FCX - Humanoid requires up to 6.5 kilograms of copper $AW1 (ASX): Advancing the West Desert project in Utah, for domestic geological sources for high-grade Gallium and Indium \n\nI'm aware of a lot of more... It's just some are a little dangerous to mention geopolitically in case I broadcast vulnerabilities to geopolitical adversaries reading this (looking at you $AXTI)\n\nIf you're going long on a western one 5n my favorite. \n\nImage source: Crossdock Insights, Visual Capitalist\n\nFYI this is not the pandoras box stuff. \n\nJust name dropping some interesting names informally before finishing up some research on a specific long idea. \n\nCritical elements required for semiconductor packaging and others close to near-total import reliance\n-> so prob influx of funding going toward it. \n\nJust informal thoughts",
+      "url": "https://x.com/aleabitoreddit/status/2035984148159164870",
+      "kind": "post",
+      "engagement": {
+        "views": 121288,
+        "likes": 1268,
+        "reposts": 114,
+        "replies": 65
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-23",
+      "close": 167.56
+    },
+    {
+      "date": "2026-03-24",
+      "close": 177.06
+    },
+    {
+      "date": "2026-03-25",
+      "close": 181.39
+    },
+    {
+      "date": "2026-03-26",
+      "close": 174.5
+    },
+    {
+      "date": "2026-03-27",
+      "close": 179.45
+    },
+    {
+      "date": "2026-03-30",
+      "close": 177.22
+    },
+    {
+      "date": "2026-03-31",
+      "close": 179.53
+    },
+    {
+      "date": "2026-04-01",
+      "close": 178.47
+    },
+    {
+      "date": "2026-04-02",
+      "close": 178.09
+    },
+    {
+      "date": "2026-04-06",
+      "close": 173.03
+    },
+    {
+      "date": "2026-04-07",
+      "close": 173.53
+    },
+    {
+      "date": "2026-04-08",
+      "close": 177.44
+    },
+    {
+      "date": "2026-04-09",
+      "close": 172.35
+    },
+    {
+      "date": "2026-04-10",
+      "close": 173.64
+    },
+    {
+      "date": "2026-04-13",
+      "close": 185.43
+    },
+    {
+      "date": "2026-04-14",
+      "close": 189.86
+    },
+    {
+      "date": "2026-04-15",
+      "close": 185.38
+    },
+    {
+      "date": "2026-04-16",
+      "close": 215.62
+    },
+    {
+      "date": "2026-04-17",
+      "close": 197.75
+    },
+    {
+      "date": "2026-04-20",
+      "close": 194.83
+    },
+    {
+      "date": "2026-04-21",
+      "close": 198.42
+    },
+    {
+      "date": "2026-04-22",
+      "close": 194.22
+    },
+    {
+      "date": "2026-04-23",
+      "close": 193.14
+    },
+    {
+      "date": "2026-04-24",
+      "close": 188.33
+    },
+    {
+      "date": "2026-04-27",
+      "close": 199.53
+    },
+    {
+      "date": "2026-04-28",
+      "close": 186.9
+    },
+    {
+      "date": "2026-04-29",
+      "close": 190.88
+    },
+    {
+      "date": "2026-04-30",
+      "close": 196.7
+    },
+    {
+      "date": "2026-05-01",
+      "close": 193.88
+    },
+    {
+      "date": "2026-05-04",
+      "close": 190.69
+    },
+    {
+      "date": "2026-05-05",
+      "close": 194.82
+    },
+    {
+      "date": "2026-05-06",
+      "close": 192.61
+    },
+    {
+      "date": "2026-05-07",
+      "close": 198.35
+    },
+    {
+      "date": "2026-05-08",
+      "close": 203.52
+    },
+    {
+      "date": "2026-05-11",
+      "close": 209.99
+    },
+    {
+      "date": "2026-05-12",
+      "close": 205.52
+    },
+    {
+      "date": "2026-05-13",
+      "close": 200.94
+    },
+    {
+      "date": "2026-05-14",
+      "close": 191.1
+    },
+    {
+      "date": "2026-05-15",
+      "close": 180.38
+    },
+    {
+      "date": "2026-05-18",
+      "close": 175.74
+    },
+    {
+      "date": "2026-05-19",
+      "close": 169.0
+    },
+    {
+      "date": "2026-05-20",
+      "close": 170.21
+    },
+    {
+      "date": "2026-05-21",
+      "close": 169.9
+    },
+    {
+      "date": "2026-05-22",
+      "close": 171.58
+    },
+    {
+      "date": "2026-05-26",
+      "close": 174.69
+    },
+    {
+      "date": "2026-05-27",
+      "close": 177.47
+    },
+    {
+      "date": "2026-05-28",
+      "close": 176.32
+    },
+    {
+      "date": "2026-05-29",
+      "close": 176.42
+    },
+    {
+      "date": "2026-06-01",
+      "close": 171.13
+    },
+    {
+      "date": "2026-06-02",
+      "close": 171.77
+    },
+    {
+      "date": "2026-06-03",
+      "close": 168.34
+    },
+    {
+      "date": "2026-06-04",
+      "close": 165.65
+    }
+  ],
+  "price_status": "ok"
+}

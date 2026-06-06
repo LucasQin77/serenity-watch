@@ -1,0 +1,463 @@
+{
+  "ticker": "ACLS",
+  "cashtag": "$ACLS",
+  "price_symbol": "ACLS",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-01-22",
+  "last_mention": "2026-03-23",
+  "total_mentions": 3,
+  "mentions": [
+    {
+      "tweet_id": "2014368177682292774",
+      "date": "2026-01-22",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "ion implantation play in memory supercycle supply chain",
+        "markets haven't priced some of these in yet"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$ACLS",
+      "text": "Memory Supercycle Supply Chain TLDR:\n\nUS Sleeper HBM4/Memory alpha picks that benefit from $MU and SK/Samsung:\n\n$VECO ($2B) -Laser annealing\n$PLAB ($2.1B) - Lithography photomask\n$ADEA ($2.18B) - Hybrid bonding\n$ACLS ($2.9B) - Ion implantation\n$FORM ($6.43B) - HBM wafer testing\n$ONTO ($10.6B) - Packaging metrology\n$AMKR ($13.1B) -Advanced packaging\n$RMBS ($13.55B) - Memory IP\n$MKSI ($14.9B) - Laser subsystems\n\nDidn't include big players like $TER and $KLAC since just wanted to focus on lesser known ones. \n\nThere's some indirect beneficiaries too like $SMTC and $MTSI. Markets definitely haven't priced some of these in yet. \n\nLet me know if I missed any. \n\nJust wanted to publish these in case you find any of them interesting.",
+      "url": "https://x.com/aleabitoreddit/status/2014368177682292774",
+      "kind": "post",
+      "engagement": {
+        "views": 329341,
+        "likes": 1192,
+        "reposts": 172,
+        "replies": 55
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2015166721699745935",
+      "date": "2026-01-24",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "used in SiC power devices not SiC interposers",
+        "might show up in power delivery chain"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ACLS",
+      "text": "@FrontRangeHQ Pretty sure $ACLS is used in SiC power devices, not SiC interposers? \n\nThey might show up in the power delivery chain though.",
+      "url": "https://x.com/aleabitoreddit/status/2015166721699745935",
+      "kind": "reply",
+      "engagement": {
+        "views": 2950,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2036264013370368378",
+      "date": "2026-03-23",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "CHIPS Act funding recipient",
+        "partner project via CLAWS"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ACLS",
+      "text": "US Chip ACT Funding is one of the largest signals.\n\nFor importance to America National Security.\n\nLesser known list:\n1. $SIVE ($330m)\n2. $AKTS ($920m)\n3. $BLG ($34m)\n4. $QUBT ($1.65B)\n5. $RGTI ($5.27B)\n6. $MRAM ($210m)\n7. $SKYT (Acquired)\n8. $PDFS ($1.35B)\n9. $ATOM ($177M)\n10. $SLVC ($227M)\n11. $NVTS ($2.12B)\n12. $WOLF ($750m)\n13. $ALMU ($234m)\n14. $ACLS ($2.6B)\n\nDIRECT FUNDING | DoC CHIPS PMTs:\n1. $WOLF (Wolfspeed): $750 Million\n2. $INFN (Infinera): $93 Million (DoC PMT) - Bought by Nokia\n3. $SKYT (SkyWater Technology): $16 Million (DoC PMT) - Bought by IonQ\n\nDIRECT FUNDING | Federal R&D Contracts:\n4. $RGTI (Rigetti Computing): $11.28M (AFRL/quantum networking and AFOSR Chip fab)\n5. $QUBT - Direct DoC/NIST contract for TFLN PICs\n\nDoD Microelectronics / Sub-Contractors\n6. $SIVE: $11.6 Million (NEMC Hub)\n7. $MRAM - $8.7 Million project partner (\"CHEETA\" project via SCMC Hub)\n8. $ACLS - $7.8M partner project (Led by GE Aerospace via CLAWS)\n9. $BLG - $6.5M (DoD sub-contracts secured to date via CLAWS Hub)\n10. $AKTS - $4 Million (Lead grant for the \"LADDER\" project via NEMC)\n\nAdjacents:\n11. $ATOM: Member of the SWAP Hub\n12. $NVTS: Embedded partner in the SCMC Hub\n13. $PDFS: industry partner in the CA DREAMS Hub\n14: $ALMU: affiliate member in the CA DREAMS and MMEC Hubs\n\n-> Electromagnetic Warfare (EW): $51 million allocated across 6 projects.\n-> Artificial Intelligence (AI) Hardware: $42 million allocated across 7 projects.\n-> 5G/6G Wireless Communications: $42 million allocated across 5 projects.\n-> Commercial Leap-Ahead Technologies: $38 million allocated across 7 projects.\n-> Quantum Technology: $32 million allocated across 4 projects.\n-> Secure Edge Computing / IoT: $25 million allocated across 4 projects.\n\nJust a warning: \n\nBeing important to US technology (eg. Wolfspeed) does not translate to being a good investment. \n\nWas just doing research into $SIVE CHIPS act funding and decided to see what other lesser known companies got grants or were beneficaries too.",
+      "url": "https://x.com/aleabitoreddit/status/2036264013370368378",
+      "kind": "post",
+      "engagement": {
+        "views": 178810,
+        "likes": 1023,
+        "reposts": 109,
+        "replies": 48
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-01-22",
+      "close": 94.96
+    },
+    {
+      "date": "2026-01-23",
+      "close": 91.12
+    },
+    {
+      "date": "2026-01-26",
+      "close": 89.17
+    },
+    {
+      "date": "2026-01-27",
+      "close": 91.04
+    },
+    {
+      "date": "2026-01-28",
+      "close": 91.23
+    },
+    {
+      "date": "2026-01-29",
+      "close": 92.2
+    },
+    {
+      "date": "2026-01-30",
+      "close": 88.07
+    },
+    {
+      "date": "2026-02-02",
+      "close": 88.81
+    },
+    {
+      "date": "2026-02-03",
+      "close": 84.37
+    },
+    {
+      "date": "2026-02-04",
+      "close": 82.76
+    },
+    {
+      "date": "2026-02-05",
+      "close": 81.49
+    },
+    {
+      "date": "2026-02-06",
+      "close": 86.08
+    },
+    {
+      "date": "2026-02-09",
+      "close": 85.47
+    },
+    {
+      "date": "2026-02-10",
+      "close": 89.05
+    },
+    {
+      "date": "2026-02-11",
+      "close": 91.82
+    },
+    {
+      "date": "2026-02-12",
+      "close": 90.54
+    },
+    {
+      "date": "2026-02-13",
+      "close": 94.55
+    },
+    {
+      "date": "2026-02-17",
+      "close": 98.5
+    },
+    {
+      "date": "2026-02-18",
+      "close": 82.01
+    },
+    {
+      "date": "2026-02-19",
+      "close": 80.62
+    },
+    {
+      "date": "2026-02-20",
+      "close": 80.16
+    },
+    {
+      "date": "2026-02-23",
+      "close": 78.79
+    },
+    {
+      "date": "2026-02-24",
+      "close": 81.77
+    },
+    {
+      "date": "2026-02-25",
+      "close": 80.02
+    },
+    {
+      "date": "2026-02-26",
+      "close": 83.58
+    },
+    {
+      "date": "2026-02-27",
+      "close": 82.61
+    },
+    {
+      "date": "2026-03-02",
+      "close": 86.58
+    },
+    {
+      "date": "2026-03-03",
+      "close": 85.88
+    },
+    {
+      "date": "2026-03-04",
+      "close": 86.62
+    },
+    {
+      "date": "2026-03-05",
+      "close": 85.91
+    },
+    {
+      "date": "2026-03-06",
+      "close": 82.24
+    },
+    {
+      "date": "2026-03-09",
+      "close": 84.06
+    },
+    {
+      "date": "2026-03-10",
+      "close": 85.82
+    },
+    {
+      "date": "2026-03-11",
+      "close": 86.22
+    },
+    {
+      "date": "2026-03-12",
+      "close": 85.18
+    },
+    {
+      "date": "2026-03-13",
+      "close": 83.19
+    },
+    {
+      "date": "2026-03-16",
+      "close": 84.55
+    },
+    {
+      "date": "2026-03-17",
+      "close": 85.15
+    },
+    {
+      "date": "2026-03-18",
+      "close": 85.74
+    },
+    {
+      "date": "2026-03-19",
+      "close": 87.12
+    },
+    {
+      "date": "2026-03-20",
+      "close": 84.43
+    },
+    {
+      "date": "2026-03-23",
+      "close": 85.77
+    },
+    {
+      "date": "2026-03-24",
+      "close": 94.39
+    },
+    {
+      "date": "2026-03-25",
+      "close": 100.85
+    },
+    {
+      "date": "2026-03-26",
+      "close": 98.35
+    },
+    {
+      "date": "2026-03-27",
+      "close": 97.35
+    },
+    {
+      "date": "2026-03-30",
+      "close": 90.43
+    },
+    {
+      "date": "2026-03-31",
+      "close": 93.08
+    },
+    {
+      "date": "2026-04-01",
+      "close": 95.51
+    },
+    {
+      "date": "2026-04-02",
+      "close": 95.09
+    },
+    {
+      "date": "2026-04-06",
+      "close": 97.5
+    },
+    {
+      "date": "2026-04-07",
+      "close": 96.87
+    },
+    {
+      "date": "2026-04-08",
+      "close": 104.65
+    },
+    {
+      "date": "2026-04-09",
+      "close": 108.24
+    },
+    {
+      "date": "2026-04-10",
+      "close": 110.37
+    },
+    {
+      "date": "2026-04-13",
+      "close": 110.74
+    },
+    {
+      "date": "2026-04-14",
+      "close": 113.06
+    },
+    {
+      "date": "2026-04-15",
+      "close": 117.88
+    },
+    {
+      "date": "2026-04-16",
+      "close": 118.76
+    },
+    {
+      "date": "2026-04-17",
+      "close": 118.73
+    },
+    {
+      "date": "2026-04-20",
+      "close": 131.02
+    },
+    {
+      "date": "2026-04-21",
+      "close": 133.19
+    },
+    {
+      "date": "2026-04-22",
+      "close": 139.93
+    },
+    {
+      "date": "2026-04-23",
+      "close": 139.86
+    },
+    {
+      "date": "2026-04-24",
+      "close": 143.13
+    },
+    {
+      "date": "2026-04-27",
+      "close": 137.46
+    },
+    {
+      "date": "2026-04-28",
+      "close": 134.07
+    },
+    {
+      "date": "2026-04-29",
+      "close": 133.61
+    },
+    {
+      "date": "2026-04-30",
+      "close": 139.11
+    },
+    {
+      "date": "2026-05-01",
+      "close": 139.99
+    },
+    {
+      "date": "2026-05-04",
+      "close": 141.87
+    },
+    {
+      "date": "2026-05-05",
+      "close": 139.7
+    },
+    {
+      "date": "2026-05-06",
+      "close": 171.0
+    },
+    {
+      "date": "2026-05-07",
+      "close": 158.66
+    },
+    {
+      "date": "2026-05-08",
+      "close": 163.03
+    },
+    {
+      "date": "2026-05-11",
+      "close": 165.08
+    },
+    {
+      "date": "2026-05-12",
+      "close": 161.64
+    },
+    {
+      "date": "2026-05-13",
+      "close": 162.15
+    },
+    {
+      "date": "2026-05-14",
+      "close": 161.64
+    },
+    {
+      "date": "2026-05-15",
+      "close": 155.18
+    },
+    {
+      "date": "2026-05-18",
+      "close": 146.24
+    },
+    {
+      "date": "2026-05-19",
+      "close": 143.23
+    },
+    {
+      "date": "2026-05-20",
+      "close": 149.56
+    },
+    {
+      "date": "2026-05-21",
+      "close": 152.51
+    },
+    {
+      "date": "2026-05-22",
+      "close": 156.94
+    },
+    {
+      "date": "2026-05-26",
+      "close": 164.27
+    },
+    {
+      "date": "2026-05-27",
+      "close": 157.91
+    },
+    {
+      "date": "2026-05-28",
+      "close": 155.55
+    },
+    {
+      "date": "2026-05-29",
+      "close": 150.41
+    },
+    {
+      "date": "2026-06-01",
+      "close": 150.42
+    },
+    {
+      "date": "2026-06-02",
+      "close": 158.78
+    },
+    {
+      "date": "2026-06-03",
+      "close": 159.19
+    },
+    {
+      "date": "2026-06-04",
+      "close": 161.87
+    }
+  ],
+  "price_status": "ok"
+}

@@ -1,0 +1,349 @@
+{
+  "ticker": "LNG",
+  "cashtag": "$LNG",
+  "price_symbol": "LNG",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-04",
+  "last_mention": "2026-03-28",
+  "total_mentions": 3,
+  "mentions": [
+    {
+      "tweet_id": "2029108380586201538",
+      "date": "2026-03-04",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$LNG",
+      "text": "@dfyz_ivan US/Australia and Indonesia/Malaysia can also up their exports to SK. I’m sure there’s alternatives like you mentioned. \n\nBut one of the biggest catalyst was for US exporters like $LNG. However point of the data was that lot of disruption/pricing fears are overblown to SK Hynix/Samsung",
+      "url": "https://x.com/aleabitoreddit/status/2029108380586201538",
+      "kind": "reply",
+      "engagement": {
+        "views": 124554,
+        "likes": 28,
+        "reposts": 1,
+        "replies": 5
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2037942075422027868",
+      "date": "2026-03-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "main beneficiary of Iran conflict",
+        "LNG exporters backstopping the rest of the world"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$LNG",
+      "text": "@Evan_ss6 Extremely solid multi-year long (eg. 3-5 years) for $NEXT, especially when capacity is sold out already. LNG production is first half of 2027 though? Though I do think the sector as a whole will get attention. \n\nThe main beneficiaries of Iran are the LNG exporters like $LNG now backstopping the rest of the world though.",
+      "url": "https://x.com/aleabitoreddit/status/2037942075422027868",
+      "kind": "reply",
+      "engagement": {
+        "views": 10278,
+        "likes": 34,
+        "reposts": 0,
+        "replies": 2
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2037944481199358169",
+      "date": "2026-03-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "obvious idea for wartime long",
+        "low IV 18-30 would have been few hundred percent gain",
+        "more to run if tensions escalate"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$LNG",
+      "text": "Honestly... the most obvious ideas like long $LNG.\n\nOr going long on $CVX.\n\nAre probably the best ones instead of contrarian longs in Wartime?\n\nEspecially with low 18-30 IV, this would have easily been a few hundred percent gain by now. \n\nThere’s probably a lot more for oil and LNG exporters to run if tensions escalate.",
+      "url": "https://x.com/aleabitoreddit/status/2037944481199358169",
+      "kind": "post",
+      "engagement": {
+        "views": 126942,
+        "likes": 425,
+        "reposts": 20,
+        "replies": 62
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-04",
+      "close": 248.98
+    },
+    {
+      "date": "2026-03-05",
+      "close": 249.54
+    },
+    {
+      "date": "2026-03-06",
+      "close": 255.15
+    },
+    {
+      "date": "2026-03-09",
+      "close": 250.8
+    },
+    {
+      "date": "2026-03-10",
+      "close": 245.76
+    },
+    {
+      "date": "2026-03-11",
+      "close": 250.32
+    },
+    {
+      "date": "2026-03-12",
+      "close": 253.84
+    },
+    {
+      "date": "2026-03-13",
+      "close": 252.27
+    },
+    {
+      "date": "2026-03-16",
+      "close": 251.29
+    },
+    {
+      "date": "2026-03-17",
+      "close": 251.5
+    },
+    {
+      "date": "2026-03-18",
+      "close": 266.22
+    },
+    {
+      "date": "2026-03-19",
+      "close": 281.87
+    },
+    {
+      "date": "2026-03-20",
+      "close": 280.89
+    },
+    {
+      "date": "2026-03-23",
+      "close": 287.2
+    },
+    {
+      "date": "2026-03-24",
+      "close": 294.58
+    },
+    {
+      "date": "2026-03-25",
+      "close": 284.39
+    },
+    {
+      "date": "2026-03-26",
+      "close": 291.4
+    },
+    {
+      "date": "2026-03-27",
+      "close": 296.91
+    },
+    {
+      "date": "2026-03-30",
+      "close": 293.64
+    },
+    {
+      "date": "2026-03-31",
+      "close": 283.76
+    },
+    {
+      "date": "2026-04-01",
+      "close": 275.84
+    },
+    {
+      "date": "2026-04-02",
+      "close": 281.16
+    },
+    {
+      "date": "2026-04-06",
+      "close": 284.05
+    },
+    {
+      "date": "2026-04-07",
+      "close": 284.27
+    },
+    {
+      "date": "2026-04-08",
+      "close": 275.21
+    },
+    {
+      "date": "2026-04-09",
+      "close": 265.77
+    },
+    {
+      "date": "2026-04-10",
+      "close": 265.54
+    },
+    {
+      "date": "2026-04-13",
+      "close": 261.6
+    },
+    {
+      "date": "2026-04-14",
+      "close": 259.68
+    },
+    {
+      "date": "2026-04-15",
+      "close": 256.75
+    },
+    {
+      "date": "2026-04-16",
+      "close": 262.74
+    },
+    {
+      "date": "2026-04-17",
+      "close": 251.07
+    },
+    {
+      "date": "2026-04-20",
+      "close": 252.35
+    },
+    {
+      "date": "2026-04-21",
+      "close": 257.78
+    },
+    {
+      "date": "2026-04-22",
+      "close": 257.48
+    },
+    {
+      "date": "2026-04-23",
+      "close": 257.19
+    },
+    {
+      "date": "2026-04-24",
+      "close": 257.09
+    },
+    {
+      "date": "2026-04-27",
+      "close": 259.4
+    },
+    {
+      "date": "2026-04-28",
+      "close": 264.98
+    },
+    {
+      "date": "2026-04-29",
+      "close": 272.23
+    },
+    {
+      "date": "2026-04-30",
+      "close": 274.95
+    },
+    {
+      "date": "2026-05-01",
+      "close": 270.06
+    },
+    {
+      "date": "2026-05-04",
+      "close": 272.85
+    },
+    {
+      "date": "2026-05-05",
+      "close": 269.52
+    },
+    {
+      "date": "2026-05-06",
+      "close": 261.42
+    },
+    {
+      "date": "2026-05-07",
+      "close": 246.78
+    },
+    {
+      "date": "2026-05-08",
+      "close": 240.11
+    },
+    {
+      "date": "2026-05-11",
+      "close": 240.7
+    },
+    {
+      "date": "2026-05-12",
+      "close": 244.31
+    },
+    {
+      "date": "2026-05-13",
+      "close": 239.38
+    },
+    {
+      "date": "2026-05-14",
+      "close": 241.08
+    },
+    {
+      "date": "2026-05-15",
+      "close": 241.84
+    },
+    {
+      "date": "2026-05-18",
+      "close": 247.74
+    },
+    {
+      "date": "2026-05-19",
+      "close": 246.77
+    },
+    {
+      "date": "2026-05-20",
+      "close": 243.66
+    },
+    {
+      "date": "2026-05-21",
+      "close": 240.45
+    },
+    {
+      "date": "2026-05-22",
+      "close": 240.85
+    },
+    {
+      "date": "2026-05-26",
+      "close": 234.05
+    },
+    {
+      "date": "2026-05-27",
+      "close": 230.97
+    },
+    {
+      "date": "2026-05-28",
+      "close": 229.57
+    },
+    {
+      "date": "2026-05-29",
+      "close": 224.86
+    },
+    {
+      "date": "2026-06-01",
+      "close": 227.88
+    },
+    {
+      "date": "2026-06-02",
+      "close": 236.01
+    },
+    {
+      "date": "2026-06-03",
+      "close": 235.37
+    },
+    {
+      "date": "2026-06-04",
+      "close": 241.07
+    }
+  ],
+  "price_status": "ok"
+}

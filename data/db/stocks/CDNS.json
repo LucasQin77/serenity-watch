@@ -1,0 +1,757 @@
+{
+  "ticker": "CDNS",
+  "cashtag": "$CDNS",
+  "price_symbol": "CDNS",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-10-10",
+  "last_mention": "2026-05-13",
+  "total_mentions": 4,
+  "mentions": [
+    {
+      "tweet_id": "1976771236215808119",
+      "date": "2025-10-10",
+      "stance": "bearish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "materially impacted from China revenue"
+      ],
+      "is_risk": true,
+      "conviction": null,
+      "raw_mention": "$CDNS",
+      "text": "Getting Vietnam flashbacks. \n\nJokes aside, markets dropped 3.65%+ after Trump tarrifs Chinese imports by 100% and restricts the export of critical software to China.\n\nThis surprise event was rational repricing but also catalyzed by fear + margin calls (after hours, with $IREN dropping 21% for example, or $BTC dropping to $107k).\n\nWhat this typically foreshadows is slower growth and higher inflation (lower rate cut odds).\n\nHowever, Polymarket and Fed futures data still shows 70-72% of 3 rate cuts by 2025. Midterm elections next year are also generally bullish for stocks. And we're approaching end of season seasonality, which is typically the best for stocks.\n\nAnd of course, many stocks dropped in crossfire without any direct exposure, such as $UNH or $DKNG (eg. Draftkings has nothing to do with China, imports, etc. since it's US sports related, but fell 9.4%)\n\nTLDR: likely a short term tariff shock, mild macro risk, and a overall sell-off from fear, but into recovery. \n\nNow that markets are closed, a lot of money can be made is in times of low liquidity high-spread like after-hours/overnight (during earlier tariffs, $HOOD dropped from $45 to $28 overnight then went on a massive rally to $100+). \n\nRandom events like these are why I don't recommend options as positions can be nuked up in an instant.\n\nIf you have cash positions, go bargain hunting for extreme selloffs, eg. $CIFR dropping 16% to $14, instead of panic selling your own positions. \n\nOtherwise, things like these are usually short term from shock, and we'll likely see a recovery frontrunning rate cut in late October. That of course if the stock isn't materially impacted from China revenue unlike $QLCM, $NKE, $MU, $CDNS, etc.\n\n(I didn't expect the extent of the reaction, lost a decent amount today, but will hold positions).",
+      "url": "https://x.com/aleabitoreddit/status/1976771236215808119",
+      "kind": "post",
+      "engagement": {
+        "views": 12883,
+        "likes": 102,
+        "reposts": 5,
+        "replies": 17
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2038777289115345200",
+      "date": "2026-03-30",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CDNS",
+      "text": "CPO Value Chain Summary from Mirae Asset:\n\nLaser Source:\nCoherent < $COHR >\nLumentum < $LITE >\nFurukawa Electric (TYO: 5801)\nYuanjie Semiconductor (SHA: 688498)\nInnolight Technology / Zhongji Innolight (SZSE: 300308)\n\nPIC Foundry:\nTSMC < $TSM >\nGlobalFoundries $GFS\nSamsung Electronics (KRX: 005930)\nTower Semiconductor < $TSEM>\n\nEIC, Driver IC:\nBroadcom < $AVGO > \nMarvell < $MRVL >\nNVIDIA < $NVDA >\n\nELS, Optical Engine\nInnolight / Zhongji Innolight (SZSE: 300308)\nTFC / Suzhou TFC Optical Communication (SZSE: 300394)\nO-Net Technologies \nEoptolink Technology (SZSE: 300502)\n\nFAU (Fiber Array Unit):\nSenko Advanced Components (Private)\nSumitomo Electric (TYO: 5802)\nTFC (SZSE: 300394)\nFOCI Fiber Optic Communications (TWO: 3363)\n\nFAU, Align Tools:\nficonTEC (Private)\nAll Ring Tech (TWO: 6187)\nADST (Private)\n\nFAU, Engine Assembly:\nFabrinet < $FN >\nHon Hai / Foxconn (TWSE: 2317)\nASE Technology < $ASX > \nFOCI (TWO: 3363)\n\nOSAT, Advanced Packaging:\nASE Technology < $ASX >\nAmkor < $AMKR > \nKyocera (TYO: 6971)\nPowertech / PTI (TWSE: 6239)\nShinko Electric (TYO: 6967)\nFabrinet < $FN >\n\nConnector, Ferrule:\nSenko Advanced Components (Private)\nSumitomo Electric (TYO: 5802)\nUS Conec (Private)\nT&S Communications (SZSE: 300570)\nMolex (Private)\nBrowave (TWO: 3163)\n\nFiber: \nCorning < $GLW >\nSumitomo Electric (TYO: 5802)\nNittobo / Nitto Boseki (TYO: 3110)\n\nE/O Testing: \n\nKeysight < $KEYS > \nTeradyne < $TER >\nFormFactor < $FORM > \nChroma ATE (TWSE: 2360)\nMultilane (Private)\n\nSwitch, System: \nNVIDIA < $NVDA > \nBroadcom < $AVGO > \nMarvell < $MRVL > \nGoogle < $GOOGL> \n\nEDA: \nSynopsys < $SNPS > \nCadence < $CDNS > \nAnsys < $ANSS > \n\nConfused by some of names of the list, they might have conflated a few names like Innolight with laser source like $MTSI, Sumitomo, $SIVE, Luxnet, with the actual end module (unless there's something that's not public material or I missed)? \n\nBut just for people interested in the landscape, this is a good high-level overview.",
+      "url": "https://x.com/aleabitoreddit/status/2038777289115345200",
+      "kind": "post",
+      "engagement": {
+        "views": 82144,
+        "likes": 338,
+        "reposts": 51,
+        "replies": 20
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2046302180001673341",
+      "date": "2026-04-20",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CDNS",
+      "text": "Global Foundries photonics/CPO ecosystem list:\n\n1. $GFS - $30.5B\n2. $CDNS - $85.9B\n3. $SEIGY - $217.2B\n4. $SNPS - $84B\n5. $KEYS - $57.3B\n6. $ATEYY - $130.4B\n7.  RoboTechnik (ficonTEC) - $11.4B\n8. $GLW - $141.2B\n9. $LITE - $63.8B\n10. $SIVE - $950m\n11. $FN - $24.7B\n12. $ASX - $63.3B\n\nFor publicly traded names.\n\nEqual weighted long on the ecosystem from their presentation might not be a bad idea? \n\nI still find it funny how everything publicly listed is trading in the tens of billions.\n\nThen there's some small Swedish laser company there next to $LITE.",
+      "url": "https://x.com/aleabitoreddit/status/2046302180001673341",
+      "kind": "post",
+      "engagement": {
+        "views": 200484,
+        "likes": 1133,
+        "reposts": 127,
+        "replies": 94
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2054696650539688271",
+      "date": "2026-05-13",
+      "stance": "neutral",
+      "mention_type": "quote_or_other",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CDNS",
+      "text": "“Robotics may be the biggest product category of all time” - $CDNS CEO.\n\n“The projection is $25 trillion. The whole GDP of the world is $110 trillion. So this is huge if this happens.”\n\nExtremely bullish on robotics/humanoids directionally.\n\nBut maybe it’s time for $TSLA and America to really start prioritizing how we build it outside Chinese supply chains?",
+      "url": "https://x.com/aleabitoreddit/status/2054696650539688271",
+      "kind": "post",
+      "engagement": {
+        "views": 284702,
+        "likes": 1466,
+        "reposts": 95,
+        "replies": 107
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2025-10-10",
+      "close": 327.0
+    },
+    {
+      "date": "2025-10-13",
+      "close": 332.23
+    },
+    {
+      "date": "2025-10-14",
+      "close": 325.75
+    },
+    {
+      "date": "2025-10-15",
+      "close": 324.1
+    },
+    {
+      "date": "2025-10-16",
+      "close": 324.25
+    },
+    {
+      "date": "2025-10-17",
+      "close": 326.12
+    },
+    {
+      "date": "2025-10-20",
+      "close": 329.64
+    },
+    {
+      "date": "2025-10-21",
+      "close": 333.45
+    },
+    {
+      "date": "2025-10-22",
+      "close": 330.51
+    },
+    {
+      "date": "2025-10-23",
+      "close": 337.27
+    },
+    {
+      "date": "2025-10-24",
+      "close": 345.1
+    },
+    {
+      "date": "2025-10-27",
+      "close": 351.4
+    },
+    {
+      "date": "2025-10-28",
+      "close": 341.3
+    },
+    {
+      "date": "2025-10-29",
+      "close": 341.43
+    },
+    {
+      "date": "2025-10-30",
+      "close": 336.09
+    },
+    {
+      "date": "2025-10-31",
+      "close": 338.69
+    },
+    {
+      "date": "2025-11-03",
+      "close": 335.41
+    },
+    {
+      "date": "2025-11-04",
+      "close": 333.22
+    },
+    {
+      "date": "2025-11-05",
+      "close": 327.63
+    },
+    {
+      "date": "2025-11-06",
+      "close": 324.45
+    },
+    {
+      "date": "2025-11-07",
+      "close": 325.05
+    },
+    {
+      "date": "2025-11-10",
+      "close": 328.94
+    },
+    {
+      "date": "2025-11-11",
+      "close": 318.51
+    },
+    {
+      "date": "2025-11-12",
+      "close": 315.54
+    },
+    {
+      "date": "2025-11-13",
+      "close": 315.99
+    },
+    {
+      "date": "2025-11-14",
+      "close": 314.93
+    },
+    {
+      "date": "2025-11-17",
+      "close": 311.29
+    },
+    {
+      "date": "2025-11-18",
+      "close": 303.21
+    },
+    {
+      "date": "2025-11-19",
+      "close": 306.76
+    },
+    {
+      "date": "2025-11-20",
+      "close": 302.14
+    },
+    {
+      "date": "2025-11-21",
+      "close": 300.58
+    },
+    {
+      "date": "2025-11-24",
+      "close": 304.47
+    },
+    {
+      "date": "2025-11-25",
+      "close": 303.66
+    },
+    {
+      "date": "2025-11-26",
+      "close": 306.35
+    },
+    {
+      "date": "2025-11-28",
+      "close": 311.84
+    },
+    {
+      "date": "2025-12-01",
+      "close": 309.62
+    },
+    {
+      "date": "2025-12-02",
+      "close": 317.94
+    },
+    {
+      "date": "2025-12-03",
+      "close": 336.11
+    },
+    {
+      "date": "2025-12-04",
+      "close": 337.3
+    },
+    {
+      "date": "2025-12-05",
+      "close": 337.53
+    },
+    {
+      "date": "2025-12-08",
+      "close": 337.29
+    },
+    {
+      "date": "2025-12-09",
+      "close": 335.07
+    },
+    {
+      "date": "2025-12-10",
+      "close": 338.06
+    },
+    {
+      "date": "2025-12-11",
+      "close": 335.43
+    },
+    {
+      "date": "2025-12-12",
+      "close": 323.22
+    },
+    {
+      "date": "2025-12-15",
+      "close": 318.43
+    },
+    {
+      "date": "2025-12-16",
+      "close": 319.53
+    },
+    {
+      "date": "2025-12-17",
+      "close": 313.02
+    },
+    {
+      "date": "2025-12-18",
+      "close": 315.1
+    },
+    {
+      "date": "2025-12-19",
+      "close": 314.91
+    },
+    {
+      "date": "2025-12-22",
+      "close": 317.57
+    },
+    {
+      "date": "2025-12-23",
+      "close": 316.93
+    },
+    {
+      "date": "2025-12-24",
+      "close": 317.76
+    },
+    {
+      "date": "2025-12-26",
+      "close": 318.89
+    },
+    {
+      "date": "2025-12-29",
+      "close": 317.71
+    },
+    {
+      "date": "2025-12-30",
+      "close": 315.6
+    },
+    {
+      "date": "2025-12-31",
+      "close": 312.58
+    },
+    {
+      "date": "2026-01-02",
+      "close": 310.4
+    },
+    {
+      "date": "2026-01-05",
+      "close": 301.22
+    },
+    {
+      "date": "2026-01-06",
+      "close": 314.64
+    },
+    {
+      "date": "2026-01-07",
+      "close": 320.54
+    },
+    {
+      "date": "2026-01-08",
+      "close": 318.8
+    },
+    {
+      "date": "2026-01-09",
+      "close": 327.31
+    },
+    {
+      "date": "2026-01-12",
+      "close": 325.51
+    },
+    {
+      "date": "2026-01-13",
+      "close": 323.06
+    },
+    {
+      "date": "2026-01-14",
+      "close": 313.17
+    },
+    {
+      "date": "2026-01-15",
+      "close": 320.6
+    },
+    {
+      "date": "2026-01-16",
+      "close": 317.45
+    },
+    {
+      "date": "2026-01-20",
+      "close": 307.0
+    },
+    {
+      "date": "2026-01-21",
+      "close": 313.84
+    },
+    {
+      "date": "2026-01-22",
+      "close": 317.09
+    },
+    {
+      "date": "2026-01-23",
+      "close": 318.32
+    },
+    {
+      "date": "2026-01-26",
+      "close": 322.02
+    },
+    {
+      "date": "2026-01-27",
+      "close": 318.37
+    },
+    {
+      "date": "2026-01-28",
+      "close": 320.49
+    },
+    {
+      "date": "2026-01-29",
+      "close": 302.67
+    },
+    {
+      "date": "2026-01-30",
+      "close": 296.36
+    },
+    {
+      "date": "2026-02-02",
+      "close": 289.19
+    },
+    {
+      "date": "2026-02-03",
+      "close": 268.5
+    },
+    {
+      "date": "2026-02-04",
+      "close": 271.42
+    },
+    {
+      "date": "2026-02-05",
+      "close": 270.14
+    },
+    {
+      "date": "2026-02-06",
+      "close": 283.52
+    },
+    {
+      "date": "2026-02-09",
+      "close": 291.0
+    },
+    {
+      "date": "2026-02-10",
+      "close": 299.0
+    },
+    {
+      "date": "2026-02-11",
+      "close": 299.65
+    },
+    {
+      "date": "2026-02-12",
+      "close": 288.33
+    },
+    {
+      "date": "2026-02-13",
+      "close": 299.46
+    },
+    {
+      "date": "2026-02-17",
+      "close": 283.46
+    },
+    {
+      "date": "2026-02-18",
+      "close": 305.01
+    },
+    {
+      "date": "2026-02-19",
+      "close": 296.59
+    },
+    {
+      "date": "2026-02-20",
+      "close": 296.28
+    },
+    {
+      "date": "2026-02-23",
+      "close": 279.8
+    },
+    {
+      "date": "2026-02-24",
+      "close": 290.63
+    },
+    {
+      "date": "2026-02-25",
+      "close": 301.84
+    },
+    {
+      "date": "2026-02-26",
+      "close": 297.6
+    },
+    {
+      "date": "2026-02-27",
+      "close": 301.4
+    },
+    {
+      "date": "2026-03-02",
+      "close": 303.36
+    },
+    {
+      "date": "2026-03-03",
+      "close": 300.63
+    },
+    {
+      "date": "2026-03-04",
+      "close": 305.43
+    },
+    {
+      "date": "2026-03-05",
+      "close": 299.84
+    },
+    {
+      "date": "2026-03-06",
+      "close": 296.94
+    },
+    {
+      "date": "2026-03-09",
+      "close": 298.05
+    },
+    {
+      "date": "2026-03-10",
+      "close": 293.29
+    },
+    {
+      "date": "2026-03-11",
+      "close": 294.16
+    },
+    {
+      "date": "2026-03-12",
+      "close": 290.32
+    },
+    {
+      "date": "2026-03-13",
+      "close": 287.03
+    },
+    {
+      "date": "2026-03-16",
+      "close": 292.72
+    },
+    {
+      "date": "2026-03-17",
+      "close": 293.75
+    },
+    {
+      "date": "2026-03-18",
+      "close": 289.64
+    },
+    {
+      "date": "2026-03-19",
+      "close": 287.4
+    },
+    {
+      "date": "2026-03-20",
+      "close": 283.9
+    },
+    {
+      "date": "2026-03-23",
+      "close": 292.52
+    },
+    {
+      "date": "2026-03-24",
+      "close": 284.32
+    },
+    {
+      "date": "2026-03-25",
+      "close": 281.39
+    },
+    {
+      "date": "2026-03-26",
+      "close": 280.62
+    },
+    {
+      "date": "2026-03-27",
+      "close": 271.77
+    },
+    {
+      "date": "2026-03-30",
+      "close": 270.88
+    },
+    {
+      "date": "2026-03-31",
+      "close": 277.87
+    },
+    {
+      "date": "2026-04-01",
+      "close": 280.19
+    },
+    {
+      "date": "2026-04-02",
+      "close": 278.72
+    },
+    {
+      "date": "2026-04-06",
+      "close": 279.39
+    },
+    {
+      "date": "2026-04-07",
+      "close": 279.48
+    },
+    {
+      "date": "2026-04-08",
+      "close": 289.5
+    },
+    {
+      "date": "2026-04-09",
+      "close": 281.01
+    },
+    {
+      "date": "2026-04-10",
+      "close": 265.66
+    },
+    {
+      "date": "2026-04-13",
+      "close": 288.2
+    },
+    {
+      "date": "2026-04-14",
+      "close": 292.37
+    },
+    {
+      "date": "2026-04-15",
+      "close": 304.1
+    },
+    {
+      "date": "2026-04-16",
+      "close": 306.96
+    },
+    {
+      "date": "2026-04-17",
+      "close": 311.03
+    },
+    {
+      "date": "2026-04-20",
+      "close": 318.5
+    },
+    {
+      "date": "2026-04-21",
+      "close": 325.84
+    },
+    {
+      "date": "2026-04-22",
+      "close": 331.61
+    },
+    {
+      "date": "2026-04-23",
+      "close": 314.33
+    },
+    {
+      "date": "2026-04-24",
+      "close": 332.89
+    },
+    {
+      "date": "2026-04-27",
+      "close": 336.54
+    },
+    {
+      "date": "2026-04-28",
+      "close": 325.31
+    },
+    {
+      "date": "2026-04-29",
+      "close": 329.95
+    },
+    {
+      "date": "2026-04-30",
+      "close": 329.59
+    },
+    {
+      "date": "2026-05-01",
+      "close": 340.94
+    },
+    {
+      "date": "2026-05-04",
+      "close": 349.51
+    },
+    {
+      "date": "2026-05-05",
+      "close": 353.63
+    },
+    {
+      "date": "2026-05-06",
+      "close": 354.9
+    },
+    {
+      "date": "2026-05-07",
+      "close": 356.9
+    },
+    {
+      "date": "2026-05-08",
+      "close": 362.7
+    },
+    {
+      "date": "2026-05-11",
+      "close": 364.2
+    },
+    {
+      "date": "2026-05-12",
+      "close": 358.04
+    },
+    {
+      "date": "2026-05-13",
+      "close": 354.55
+    },
+    {
+      "date": "2026-05-14",
+      "close": 352.84
+    },
+    {
+      "date": "2026-05-15",
+      "close": 347.24
+    },
+    {
+      "date": "2026-05-18",
+      "close": 345.99
+    },
+    {
+      "date": "2026-05-19",
+      "close": 338.12
+    },
+    {
+      "date": "2026-05-20",
+      "close": 350.89
+    },
+    {
+      "date": "2026-05-21",
+      "close": 358.46
+    },
+    {
+      "date": "2026-05-22",
+      "close": 373.59
+    },
+    {
+      "date": "2026-05-26",
+      "close": 381.75
+    },
+    {
+      "date": "2026-05-27",
+      "close": 374.05
+    },
+    {
+      "date": "2026-05-28",
+      "close": 373.85
+    },
+    {
+      "date": "2026-05-29",
+      "close": 374.93
+    },
+    {
+      "date": "2026-06-01",
+      "close": 414.16
+    },
+    {
+      "date": "2026-06-02",
+      "close": 416.39
+    },
+    {
+      "date": "2026-06-03",
+      "close": 408.0
+    },
+    {
+      "date": "2026-06-04",
+      "close": 411.68
+    }
+  ],
+  "price_status": "ok"
+}

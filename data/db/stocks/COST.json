@@ -1,0 +1,361 @@
+{
+  "ticker": "COST",
+  "cashtag": "$COST",
+  "price_symbol": "COST",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-02-18",
+  "last_mention": "2026-03-08",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2024324583143428416",
+      "date": "2026-02-18",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$COST",
+      "text": "@KawzInvests Of course, not sure why people invest in HBM bottlenecks or InP substrate bottlenecks when we have Pistachios.\n\nCan go to $COST and start hoarding them.\n\nJokes aside it’s a weaker long, I’ll do a deeper list of beneficiaries.\n\nSome like Gold Reserve from the Venezuela post shot up 100%+ a day after, so it’s good to find little treasures like that.",
+      "url": "https://x.com/aleabitoreddit/status/2024324583143428416",
+      "kind": "reply",
+      "engagement": {
+        "views": 3345,
+        "likes": 13,
+        "reposts": 0,
+        "replies": 0
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2030667380855083222",
+      "date": "2026-03-08",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$COST",
+      "text": "The sentiment around KOSPI | $EWY (SK Hynix / Samsung) on \n\nCrude Oil / LNG / Helium either:\n\nDisrupting Supply or Compressing Margins are overblown. \n\nThe supply chain disruption and energy cost threats to SK Hynix, Samsung are sensationalized noise. \n\nHere's why:\n\n1. Crude Oil:\n\nThe a likely scenario if oil prices increase 31% and oil floats to $120/bbl:\n\nIn this case, the effect on oil has almost no material impact on SK Hynix and South Korean memory equities. \n\nThere are increased energy costs via oil-pegged LNG/JKM prices on Korean equities, mainly for companies surviving on razor-thin 5% to 10% margins.\n\nHowever, a KEPCO 70% rate hike has little material affect on Samsung/SK Hynix, given memory prices have soared with Samsung doubling NAND prices Q2. \n\nFrom disclosed financial from, their SK Hynix's annual electricity bill exceeds ₩1 trillion per DIGITIMES (~$750M). Which against FY2025 revenue of ₩97.15 trillion represents roughly 1–2% of revenue. \n\nSK Hynix posted a 58% operating margin in Q4 2025. Against this backdrop, the energy cost shock is small:\n\n If we model a 50% increase in energy costs: \n\n- Hit to SK Hynix quarterly OP (₩19.17T): ~₩134 billion-~₩146 billion (0.76%)\n\n- Hit to Samsung DS quarterly OP (₩16.4T): ~₩407 billion (2.4%)\n\nEvery 50% energy cost spike would shave roughly .7% off SK Hynix margins and 2.4% off Samsung operating margins. \n\nAnalysts project SK Hynix margins could reach 70%+ on conventional DRAM in 2026. Energy costs do not meaningfully threaten Korean semiconductor operating margins, even if they were to increase by 100%. \n\nHowever, this is material to companies with low operating margins of 5-10%\n\nThe Losers: Traditional heavy manufacturing (steel, basic chemicals, standard flat glass). \nThe Winners: Samsung/SK Hynix. \n\nThe main risk is second-order effects on supply chains such as increased material costs. This is very hard to model, but in an example where: \n\nan industrial company forces 30% price hikes on raw materials (chemicals, specialty gases), it barely dents the fabs. \n\nMaterials are roughly 15-20% of semiconductor COGS, so mathematically, a 30% spike in material costs only shaves an additional ~2% off SK Hynix's operating margins. \n\nA combined 3-4% direct (utilities) and indirect (materials) energy headwind is easily absorbed by an oligopoly printing 70% margins (and increasing prices). \n\nIn majority of cases, the costs likely get passed down to hyperscalers through NAND/DRAM price hikes. \n\nIn the very worst case scenario of oil prices increasing 3x or 5x. \n\nThe main affect on oil increasing hundreds of percent are two factors:\n\n- Global macroeconomic shock, causing global inflation (affecting every single company, from $GOOGL to $COST). \n\n- KRW (South korean Won) USD/KRW exchange rate blowout. \n\nKRW depreciation from sustained high oil is a real second order risk, but historically Korean memory exporters benefit from won weakness on the revenue side. The majority of Samsung/SK Hynix sales are dollar denominated wheras costs are won denominated. So a weaker KRW is actually margin accretive for exporters, which partially offsets the energy cost headwind. \n\nBut in an extreme case of oil prices hiking 5x, the only longs in that apocalyptic world are crude oil itself, defense contractors like $LMT / $NOC, domestic US energy producers, and the US Dollar. \n\nThis is unlikely to happen. \n\nThe financial media and algorithms will likely panic, but , if crude oil goes from $91 to $120 and KEPCO increases energy costs:\n\nThe data shows there's little affect on Samsung / SK Hynix in specific, and the main impact are on players with razer-thin operating margins. \n\n2. LNG:\n\nIf the Hormuz closed, the majority of South Korea’s LNG imports would be unaffected.  \n\nThe media has been quoting Hormuz + LNG flows going to China, INdia, SK, and Japan. But if we look at the trade data from South Korea, that’s just a fraction of their total imports.   \n\nMajority of imports arrive via Hormuz free routes, eg. Australia (24.6%), US (12.2%), Malaysia, Indonesia (~20%), and Russia/Sakhalin (~4.6%). Then the rest filled in with minor sources from Nigeria, Peru, Brunei, PNG, etc.\n\nThe 82% of 2024 important were long term contracts that were oil-indexed, and as we've modeled above, increasing energy costs would hurt opex by 1-2% per 50% increase, but given DRAM/NAND price hikes and operating margins hitting 70%+, this would make a very little dent. \n\nEven if they did, costs would be passed onto hyperscalers.\n\nSouth Korea learned their lesson from 2022 and diversified sources, and there's little impact on LNG supply disruption. The main concern is oil impacting hiking of LNG. \n\n3. Helium:\n\nSK Hynix statement:  “Long secured diverse supply chains and sufficient inventory\" of helium.   \n\n\"Therefore there is almost no chance that the company will be affected [by helium].\n\nThe reality is larger players like $TSM to SK Hynix have diversified their supply chains against foreign events. \n\nHelium is critical to semiconductor supply chains, but the media narrative is sensational. Especially when the largest memory company puts out an assertive statement that there’s no chance the company [SK Hynix] will be affected.\n\n_\n\nBut to South Korean equities in Samsung/SK Hynix, fears around Oil/LNG/Helium look disconnected from reality: \n\nThe algorithms selling off SK Hynix because of helium and KEPCO rate hikes are acting on bad math. It is fundamentally a supply chain non-issue. \n\nThe main threat is oil and energy costs on global macroeconomic shock affecting everything from consumer goods to inflation.\n\nMarch 3 \"Black Tuesday\" crash dropped KOSPI dropped 7.2% and SK Hynix fell 11.5% in a single session on exactly these energy security fears as the main catalyst. Of course, forced liquidations from leverage added fuel to the fire.  \n\nHowever, the disconnect between fundamentals and price action is the trade. If margins were actually threatened, the selloff would be justified. \n\nBut, the sell-off destroyed more value in one day than DECADES of hiked energy cost increases could have.\n\nThe fact that the math doesn't support the fear is precisely why it's Korea is a buy, as markets are selling off on emotion rather than looking at the structural expanding profitability despite increasing oil/energy costs.",
+      "url": "https://x.com/aleabitoreddit/status/2030667380855083222",
+      "kind": "post",
+      "engagement": {
+        "views": 347289,
+        "likes": 628,
+        "reposts": 60,
+        "replies": 57
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-02-18",
+      "close": 996.08
+    },
+    {
+      "date": "2026-02-19",
+      "close": 987.82
+    },
+    {
+      "date": "2026-02-20",
+      "close": 985.27
+    },
+    {
+      "date": "2026-02-23",
+      "close": 986.02
+    },
+    {
+      "date": "2026-02-24",
+      "close": 998.43
+    },
+    {
+      "date": "2026-02-25",
+      "close": 994.76
+    },
+    {
+      "date": "2026-02-26",
+      "close": 986.74
+    },
+    {
+      "date": "2026-02-27",
+      "close": 1010.79
+    },
+    {
+      "date": "2026-03-02",
+      "close": 1002.77
+    },
+    {
+      "date": "2026-03-03",
+      "close": 1007.77
+    },
+    {
+      "date": "2026-03-04",
+      "close": 1006.74
+    },
+    {
+      "date": "2026-03-05",
+      "close": 982.57
+    },
+    {
+      "date": "2026-03-06",
+      "close": 998.1
+    },
+    {
+      "date": "2026-03-09",
+      "close": 1005.3
+    },
+    {
+      "date": "2026-03-10",
+      "close": 997.36
+    },
+    {
+      "date": "2026-03-11",
+      "close": 992.23
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1003.32
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1008.43
+    },
+    {
+      "date": "2026-03-16",
+      "close": 1001.74
+    },
+    {
+      "date": "2026-03-17",
+      "close": 996.16
+    },
+    {
+      "date": "2026-03-18",
+      "close": 979.92
+    },
+    {
+      "date": "2026-03-19",
+      "close": 974.78
+    },
+    {
+      "date": "2026-03-20",
+      "close": 972.33
+    },
+    {
+      "date": "2026-03-23",
+      "close": 965.73
+    },
+    {
+      "date": "2026-03-24",
+      "close": 973.82
+    },
+    {
+      "date": "2026-03-25",
+      "close": 974.86
+    },
+    {
+      "date": "2026-03-26",
+      "close": 979.65
+    },
+    {
+      "date": "2026-03-27",
+      "close": 983.86
+    },
+    {
+      "date": "2026-03-30",
+      "close": 996.58
+    },
+    {
+      "date": "2026-03-31",
+      "close": 996.43
+    },
+    {
+      "date": "2026-04-01",
+      "close": 996.56
+    },
+    {
+      "date": "2026-04-02",
+      "close": 1014.96
+    },
+    {
+      "date": "2026-04-06",
+      "close": 1018.55
+    },
+    {
+      "date": "2026-04-07",
+      "close": 1013.21
+    },
+    {
+      "date": "2026-04-08",
+      "close": 1030.27
+    },
+    {
+      "date": "2026-04-09",
+      "close": 1032.03
+    },
+    {
+      "date": "2026-04-10",
+      "close": 998.47
+    },
+    {
+      "date": "2026-04-13",
+      "close": 980.85
+    },
+    {
+      "date": "2026-04-14",
+      "close": 974.8
+    },
+    {
+      "date": "2026-04-15",
+      "close": 984.75
+    },
+    {
+      "date": "2026-04-16",
+      "close": 987.21
+    },
+    {
+      "date": "2026-04-17",
+      "close": 999.89
+    },
+    {
+      "date": "2026-04-20",
+      "close": 997.84
+    },
+    {
+      "date": "2026-04-21",
+      "close": 1005.81
+    },
+    {
+      "date": "2026-04-22",
+      "close": 1003.7
+    },
+    {
+      "date": "2026-04-23",
+      "close": 1014.38
+    },
+    {
+      "date": "2026-04-24",
+      "close": 1011.15
+    },
+    {
+      "date": "2026-04-27",
+      "close": 998.01
+    },
+    {
+      "date": "2026-04-28",
+      "close": 994.02
+    },
+    {
+      "date": "2026-04-29",
+      "close": 998.67
+    },
+    {
+      "date": "2026-04-30",
+      "close": 1014.53
+    },
+    {
+      "date": "2026-05-01",
+      "close": 1011.7
+    },
+    {
+      "date": "2026-05-04",
+      "close": 1012.79
+    },
+    {
+      "date": "2026-05-05",
+      "close": 1016.42
+    },
+    {
+      "date": "2026-05-06",
+      "close": 995.75
+    },
+    {
+      "date": "2026-05-07",
+      "close": 1012.06
+    },
+    {
+      "date": "2026-05-08",
+      "close": 1008.79
+    },
+    {
+      "date": "2026-05-11",
+      "close": 999.47
+    },
+    {
+      "date": "2026-05-12",
+      "close": 1021.88
+    },
+    {
+      "date": "2026-05-13",
+      "close": 1033.08
+    },
+    {
+      "date": "2026-05-14",
+      "close": 1041.25
+    },
+    {
+      "date": "2026-05-15",
+      "close": 1048.95
+    },
+    {
+      "date": "2026-05-18",
+      "close": 1076.47
+    },
+    {
+      "date": "2026-05-19",
+      "close": 1094.3199
+    },
+    {
+      "date": "2026-05-20",
+      "close": 1074.01
+    },
+    {
+      "date": "2026-05-21",
+      "close": 1050.45
+    },
+    {
+      "date": "2026-05-22",
+      "close": 1028.24
+    },
+    {
+      "date": "2026-05-26",
+      "close": 1002.93
+    },
+    {
+      "date": "2026-05-27",
+      "close": 1003.69
+    },
+    {
+      "date": "2026-05-28",
+      "close": 995.2
+    },
+    {
+      "date": "2026-05-29",
+      "close": 956.32
+    },
+    {
+      "date": "2026-06-01",
+      "close": 946.11
+    },
+    {
+      "date": "2026-06-02",
+      "close": 954.27
+    },
+    {
+      "date": "2026-06-03",
+      "close": 961.83
+    },
+    {
+      "date": "2026-06-04",
+      "close": 972.35
+    }
+  ],
+  "price_status": "ok"
+}

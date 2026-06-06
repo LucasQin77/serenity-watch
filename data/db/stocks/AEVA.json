@@ -1,0 +1,705 @@
+{
+  "ticker": "AEVA",
+  "cashtag": "$AEVA",
+  "price_symbol": "AEVA",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-02-09",
+  "last_mention": "2026-05-25",
+  "total_mentions": 16,
+  "mentions": [
+    {
+      "tweet_id": "2020926882624176300",
+      "date": "2026-02-09",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "4D LiDAR",
+        "clearest functional midstream bottleneck exposure to 4D AI trend",
+        "speculative exposure to 4D AI + World Models for physical AI"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$AEVA",
+      "text": "Speaking of other bottlenecks like $AXTI.\n\nI’ve been looking into 4D AI.\n\nConvos with industry insiders leads me to believe it’s an upcoming trend eg. “World Models” for physical AI and humanoids post $NVDA Jensen’s conference.\n\nSo took positions into $AEVA which is 4D LiDAR.\n\nLooks like the clearest functional midstream bottleneck exposure to the trend, from my research? \n\nUnless someone has others they’d like to mention.\n\nThere’s stuff like $AMBA, $U (yes the games software), $TER, and $OUST but they’re larger companies without the clearest exposure.\n\nThat being said it’s still a new space so still doing research. Also, fundamentals are shaky, so this is more of a venture bet for the industry growth. \n\nDisclosure: I have long shares only of $AEVA, as speculative exposure to 4D AI + World Models for physical AI.",
+      "url": "https://x.com/aleabitoreddit/status/2020926882624176300",
+      "kind": "post",
+      "engagement": {
+        "views": 83500,
+        "likes": 348,
+        "reposts": 38,
+        "replies": 27
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2020934660986110264",
+      "date": "2026-02-09",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "FMCW solves the Deterministic Physical AI that world models need",
+        "gives velocity as a direct physical measurement via Doppler shift"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "@upand_right Apparently $OUST sits more in “Probabilistic AI”while $AEVA FMCW solves the Deterministic Physical AI that word models need\n\n“FMCW gives velocity as a direct physical measurement (Doppler shift) versus ToF requiring computational derivation across frames”. \n\nMaybe you can help articulate the nuance with $OUST and why you think it’s better exposure to 4D AI",
+      "url": "https://x.com/aleabitoreddit/status/2020934660986110264",
+      "kind": "reply",
+      "engagement": {
+        "views": 22836,
+        "likes": 32,
+        "reposts": 4,
+        "replies": 4
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2020937642867818529",
+      "date": "2026-02-09",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "one of the only companies that can provide Doppler-level precision for World Models",
+        "feeds in deterministic velocity data reducing compute cycles"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "@upand_right World* models.\n\nApparently if the world's most advanced World Models require Doppler-level precision, $AEVA is one of the only companies that can do it compared to companies to $OUST here?\n\nIf you give Cosmos \"probabilistic\" depth data (from $OUST ) the model has to spend massive amounts of compute cycles calculating where things are moving. $AEVA just feeds in deterministic velocity data. “If a model has to infer motion from sequential depth frames, that’s additional computation versus receiving velocity as a direct input”",
+      "url": "https://x.com/aleabitoreddit/status/2020937642867818529",
+      "kind": "self_thread",
+      "engagement": {
+        "views": 13366,
+        "likes": 27,
+        "reposts": 1,
+        "replies": 2
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2020941147636728186",
+      "date": "2026-02-09",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "venture bet on 4D AI",
+        "breakthrough for CPO using the same technology"
+      ],
+      "is_risk": true,
+      "conviction": "low",
+      "raw_mention": "$AEVA",
+      "text": "@Pashabd7 ~$14.1. So basically where prices are now.\n\nThat being said this is a small position since $AEVA company is inherently a venture bet on 4D AI. They also made a breakthrough for CPO using the same technology apparently.\n\nIt’s not generating massive FCF like $RDDT, but decided it was worth the risk.",
+      "url": "https://x.com/aleabitoreddit/status/2020941147636728186",
+      "kind": "reply",
+      "engagement": {
+        "views": 4274,
+        "likes": 10,
+        "reposts": 0,
+        "replies": 0
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2035897562025410927",
+      "date": "2026-03-22",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "long for 4D Physical AI + World Models",
+        "LG $50m investment to co-develop FMCW 4D LiDAR for humanoids",
+        "possible Boston Dynamics supply chain"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "If you don't remember:\n\n$AEVA was my long for 4D Physical AI + World Models.\n\n-> LG $50m in $AEVA to co-develop FMCW 4D LiDAR, explicitly citing Humanoids\n-> LG (Boston Dynamics vision spuplier).\n\nBut... \n\nGuess who makes those CW lasers for FM-CW Lidar?\n\nThe very same company for scaling photonics with 1.6T+ pluggables with $JBL to CPO in $MRVL Celestial.\n\nIs the likely 4D AI CW laser supplier for humanoids and 4D physical AI.\n\nOne highly possible mapping: \n\n-> $SIVE -> $AEVA -> $LG -> Boston Dynamics.\n\nBoth $SIVE and $AEVA were my two longs, but frontier sectors in 4D Physical AI to photonics tend to overlap.",
+      "url": "https://x.com/aleabitoreddit/status/2035897562025410927",
+      "kind": "post",
+      "engagement": {
+        "views": 81335,
+        "likes": 452,
+        "reposts": 26,
+        "replies": 35
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2035903801849499931",
+      "date": "2026-03-22",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "already invested in frontier tech company"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "@AscendingLife3 I just find it interesting when I’m already invested in a frontier tech company like $AEVA.\n\nThe other one in $SIVE happens to be their likely upstream supplier as well.",
+      "url": "https://x.com/aleabitoreddit/status/2035903801849499931",
+      "kind": "reply",
+      "engagement": {
+        "views": 7898,
+        "likes": 40,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2035917034824126916",
+      "date": "2026-03-22",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "likes it for humanoids specifically"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "@JuhongH $SIVE -&gt; $AEVA is already well known. \n\nPeople often cite $AEVA for more industrial stuff like trucking and maybe defense.\n\nBut I like it for humanoids in specific. And I don't think anyone mapped $SIVE to possible Boston Dynamics Atlas supply chains at all yet.",
+      "url": "https://x.com/aleabitoreddit/status/2035917034824126916",
+      "kind": "reply",
+      "engagement": {
+        "views": 7402,
+        "likes": 29,
+        "reposts": 3,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2049032343974007088",
+      "date": "2026-04-28",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "I'm happy Japanese communities started positions in $SIVE after doing research!\n\nA stronger international shareholder base is always positive.\n\nAs for some thoughts, my read on the market looks like:\n\n1. $NVDA bought out allocation from $LITE / $COHR\n2. $AMD CPO went with $GFS + $SIVE / Win for remaining laser supply maybe $LITE if there’s still allocation.\n3. And… $MRVL CPO will need lasers regardless.\n\n$SIVE looks like one of the last remaining pure play merchant laser suppliers. \n\nSo Marvell will go with $SIVE (fits Celestial specs already) directly with multi-source down the road (maybe $MTSI). After they vertically integrate away interposer packaging process IP that feeds into Celestial. \n\nJust some interesting things to back that up: \n\n-> Ayar removed $MTSI and $LITE from their website and went with $SIVE as primary. Ayar’s connected to AlChip/GUC and others. \n\n-> If look at the $GFS slide there's only two public players with $SIVE and $LITE after $AMD went with Globalfoundries for their CPO program. \n\n-> $SIVE likely has agreements with Win since last year for laser capacity scaling. \n\n$NVDA likely hasn't fully allocated that laser supply, so the remaining companies like $JBL, $AMD, and others go to Sivers for overflow. \n\nSince $LITE signaled they were already fully allocated for 2028.\n\nI could be wrong, but just based on public information that’s what it looks like.\n\nAs for why I think it's a good long: \n\n-> Sivers also basically had no exposure to 800G or previous generations.\n-> European markets price in previous 12 months revenue... hence previous depressed valuations\n-> they get all the hyperscaler overflow created by market panic from $NVDA\n\nBut they also happen to be in the bleeding edge of CPO and even for gen-2 1.6T ( $JBL LRO) scaling next year in 2027.\n\nThen for H2 2027 or 2028, they scale in adjacent areas like Silicon Photonics for likely $AAPL consumer devices. \n\nOr FMCW 4D AI companies like $AEVA.\n\nMany many years of development, finally coming to fruition next year.\n\nI personally think markets are missing something big here, that the public uncovers over time with mapping hyperscaler relationships, website digging, or presentation slides. \n\nHyperscalers suppliers don't randomly choose a $1B Swedish laser company for no reason. \n\nThe direct contract with $JBL was the biggest signal of that. \n\nAnd it’s my high conviction long moving forward.",
+      "url": "https://x.com/aleabitoreddit/status/2049032343974007088",
+      "kind": "post",
+      "engagement": {
+        "views": 240531,
+        "likes": 992,
+        "reposts": 81,
+        "replies": 71
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2051566667009073315",
+      "date": "2026-05-05",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "Just a recap of recent information discovery + likely mapping with $SIVE:\n \n-> $JBL 1.6T\n-> Lightmatter\n-> Ayar\n-> $MRVL Celestial\n-> Lightelligence \n-> $POET \n-> $GFS ecosystem\n-> $AMD CPO\n-> O-Net / Enablence\n-> $AAPL Silicon Photonics\n_\n-> $YSS Golden Dome/DoD\n-> $RTX / $ERIC (Space)\n-> Bae Systems\n-> $AEVA \n\nWith $JBL to Ayar feeding into hyperscalers like $MSFT, $GOOGL, $AMZN, $META.\n\nWith likely Lightelligence to O-Net feeding into Asian Hyperscalers like Tencent, Bytedance, and Baidu.\n\nOn top of that... the overarching TAM with CPO from the GS report goes from 0 ->  $91B. \n\nAnd Sivers happens to be the bleeding edge for CPO (also starting from 0). \n\nThis is definitely high-beta and volatile. \n\nBut if Win volume ramps alongside $SIVE, I see them both becoming $10B+ companies next year. \n\nThis is just extremely early on (H1) before the CPO supercycle starts H2 2026.",
+      "url": "https://x.com/aleabitoreddit/status/2051566667009073315",
+      "kind": "post",
+      "engagement": {
+        "views": 221930,
+        "likes": 1422,
+        "reposts": 104,
+        "replies": 93
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2052655255012409624",
+      "date": "2026-05-08",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "@rektusd101 $SIVE supplies lasers to likely $JBL, Ayar, Lightmatter, $POET, $MRVL Celestial, Lightelligence, $AMD, O-Net/Enablence, and others. \n\nNot including silicon photonics programs with $AAPL or $AEVA or their other CHIPS act related work. \n\nThe amount of hyperscaler they feed into is pretty crazy at that valuation.",
+      "url": "https://x.com/aleabitoreddit/status/2052655255012409624",
+      "kind": "reply",
+      "engagement": {
+        "views": 15865,
+        "likes": 201,
+        "reposts": 10,
+        "replies": 13
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2054335940026573222",
+      "date": "2026-05-12",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "Here's the humanoid exposure crowdsourced list:\n\n- $OUST \n- Rainbow Robotics (277810)\n- $AMBA \n- Ubtech Robotics\n- $MKA\n- Nextronics\n- $SYM\n- Harmonic Drive (6324)\n- $VPG \n- Beijing Geekplus\n- $MBLY\n- $ARBE \n- Nabtesco (6268)\n- $SERV\n- $HSYDF\n- Robotstrategy\n- $ZBRA\n- $CATL\n- $ABB \n- $BOT\n- Unitree (not public yet)\n- $LSCC \n- Esunny Robot (300024)\n- $NOVT\n- $RR\n- $PDY \n- Hesai (2525)\n- $SHA.DE\n- $XBOT\n- $XPEV\n- $BAM\n- $ALNT\n- 6268.T\n- $AMBQ\n- $ATOM\n- $MRAM\n- $ISRG\n- $HLIT\n- Robosense (2498)\n- $HG\n- $ACUVI\n- $CGNX\n- $KLIC\n- $BSL\n- $AEVA\n- $AUR\n- $CTH.V\n- $IMSR\n- $NEO\n- $KDK\n- $MRLN \n- $KITT\n- $INDI\n- $NOVT \n\nOff the top of my head:\n\nHarmonic Drive, $OUST, $BOT, $VPG, $MBLY, and Ubtech showed up the most. \n\nWill start doing DD into mentions.",
+      "url": "https://x.com/aleabitoreddit/status/2054335940026573222",
+      "kind": "post",
+      "engagement": {
+        "views": 736604,
+        "likes": 3593,
+        "reposts": 351,
+        "replies": 235
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2054868760629272850",
+      "date": "2026-05-14",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "start of volume production Q4 2026 with SIVE"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "$SIVE 2025 annual report analysis. \n\nTLDR: Extremely Bullish. \n\nSivers main growth vector is CPO, but they've TAM expansioned to pluggable transcivers + multiple new qualifications/development. \n\n1. \"We are currently seeing great interest...  testing our DFB lasers across multiple manufacturers in pluggable transceivers\"\n\nFor pluggable angle, we've seen this with $JBL 1.6T LRO already, but annual report hinted they're developing/qualifying with more hyperscaler suppliers.\n\n\"Our serviceable markets have now been expanded to include pluggable optical interconnects as well as scale-up and scale-out architectures for co-packaged\" (TAM expansion)\n\n2. \"Discussions with hyperscalers and pluggable transceiver suppliers indicate a shortage of CW lasers in the coming years\" \n\n$LITE already signaled CW laser bottlenecks, and they had to buy externally from competitors. So we kinda guessed CW Laser was a bottleneck. \n\nAnd this confirmed it, so was wondering about Win semi. \n\n\"The partnership announced with high-volume supplier Win Semiconductor in March 2025 now gives us a strong position to meet growing demand\"\n\n$SIVE likely has capacity locked in with Win from this nuance, which is exactly what I wanted to know. \n\nThis positions Sivers in the CW laser as both a bottleneck and CPO laser architectural leader. \n\nVOLUME PRODUCTION H2 INDICATIONS (BULLISH): \n\n3. \"The collaboration positions both companies to address the rapidly growing market for optical AI connectivity, with prototypes to be demonstrated to customers during the first half of 2026 and with the goal of scaling up production by the end of 2026\"\n\nH1 is more preproduction, H2 production signaled starting with names like $POET. \n\n4. \"We are pleased that our largest LIDAR customer will increase production starting in the fourth quarter of 2026\" \n\n$AEVA start of volume production Q4 with $SIVE = bullish for both. \n\nRevenue floor from LIDAR as their CPO scales. \n\n5. Sivers announced a partnership with LIGHTIUM AG to integrate their CW lasers directly onto TFLN wafers. 3.2T+ cycle. (future proofing)\n \nFYI no decent investor cares about last year's 2025 financials from development contracts aside from Swedish Media/Locals. \n\nEspecially when you're forward looking for the 2027-2028 CPO supercycle. \n\nBut the hint from you can take away from financials + geography that is $NOK is now the high confidence customer of $SIVE. \n\nTLDR:\n\n-> Win Semi implied capacity lock in during CW laser bottleneck \n-> Hints of new group of hyperscaler suppliers testing/qualification for pluggable transcivers, which is massive TAM expansion. \n-> New customers for CW lasers \n-> Volume production scaling starting H2 for both photonics and lidar.",
+      "url": "https://x.com/aleabitoreddit/status/2054868760629272850",
+      "kind": "post",
+      "engagement": {
+        "views": 649595,
+        "likes": 1993,
+        "reposts": 185,
+        "replies": 148
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2056640420008878330",
+      "date": "2026-05-19",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "Just putting it out there:\n\n$SIVE short interest is probably higher than 17%+ now.\n\nAs lot of local Swedish hedge funds are very underwater, shorting Sivers. \n\nThey're about to meet US institutions through: \n\n> MSCI inflow in 2 weeks. \n> NASDAQ Listing. \n> US CHIPS Act backstop. \n\nalongside core revenue driver from the optical supercycle revenue ramp from likely $AAPL, $JBL, $POET, Ayar, Onet/Enablence, Lightium, $AEVA, $MRVL, Lightmatter, Lightelligence, and $AMD over the next year or two. \n\nI personally don't think it's going to end well for the Swedish locals shorting (and some random algos) at this early stage. \n\nAnd the popular saying is every one stock short turns into a long eventually.",
+      "url": "https://x.com/aleabitoreddit/status/2056640420008878330",
+      "kind": "post",
+      "engagement": {
+        "views": 330667,
+        "likes": 1142,
+        "reposts": 65,
+        "replies": 184
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2058644487224848654",
+      "date": "2026-05-24",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "personally liked Aeva for 4D AI first",
+        "FMCW lidar for self-driving and robotics"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "Fun fact: Lot of the same companies are often used across different supply chains.\n\nOne likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: \n\nSivers -> $AEVA FMCW (CW DFB lasers) -> LG Innotek -> Boston Dynamics.\n\nI actually personally liked Aeva for 4D AI first. \n\nJust so happened to find out Sivers was their high confidence laser supplier for 4D FMCW lidar.  \n\nSo you actually get robotics exposure with photonics while the same CW lasers used for hyperscaler AI DCs. \n\nNear term revenue ramp though it's probably $SIVE supplying laser volume ramp for $NVDA self-driving car related architectures though Aeva. \n\nHumanoids are probably later in 2028? \n\nYou can always get more indirect exposure like MU with memory or $INTC with edge CPUs, but of course there's  more direct exposure out there. \n\nThink I've already covered a lot of names in the past like $VPG or Harmonic Drive. But hilariously enough CPO players like $SIVE are a core part of frontier physical AI development.",
+      "url": "https://x.com/aleabitoreddit/status/2058644487224848654",
+      "kind": "post",
+      "engagement": {
+        "views": 353250,
+        "likes": 983,
+        "reposts": 67,
+        "replies": 135
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2058649903300280586",
+      "date": "2026-05-24",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "@_king142 When I do my supply chain mapping... $SIVE is just so critically important to so many frontier industries. \n\nI'm not sure people are fully aware yet.\n\n$SIVE -> $AAPL, $NOK, $RTX (us defense contractrs), $YSS (golden dome). Not including Ericcson + others. \n\nThen you have $SIVE -> $AEVA -> Boston Dynamics / $NVDA self-driving architectural standards. \n\nThen you have $SIVE -> Celestial / $POET / Lightmatter / Lightelligence / Ayar / $JBL, and many others for CPO/1.6T. \n\nThose go to GUC/ALCHIP/Marvell -> hyperscalers. \n\nThen there's a ton more... Like their US Gov CHIPS Act work that are secretive. \n\nNormally with stuff like $POET, it's like \"hey\" you have 1 customer with a $50m purchase order, we know where that's going. \n\nNot some Swedish company with a smaller valuation, going into everywhere from Space, Robotics, AI, consumer segments...",
+      "url": "https://x.com/aleabitoreddit/status/2058649903300280586",
+      "kind": "reply",
+      "engagement": {
+        "views": 20321,
+        "likes": 201,
+        "reposts": 11,
+        "replies": 13
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059057639238365336",
+      "date": "2026-05-25",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AEVA",
+      "text": "$JBL literally announced in their fireside chat… \n\nMass production of their 1.6T LRO with excessive demand in 3-10 months.\n\n$SIVE is likely sole source laser supplier for this specific optical transceiver. \n\nAyar raised $500M for volume ramp recently, and $SIVE is the primary / sole source laser supplier.\n\n2025 annual report, $SIVE signaled start of volume ramp with both (likely) $AEVA and $POET. \n\nThis is how you do supply chain mapping on qualification cycles. \n\nAnything they make, Sivers makes revenue off lasers. \n\nIf you ask AI they will keep confidently citing 2024 revenue numbers without knowing volume hints.\n\nWhich is why I keep seeing these false claims like this over and over, despite Sivers being on the precipice of mass production for 2027.",
+      "url": "https://x.com/aleabitoreddit/status/2059057639238365336",
+      "kind": "post",
+      "engagement": {
+        "views": 349675,
+        "likes": 1040,
+        "reposts": 72,
+        "replies": 88
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-02-09",
+      "close": 14.0
+    },
+    {
+      "date": "2026-02-10",
+      "close": 12.94
+    },
+    {
+      "date": "2026-02-11",
+      "close": 12.74
+    },
+    {
+      "date": "2026-02-12",
+      "close": 12.83
+    },
+    {
+      "date": "2026-02-13",
+      "close": 13.58
+    },
+    {
+      "date": "2026-02-17",
+      "close": 12.9
+    },
+    {
+      "date": "2026-02-18",
+      "close": 12.96
+    },
+    {
+      "date": "2026-02-19",
+      "close": 12.87
+    },
+    {
+      "date": "2026-02-20",
+      "close": 12.54
+    },
+    {
+      "date": "2026-02-23",
+      "close": 12.46
+    },
+    {
+      "date": "2026-02-24",
+      "close": 13.06
+    },
+    {
+      "date": "2026-02-25",
+      "close": 13.64
+    },
+    {
+      "date": "2026-02-26",
+      "close": 13.64
+    },
+    {
+      "date": "2026-02-27",
+      "close": 13.26
+    },
+    {
+      "date": "2026-03-02",
+      "close": 14.5
+    },
+    {
+      "date": "2026-03-03",
+      "close": 13.97
+    },
+    {
+      "date": "2026-03-04",
+      "close": 15.01
+    },
+    {
+      "date": "2026-03-05",
+      "close": 15.08
+    },
+    {
+      "date": "2026-03-06",
+      "close": 14.17
+    },
+    {
+      "date": "2026-03-09",
+      "close": 14.76
+    },
+    {
+      "date": "2026-03-10",
+      "close": 16.2
+    },
+    {
+      "date": "2026-03-11",
+      "close": 16.71
+    },
+    {
+      "date": "2026-03-12",
+      "close": 15.3
+    },
+    {
+      "date": "2026-03-13",
+      "close": 15.16
+    },
+    {
+      "date": "2026-03-16",
+      "close": 15.55
+    },
+    {
+      "date": "2026-03-17",
+      "close": 15.67
+    },
+    {
+      "date": "2026-03-18",
+      "close": 14.6
+    },
+    {
+      "date": "2026-03-19",
+      "close": 15.21
+    },
+    {
+      "date": "2026-03-20",
+      "close": 14.11
+    },
+    {
+      "date": "2026-03-23",
+      "close": 15.38
+    },
+    {
+      "date": "2026-03-24",
+      "close": 15.46
+    },
+    {
+      "date": "2026-03-25",
+      "close": 15.26
+    },
+    {
+      "date": "2026-03-26",
+      "close": 14.2
+    },
+    {
+      "date": "2026-03-27",
+      "close": 12.765
+    },
+    {
+      "date": "2026-03-30",
+      "close": 11.62
+    },
+    {
+      "date": "2026-03-31",
+      "close": 13.16
+    },
+    {
+      "date": "2026-04-01",
+      "close": 13.2
+    },
+    {
+      "date": "2026-04-02",
+      "close": 13.23
+    },
+    {
+      "date": "2026-04-06",
+      "close": 12.69
+    },
+    {
+      "date": "2026-04-07",
+      "close": 12.55
+    },
+    {
+      "date": "2026-04-08",
+      "close": 13.01
+    },
+    {
+      "date": "2026-04-09",
+      "close": 13.05
+    },
+    {
+      "date": "2026-04-10",
+      "close": 13.35
+    },
+    {
+      "date": "2026-04-13",
+      "close": 13.6
+    },
+    {
+      "date": "2026-04-14",
+      "close": 14.12
+    },
+    {
+      "date": "2026-04-15",
+      "close": 14.93
+    },
+    {
+      "date": "2026-04-16",
+      "close": 14.76
+    },
+    {
+      "date": "2026-04-17",
+      "close": 15.73
+    },
+    {
+      "date": "2026-04-20",
+      "close": 15.79
+    },
+    {
+      "date": "2026-04-21",
+      "close": 16.53
+    },
+    {
+      "date": "2026-04-22",
+      "close": 16.32
+    },
+    {
+      "date": "2026-04-23",
+      "close": 15.49
+    },
+    {
+      "date": "2026-04-24",
+      "close": 16.17
+    },
+    {
+      "date": "2026-04-27",
+      "close": 16.08
+    },
+    {
+      "date": "2026-04-28",
+      "close": 15.61
+    },
+    {
+      "date": "2026-04-29",
+      "close": 14.74
+    },
+    {
+      "date": "2026-04-30",
+      "close": 15.99
+    },
+    {
+      "date": "2026-05-01",
+      "close": 16.48
+    },
+    {
+      "date": "2026-05-04",
+      "close": 15.73
+    },
+    {
+      "date": "2026-05-05",
+      "close": 15.24
+    },
+    {
+      "date": "2026-05-06",
+      "close": 16.57
+    },
+    {
+      "date": "2026-05-07",
+      "close": 13.66
+    },
+    {
+      "date": "2026-05-08",
+      "close": 13.57
+    },
+    {
+      "date": "2026-05-11",
+      "close": 15.53
+    },
+    {
+      "date": "2026-05-12",
+      "close": 19.09
+    },
+    {
+      "date": "2026-05-13",
+      "close": 20.26
+    },
+    {
+      "date": "2026-05-14",
+      "close": 21.23
+    },
+    {
+      "date": "2026-05-15",
+      "close": 20.475
+    },
+    {
+      "date": "2026-05-18",
+      "close": 19.45
+    },
+    {
+      "date": "2026-05-19",
+      "close": 19.0
+    },
+    {
+      "date": "2026-05-20",
+      "close": 21.11
+    },
+    {
+      "date": "2026-05-21",
+      "close": 21.49
+    },
+    {
+      "date": "2026-05-22",
+      "close": 25.32
+    },
+    {
+      "date": "2026-05-26",
+      "close": 28.13
+    },
+    {
+      "date": "2026-05-27",
+      "close": 29.29
+    },
+    {
+      "date": "2026-05-28",
+      "close": 25.84
+    },
+    {
+      "date": "2026-05-29",
+      "close": 28.18
+    },
+    {
+      "date": "2026-06-01",
+      "close": 27.81
+    },
+    {
+      "date": "2026-06-02",
+      "close": 27.76
+    },
+    {
+      "date": "2026-06-03",
+      "close": 25.31
+    },
+    {
+      "date": "2026-06-04",
+      "close": 24.4
+    }
+  ],
+  "price_status": "ok"
+}

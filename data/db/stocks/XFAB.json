@@ -1,0 +1,716 @@
+{
+  "ticker": "XFAB",
+  "cashtag": "$XFAB",
+  "price_symbol": "XFAB.PA",
+  "exchange": "Euronext Paris",
+  "currency": "EUR",
+  "ticker_mapped": true,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-05-27",
+  "last_mention": "2026-06-05",
+  "total_mentions": 26,
+  "mentions": [
+    {
+      "tweet_id": "2059537337324085541",
+      "date": "2026-05-27",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "photonics + power semis exposure",
+        "EU CHIPS act 2 catalyst for European photonics players",
+        "800 VDC power semi exposure to NVDA through NVTS + POWI",
+        "Silicon Photonics / CPO exposure with NVDA at evaluation stage for high volume manufacturing",
+        "only high-volume SiC foundry in the US",
+        "one of the critical MEMS foundries",
+        "~1.29 P/B depressed valuations due to legacy drag",
+        "~6.5-8.5 fwd p/e 2028 personal est",
+        "backstopped by Government EU CHIPS act $128M + US CHIPS act $50M",
+        "capex funded by Governments",
+        "markets probably missed silicon photonics relationship with Nvidia under photonixFAB name",
+        "$1.3B MC compelling if it can pull a Soitec reversal"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in.\n\nGiven EU CHIPS act 2 is today as the catalyst for European photonics players.\n\n> 800 VDC power semi exposure to $NVDA push through $NVTS + $POWI\n\n> Silicon Photonics / CPO exposure with $NVDA as evaluation stage for high volume manufacturing (optical transceivers/switches)\n\n> The only high-volume SiC foundry in the US.\n\n> One of the critical MEMS foundries \n\n> ~1.29 P/B, which was around what $SOI was sitting at when I went long. Depressed valuations due to legacy drag\n\n> ~6.5-8.5 fwd p/e 2028 personal est.\n\n> backstopped by Government:\n\n- EU CHIPS act, $128M Euros \n- US CHIPS act $50M PMT (department of commerce).\n\nWith likely more coming (just signals critical importance to Western supply chains).\n\nSo at a certain point with all the grants, they’re just getting the capex funded by the Governments. \n\nEU CHIPS act 2 is coming out this week, and I’m gonna go ahead and guess $XFAB might get included given they were before, and this package is specifically targeting photonics.\n\n~$1.3B MC seems compelling to me if it can pull a Soitec reversal (low p/b, very high growth segments, auto legacy drag).\n\nAs for the $NVDA silicon photonics relationships it’s under “photonixFAB”.\n\nMarkets probably missed this silicon photonics relationship (like $TSEM when I went long) with Nvidia since XFab leads this…  Just under a different name. \n\nFor power semis, XFAB is named for SiC + $NVTS. In PCN-22181, $POWI explicitly names XFAB as its foundry. \n\nGiven its exposure to power semis and photonics as growth, low P/B, gov backstop (of course dyor, just sharing my personal thoughts) \n\nThought it personally seemed compelling.",
+      "url": "https://x.com/aleabitoreddit/status/2059537337324085541",
+      "kind": "post",
+      "engagement": {
+        "views": 1465250,
+        "likes": 2281,
+        "reposts": 207,
+        "replies": 295
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059539081080795331",
+      "date": "2026-05-27",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "European photonics ecosystem and existing gov funding",
+        "power semi exposure for primary revenue growth",
+        "silicon photonics in EU ecosystem as extra",
+        "supporting and securing Western supply chains for AI"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@TheRomanTrader Yep, there’s a lot of interesting things going on with $XFAB in terms of European’s photonics ecosystem and existing gov funding.\n\nBasically power semi exposure, for primary revenue growth, and silicon photonics in EU ecosystem as extra.  \n\nRegardless I like the idea of supporting and securing Western supply chains for AI.",
+      "url": "https://x.com/aleabitoreddit/status/2059539081080795331",
+      "kind": "reply",
+      "engagement": {
+        "views": 52585,
+        "likes": 146,
+        "reposts": 3,
+        "replies": 3
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059543488514142317",
+      "date": "2026-05-27",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "familiar with private photonics companies working with XFAB"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@DisruptivePoltx Yeah they have close relationships with $IQE, $SOI and my other longs.\n\nWas familiar with a lot of the private photonics companies working with $XFAB so liked it a bit more.",
+      "url": "https://x.com/aleabitoreddit/status/2059543488514142317",
+      "kind": "reply",
+      "engagement": {
+        "views": 32682,
+        "likes": 80,
+        "reposts": 2,
+        "replies": 5
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059561586956837085",
+      "date": "2026-05-27",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "potential EU Chips Act 2 funding"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "Yeah would not be surprised to see $SIVE, $SOI, and $XFAB funding with EU Chips Act 2. \n\nGlad to all my longs there (aside from $IQE) listed on the blueprint, I didn’t see that earlier in my research!\n\nLooks like formal announcement got pushed back to next week though. https://t.co/2SdG4Gocql",
+      "url": "https://x.com/aleabitoreddit/status/2059561586956837085",
+      "kind": "post",
+      "engagement": {
+        "views": 469472,
+        "likes": 860,
+        "reposts": 63,
+        "replies": 127
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059647179493687718",
+      "date": "2026-05-27",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "tethered to power semis growth",
+        "silicon photonics upside optionality depending on NVDA/NOK evaluations"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@MalteAnkan20 $XFAB is more tethered to power semis growth.\n\nWith silicon photonics upside optionality depending on how $NVDA / $NOK evaluations go",
+      "url": "https://x.com/aleabitoreddit/status/2059647179493687718",
+      "kind": "reply",
+      "engagement": {
+        "views": 16618,
+        "likes": 107,
+        "reposts": 2,
+        "replies": 6
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059674880761860125",
+      "date": "2026-05-27",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "getting CHIPS ACT funding from EU",
+        "critical semiconductor foundry",
+        "NVDA/NOK evaluating their SiPH side",
+        "traded at low ~1.28 P/B",
+        "mentioned in CHIPS ACT 2 blueprints focusing on photonics",
+        "main revenue ramp around power semis with NVDA pushing 800 vdc",
+        "only high volume SiC foundry in US per Dept of Commerce",
+        "lesser known foundry in power semis market missed"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$XFAB",
+      "text": "Bro media… how is $XFAB a meme stock? \n\nCan you not repeat the same mistake with $RPI this time?\n\nThey’re literally getting CHIPS ACT funding from the EU because of how critical they are. \n\nAnd have $NVDA / $NOK evaluating their SiPH side of things, while they traded at a low ~1.28 P/B.\n\nThis just reminded me of $SOI low p/b but high growth verticals out of legacy segment drag.\n\n$XFAB was literally mentioned for CHIPS ACT 2 next week in the blueprints… Which focuses around photonics. \n\nThe main revenue ramp was around power semis with $NVDA pushing 800 vdc.\n\nSo $NVTS, $POWI, $WOLF and everyone have been taking off recently.\n\nMarkets just missed $XFAB, because they’re a lesser known foundry in power semis…But US Dpt. Of commerce pointed them out as the only high volume SiC foundry in the US 2Y ago. \n\n I just happened to point out the connections.\n\nJust because you don’t understand something, don’t just go call it a “meme stock” with price detached from fundamentals.",
+      "url": "https://x.com/aleabitoreddit/status/2059674880761860125",
+      "kind": "post",
+      "engagement": {
+        "views": 279008,
+        "likes": 1149,
+        "reposts": 59,
+        "replies": 531
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059848338028241193",
+      "date": "2026-05-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "800 vdc power semis with NVDA exposure",
+        "ongoing NVDA/NOK evaluations for photonics",
+        "CHIPS Act semiconductor sovereignty as near term catalyst"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "Appreciate the more neutral coverage by Reuters and Bloomberg on $XFAB today.\n\nAlthough it would be nicer to focus more on the structural thesis presented…\n\nAround 800 vdc power semis $NVDA exposure + with ongoing $NVDA / $NOK evaluations for photonics.\n\nAnd around CHIPS Act semiconductor sovereignty as the near term catalyst.\n\nRather than around volatility from novel information synthesis. \n\nI spend a lot of time looking at regulatory filings to find compelling things market missed you know…",
+      "url": "https://x.com/aleabitoreddit/status/2059848338028241193",
+      "kind": "post",
+      "engagement": {
+        "views": 470552,
+        "likes": 1046,
+        "reposts": 55,
+        "replies": 175
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059974528768659756",
+      "date": "2026-05-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "very compelling at $1.5B MC",
+        "only high volume SiC foundry in America per NIST filings",
+        "extremely critical infrastructure per US Gov",
+        "first comprehensive pure play foundry for SiC/GaN",
+        "listed in CHIPS Act 2 blueprints",
+        "production ramp up in 2027/volume production H1 2028",
+        "critical on power semis front to US government",
+        "critical on photonics front to EU government",
+        "expected dual continent subsidies",
+        "coming off legacy drag cycle"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$XFAB",
+      "text": "I genuinely think $XFAB is very compelling at $1.5B MC, despite recent volatility. \n\nPer NIST filings stated they were the only high volume SiC foundry in America.\n\nMaking them extremely “critical infrastructure”… Verbatim from the US Gov.\n\nAnd they’re the first comprehensive pure play foundry for SiC/GaN. \n\nSo it’s very compelling exposure as  $NVDA pushes 800 VDC and as other power semi players from $NVTS and $WOLF are all re-rating hard.\n\nFor long term photonics exposure:\n\nThey were literally listed in CHIPS Act 2 blueprints… with $NOK / $NVDA evaluations right now. \n\nAnd production ramp up in 2027/volume production H1 2028 expected.\n\nSo you have a company at $1.5B MC:\n\nCritical both on the power semis front to the US government.\n\nAnd critical to both photonics front to the EU government.  \n\nComing off of a legacy drag cycle with auto and others (similar to Soitec).\n\nI think I’d follow EU/US government signals for what’s critical infrastructure given expected dual continent subsidies…\n\nOver random media analysts trying to cause unnecessary volatility saying it’s a memestock with no fundamentals.",
+      "url": "https://x.com/aleabitoreddit/status/2059974528768659756",
+      "kind": "post",
+      "engagement": {
+        "views": 255241,
+        "likes": 1167,
+        "reposts": 114,
+        "replies": 219
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059976773190946940",
+      "date": "2026-05-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "critical node critical to US supply chains"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "@Orcawellian There was a wave of negative news when I first went long on $SOI that caused unnecessary volatility.\n\nIt’s now up 300%, turned out institutions bought up the float, after my thesis. \n\nRegardless of unintended volatility, my goal is to secure critical nodes critical to the US supply chains like $XFAB.",
+      "url": "https://x.com/aleabitoreddit/status/2059976773190946940",
+      "kind": "reply",
+      "engagement": {
+        "views": 12924,
+        "likes": 86,
+        "reposts": 0,
+        "replies": 6
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059977635061706817",
+      "date": "2026-05-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "interested in long term growth vectors with power semis/photonics"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "@reedy1991 I mean all my European longs from $SOI, $IQE, $RPI, $SIVE, $ALRIB followed this trend if we just look at chart.\n\nLong term they’ve all ended up directionally right, and now they’re all up hundreds of percent. \n\nI don’t control or trade volatility with $XFAB, but interested in being a part of their long term growth vectors with power semis/photonics.",
+      "url": "https://x.com/aleabitoreddit/status/2059977635061706817",
+      "kind": "reply",
+      "engagement": {
+        "views": 15382,
+        "likes": 149,
+        "reposts": 4,
+        "replies": 8
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2059981363684802708",
+      "date": "2026-05-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "Just in case people are wondering about my track record with European equities:\n\n$RPI: $280 -> $800 (agentic AI hardware demand thesis).\n\n$LPK: ~$6, thesis at $13 -> $24.2 (glass cores substrates close monopoly) \n\n$SOI: $44 -> $181 (silicon photonics, monopoly over substrates) \n\n$SIVE: $4 -> $71 (CPO, critical chokepoints over lasers).\n\n$IQE: $12 -> $47 (latent epiwafer capacity, information discovery around downstream photonics companies).\n\n$ALRIB: $5 -> $15 (duopoly, synthesis around quantum buyers with photonics growth verticals).\n\nAnd now $XFAB at $9.\n\nI’m not always right. \n\nBut every single one of my European longs thesis have been validated so far by either earnings, investments (eg. $MTSI in IQE) or market returns.",
+      "url": "https://x.com/aleabitoreddit/status/2059981363684802708",
+      "kind": "post",
+      "engagement": {
+        "views": 326679,
+        "likes": 1700,
+        "reposts": 150,
+        "replies": 274
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2060536520952754374",
+      "date": "2026-05-29",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "probably central to EU CHIPS act 2 for silicon photonics",
+        "SiC/GaN foundries should go brr with 800vdc push by Nvidia",
+        "only high volume one in United States per Dpt. of Commerce",
+        "low price/book ratio so getting company upside for free",
+        "US Gov/EU Gov subsidize their capex"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "- $AAOI at $12B\n- $SIVE at $2B\n- Foci at $2.8B\n- Shunsin at $2B \n\nUsually the best risk/reward to me currently. Lot of my answers before like $AXTI already 10x’d, so different lineup this time. \n\n$AAOI due to absurd H1 2027 revenue projections from capacity ramp, doing everything from laser fab to assembly in America. \n\n$471M/month… that’s in 2027, the TAM increases exponentially in 2028.\n\n$SIVE is also ramping absurdly high, 77% revenue pipeline growth of the entire company’s history to ~$799M\n\nPrimarily from photonics… in a single quarter. And they’re projecting 60% gross margins off that.\n\nFoci - $NVDA / $TSM primarily FAU supplier and bottleneck for COUPE. Genuinely not sure how this is $2.8B.\n\nBOM share for their passive components + FAU are massive in 2028. Just a bit early H1 2026.\n\nShunsin - Legit you see Foxconn get CPO/photonics related orders over and over for $NVDA and others.\n\nJust nobody knows the packaging/testing gets done by Shunsin.\n\nA lot of contracts are also under Shunsin’s subsidiary too.. so markets/algorithms don’t know what’s coming imo.\n\nRunner up is $XFAB, they’ll probably be central to EU CHIPS act 2 for silicon photonics at ~$1.5B MC.\n\nAnd of course SiC/GaN foundries should go brr with 800vdc push by Nvidia. \n\nEspecially if they’re the only high volume one in United States per Dpt. Of Commerce. \n\nAnd it’s such a low price/book ratio so you’re kinda getting the company upside for free, while US Gov/EU Gov subsidize their capex.",
+      "url": "https://x.com/aleabitoreddit/status/2060536520952754374",
+      "kind": "post",
+      "engagement": {
+        "views": 887245,
+        "likes": 2887,
+        "reposts": 309,
+        "replies": 255
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2060837455881031876",
+      "date": "2026-05-30",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "Very grateful for the objective coverage in De Tijd!\n\nIt’s cool to see my work in Belgium's top newspaper.\n\nAlso very refreshing to see a journalist cover $AAOI, $XFAB, $MRVL Celestial, and the nuances behind my supply chain thesis in CPO + Photonics.\n\nTy KLismont for the photo. https://t.co/1GdLxJHAsN",
+      "url": "https://x.com/aleabitoreddit/status/2060837455881031876",
+      "kind": "post",
+      "engagement": {
+        "views": 522432,
+        "likes": 1527,
+        "reposts": 74,
+        "replies": 131
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2060857487834878280",
+      "date": "2026-05-30",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@Noamneo_ $SIVE is an extremely singular case just because of major US presence already from customers, cap table, CHIPS acts, and others.\n\nStaying primarily in Sweden with a local market that tries to hinder their growth, isn’t ideal.\n\nI wouldn’t say the same redomestication is the right path for other primary EU firms like $XFAB or $IQE and would encourage local European growth there given EU supply chains.",
+      "url": "https://x.com/aleabitoreddit/status/2060857487834878280",
+      "kind": "reply",
+      "engagement": {
+        "views": 13328,
+        "likes": 119,
+        "reposts": 4,
+        "replies": 9
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061348882685243497",
+      "date": "2026-06-01",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "only high volume SiC foundry in America",
+        "SiC revenue 152% Y/Y growth likely missed by market",
+        "advanced 6in SiC, 8in GaN on Si, building 8in GaN",
+        "likely developing 8in SiC from CHIPS backing",
+        "US Dept of Commerce cites as only high volume SiC foundry, $50M PMT",
+        "dual continent subsidies from US and EU governments",
+        "critical MEMS foundry adds upside",
+        "$47.6M EU funding for leading Silicon Photonics supply chain",
+        "NVDA and NOK qualifying them for silicon photonics HVM",
+        "CHIPS act 2 coming out as near term catalyst",
+        "trading at 1.28 p/b, true replacement p/b likely ~0.5-0.7",
+        "likely trading lower than replacement value",
+        "derisked by p/b values plus replacement value",
+        "downside risk seems low but upside compelling",
+        "2.5-4x rerating seems possible/likely",
+        "silicon photonics longer term upside with SiC/GaN bridge near term"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$XFAB",
+      "text": "Just some mobile shower thoughts around $XFAB and train of thought:\n\n1. 800vdc $NVDA push look for GaN/SiC players / power semis.\n\n2. $NVTS and other fabless/fab-lite beneficiaries of $NVDA push probably use foundry models \n\n3. care more about Western supply chains over Asia, want to build up Western capabilities + Western premiums. \n\n4 China has a lot of capacity, maybe risk into 2028, but again it’s building up Western supply chains \n\n5. XFAB only high volume SiC foundry in America (others like $ON or Infineon are vertically integrated)\n\n6. advanced 6in SiC, 8in GaN on Si, building out 8in GaN\n\n7. Maybe likely they’re developing 8in SiC from CHIPS backing, just not public material\n\n8. check SiC revenue -> 152% Y/Y growth okay. Probably something markets missed, since blended looks worse from automotive slump, that should come out recovery\n\n9. $NVTS and others turns out to use $XFAB. $POWI cites $XFAB in filings, among others.\n\n10. both are $NVDA power semi explicit partners, great exposure indicator to 800vdc power semi players. \n\n11. US Dpt. of commerce cites $XFAB as only high volume SiC foundry in the US, $50M PMT\n\n12. validation from US Gov about critical component in supply chains is amazing \n\n13. EU CHIPS Act gives $XFAB $128M EU, for foundry (MEMS, AI, etc), okay turns out they’re critical MEMS player\n\n14. So that’s validation from EU gov about critical component in supply chains, dual continent subsidies\n\n15. So now we know $XFAB is a critical MEMS foundry so you get SiC capabilities, GaN development, and MEMS upside\n\n16. they also got $47.6M EU funding for leading Silicon Photonics supply chain in EU. So that’s EU funding on multiple angles. \n\n17. Turns out, I know all the players there from smartphotonics from $GFS deck.\n\n18. $NVDA and $NOK are qualifying them for silicon photonics HVM. I think this is just a government backing angle for success in EU photonics so likely to succeed… kinda like how Us gov encourages everyone to use $INTC. \n\n19. Okay chips act 2 is coming out next week… so they’ll probably get funding there or more revenue commitments \n\n20. 1.28 p/b, now that’s probably just book cost? Likely coming out of $SOI type legacy drag cycle.\n\n21. Did some modeling around actually replacement values, true replacement p/b cost likely ~.5/.7.\n\n22. Getting business for free, while having upside from SiC near term into Silicon Photonics / GaN as main growth past H2 2027.\n\nThoughts: derisked by p/b values + replacement value. maybe like 20% downside from macro.\n\nHowever, critical dual continent importance. So downside risk seems low, but upside is compelling. \n\nLot of capex likely backstopped by upcoming chips act catalyst + national security concerns. \n\nMaybe 2.5-4x rerating seems possible/likely. \n\nNot a 10-20x, but recovery from depressed valuations from silicon photonics upside with SiC / GaN bridge.  \n\nTLDR: likely trading lower than replacement value, dual continent subsidies likely subsidize capex.\n\nGov grants shows importance to Western supply chains, photonics longer term upside, SiC/GaN demand likely near term upside and bridge. \n\nDon’t control any recent volatility, should shake out anyone not really confident in the thesis though. \n\nCHIPS act 2 from EU is coming up, $XFAB was listed in earlier blueprints for optical ecosystem, so should get a boost after that comes out as near term event catalysts.\n\nSo now is the risk reward seems compelling, we’ll see if this is right or not",
+      "url": "https://x.com/aleabitoreddit/status/2061348882685243497",
+      "kind": "post",
+      "engagement": {
+        "views": 344862,
+        "likes": 952,
+        "reposts": 114,
+        "replies": 91
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061353640812515790",
+      "date": "2026-06-01",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "close to P/B value and lower than actual cost of asset replacement value",
+        "cyclical slump 2025 already dragged it down",
+        "growth verticals in power semis to silicon photonics to carry valuations"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "@MatteoDeDycker From what I’ve seen, cyclical slump 2025. $XFAB was already dragged down, since it’s close to P/B value and lower than actual cost of asset replacement value from personal est.\n\nFor Melexis, it’s also a guess we’re near the bottom of automotive cycle for legacy drag kinda like $SOI. \n\nTo allow for growth verticals in power semis to silicon photonics to carry valuations.",
+      "url": "https://x.com/aleabitoreddit/status/2061353640812515790",
+      "kind": "reply",
+      "engagement": {
+        "views": 13057,
+        "likes": 68,
+        "reposts": 1,
+        "replies": 4
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061466217911853429",
+      "date": "2026-06-01",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "A special thank you to the only European stock green today: $IQE. \n\nUp to $54, from when I went long at $12-13, 4 months ago. \n\nUnfortunately lot of volatility with the other ones from $LPK, $SOI, $XFAB, and $ALRIB. https://t.co/FysZyHk5OK",
+      "url": "https://x.com/aleabitoreddit/status/2061466217911853429",
+      "kind": "post",
+      "engagement": {
+        "views": 264992,
+        "likes": 686,
+        "reposts": 41,
+        "replies": 228
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061799291681956348",
+      "date": "2026-06-02",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "sub $2B market cap",
+        "NVDA and NOK validating pre-commercial silicon photonics foundry (photonixFAB)",
+        "CHIPS act/Gov grants subsidizing capex",
+        "leading Europe's photonics supply chain effort",
+        "power semi SiC/GaN operations and assets come for free",
+        "listed in CHIPS act 2 photonics blueprints",
+        "believes markets have missed it"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "Tbh $XFAB lowkey reminds me of early $TSEM.\n\nJust sub <$2B MC.\n\nYou basically never find a company with $NVDA and $NOK actively validating your pre-commercial silicon photonics foundry… (photonixFAB)\n\nWhile getting CHIPS act/Gov grants to subsidize capex.\n\nWhile leading the Europe’s effort to build a photonics supply chain. \n\nFeels like that alone would justify valuations… but you get the power semi SiC/GaN operations for free too and all its assets. \n\nCHIPS act 2 is coming out tomorrow, and $XFAB is listed in the photonics blueprints.\n\nDid I miss something? \n\nOr did markets miss something?",
+      "url": "https://x.com/aleabitoreddit/status/2061799291681956348",
+      "kind": "post",
+      "engagement": {
+        "views": 484739,
+        "likes": 1764,
+        "reposts": 127,
+        "replies": 243
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061806782226604188",
+      "date": "2026-06-02",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "surprised about low valuations given leading Europe's photonics supply chain development"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "@StocksAREnuts Yeah I’m up like 250% on $SOI, I’m surprised markets missed the at one…\n\nAlso quite surprised about $XFAB valuations given they seem to be leading Europe’s photonics supply chain development…",
+      "url": "https://x.com/aleabitoreddit/status/2061806782226604188",
+      "kind": "reply",
+      "engagement": {
+        "views": 33125,
+        "likes": 158,
+        "reposts": 4,
+        "replies": 7
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062045895500419101",
+      "date": "2026-06-03",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "highlighted in EU Industry Policy Blueprints",
+        "leading Europe's SiPH value chain",
+        "Nokia and Nvidia evaluating them for photonics HVM",
+        "expected large beneficiary of CHIPS ACT 2.0",
+        "sovereign backing with €30–500M financing facilities",
+        "structural tailwind to photonics critical to EU supply chains"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$XFAB",
+      "text": "Europe is releasing its Tech Sovereignty Package, today June 3rd. \n\nThis includes, CHIPS ACT 2.0, which is expected to prioritize photonics. \n\nBoth $XFAB and $SIVE are highlighted in the Industry Policy Blueprints, which guides EU legislation.\n\nThis proposes sovereign backing with €30–500 million financing facilities per company and revenue demand incentivizes. \n\nTo bridge early European companies to volume production. \n\nI personally expect my two thesis ideas to be large beneficiaries:\n\n- $XFAB, given they're leading Europe's SiPH value chain, with Nokia and Nvidia evaluating them for photonics HVM. \n\n- and $SIVE as Europe's leader for lasers in AI datacenters, scaling lasers to mass production in 2027. \n\nMore details will be announced today, but this is a structural tailwind to photonics critical to Western and especially EU supply chains.",
+      "url": "https://x.com/aleabitoreddit/status/2062045895500419101",
+      "kind": "post",
+      "engagement": {
+        "views": 286326,
+        "likes": 1577,
+        "reposts": 138,
+        "replies": 117
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062047308825681943",
+      "date": "2026-06-03",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "maps better to EU policy incentives for bridging pre-volume production players to HVM"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@aphexinvests So $SOI and $NOK are already more established. \n\nI looked into it deeper, and the proposals were focused around 30-500M funding and revenue incentives, to bridge the pre-volume production players to HVM. \n\n$SIVE / $XFAB map to policy incentives better, but wouldn't be surprised if larger players were there.",
+      "url": "https://x.com/aleabitoreddit/status/2062047308825681943",
+      "kind": "reply",
+      "engagement": {
+        "views": 26740,
+        "likes": 134,
+        "reposts": 4,
+        "replies": 5
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062139870613745890",
+      "date": "2026-06-03",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT and US CHIPS ACT PMT",
+        "below replacement P/B value",
+        "NVDA and NOK direct eval of pre-commercial SiPH foundry, volume ramping 2027/2028",
+        "leading high-volume scaling of Europe's photonic supply chains as the foundry",
+        "US Dpt. of Commerce calls it the only high-volume SiC foundry in the U.S.",
+        "unfavorable comparison to POET implies XFAB is undervalued"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$XFAB",
+      "text": "The difference between NASDAQ and EU listing:\n\n$POET: $2.4B MC\n-> Packages Sivers lasers\n-> One $50m pre-production contract for warrants\n\n> $XFAB: $1.7B MC\n->SiC/GaN/MEMS/Silicon Photonics Foundry backed with EU CHIPS ACT, US CHIPS ACT PMT\n-> Below replacement P/B value\n-> $NVDA, $NOK direct eval of their pre-commercial SiPH foundry, volume ramping 2027/2028\n-> $XFAB leading high-volume scaling of Europe's photonic supply chains as the foundry, with IMEC/CEA-Leti, Ligentec, Smart photonics, PHIX Photonics, Luceda Photonics, and Europe's photonic players under it.  \n-> Leading customers like $NVTS, $POWI, Lite-On\n-> US from Dpt. of Commerce: \"the only high-volume SiC foundry in the U.S.\"",
+      "url": "https://x.com/aleabitoreddit/status/2062139870613745890",
+      "kind": "post",
+      "engagement": {
+        "views": 348495,
+        "likes": 1335,
+        "reposts": 98,
+        "replies": 152
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062149169767395809",
+      "date": "2026-06-03",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@KayEffGeee $XFAB suddenly rose 7%, I wonder if there was any mention there. I'll go through transcripts now.",
+      "url": "https://x.com/aleabitoreddit/status/2062149169767395809",
+      "kind": "reply",
+      "engagement": {
+        "views": 22640,
+        "likes": 112,
+        "reposts": 2,
+        "replies": 10
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062155740660588710",
+      "date": "2026-06-03",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "CHIPS ACT 2 just published and photonics was added",
+        "XFAB mentioned in some related reports"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "@laadred No, its because CHIPS ACT 2 was just published now and photonics was added. \n\n\"photonics and photonic integrated circuits to the reinforced Chips for Europe Initiative 2.0\"\n\n$XFAB is mentioned in some reports. The documents are too long still going through everything now. https://t.co/oFTWd0SXT8",
+      "url": "https://x.com/aleabitoreddit/status/2062155740660588710",
+      "kind": "reply",
+      "engagement": {
+        "views": 26861,
+        "likes": 205,
+        "reposts": 6,
+        "replies": 18
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062176094162428410",
+      "date": "2026-06-03",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "directly mentioned in EU impact analysis",
+        "leading the European Silicon Photonics Value chain",
+        "listed in First of a Kind (FOAK) category",
+        "policy focuses on co-packaging and heterogeneous integration with electronic chips"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$XFAB",
+      "text": "EU CHIPS Act 2.0 proposal is now released. \n\nGreat news: Photonics is now confirmed to be the new structural addition to EU policy. \n\nThis is thematically bullish for the EU photonics sector. \n\nThematically:\n\n- \"This new component of the Chips for Europe Initiative supports the development of photonic integrated circuits and associated technologies\"\n\n- \"building and strengthening advanced design, prototyping, and industrial deployment capacities for photonic integrated circuit technologies and other photonic technologies across the Union\"\n\n- \"extend the Union’s design capabilities, including in photonics\"\n\n- \"strengthen existing and develop new pilot lines and open-access semiconductor manufacturing facilities for the prototyping and production of photonic integrated circuits and associated photonic technologies\n\n- \"develop and maintain design libraries and design automation tools for photonic integrated circuits, associated photonic technologies\"\n\n===\n\nMore specifically policy specifically focuses on\n\n-> co-packaged optics for AI data centres (CPO/interconnects focus is bullish read through for $SIVE)\n\n-> “Silicon photonics … applications in high-bandwidth data-centre interconnects…”\n\n-> Capabilities in production technologies including co-packaging and heterogeneous integration with electronic chips, manufacturing equipment, and materials platforms for photonic integrated circuits shall be strengthened ( $XFAB)\n\n-> $SOI directly mentioned in impact analysis regarding structural strengths of the EU. \"The EU has a relatively strong global position in SOI wafers, with Soitec and Siltronic being notable players\"\n\n-> $XFAB also directly mentioned in impact analysis, as part of creating the current funding framework. \n\nObviously structurally positive for $XFAB since they're literally leading the European Silicon Photonics Value chain and listed in First of a Kind (FOAK) category.\n\nInitial interpretation, this is heavily positive for EU photonics leaders that go inside AI DCs as part of EU Policy.  I'm expecting optical players broadly to get a tailwind from this framework. \n\nTLDR: EU photonics structurally go brrr long term. Most positive confirmation is that photonics is structurally a part of European Union policy now. \n\nWe'll likely see the individual photonics names come out after this release, within 3-15 months (typically in the middle somewhere). Markets are forward looking in general.",
+      "url": "https://x.com/aleabitoreddit/status/2062176094162428410",
+      "kind": "post",
+      "engagement": {
+        "views": 281103,
+        "likes": 1502,
+        "reposts": 125,
+        "replies": 178
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062827101263417471",
+      "date": "2026-06-05",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "silicon photonics platform with NVDA and NOK scales H2 2027/2028",
+        "heavily derisked precommercial long",
+        "looks like the next TSEM",
+        "upside from SiC/GaN"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$XFAB",
+      "text": "@Jornka329996 Are you high, I posted about $XFAB this week. \n\nTheir silicon photonics platform with $NVDA and $NOK scales h2 2027 / 2028.\n\nI think it’s a heavily derisked precommercial long that looks like the next $TSEM. With upside from SiC/GaN.\n\nJust needs time.",
+      "url": "https://x.com/aleabitoreddit/status/2062827101263417471",
+      "kind": "reply",
+      "engagement": {
+        "views": 19488,
+        "likes": 176,
+        "reposts": 4,
+        "replies": 12
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-05-27",
+      "close": 12.0
+    },
+    {
+      "date": "2026-05-28",
+      "close": 11.36
+    },
+    {
+      "date": "2026-05-29",
+      "close": 10.76
+    },
+    {
+      "date": "2026-06-01",
+      "close": 9.645
+    },
+    {
+      "date": "2026-06-02",
+      "close": 11.63
+    },
+    {
+      "date": "2026-06-03",
+      "close": 12.2
+    },
+    {
+      "date": "2026-06-04",
+      "close": 10.88
+    },
+    {
+      "date": "2026-06-05",
+      "close": 10.26
+    }
+  ],
+  "price_status": "ok"
+}

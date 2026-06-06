@@ -1,0 +1,48 @@
+name: daily-prices
+
+on:
+  # Uncomment the schedule after forking and configuring your secrets.
+  # Runs weekdays at 20:30 UTC (after US market close at 16:00 ET).
+  # schedule:
+  #   - cron: "30 20 * * 1-5"
+  workflow_dispatch:
+
+concurrency:
+  group: serenity-data-push
+  cancel-in-progress: false
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update prices
+        run: python scripts/prices.py
+
+      - name: Verify data
+        run: python scripts/verify_data.py
+
+      - name: Commit updated prices
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Prices $(date -u +%Y-%m-%d)"
+          git push

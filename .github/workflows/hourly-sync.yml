@@ -1,0 +1,57 @@
+name: hourly-sync
+
+on:
+  # Uncomment the schedule after forking and configuring your secrets:
+  # schedule:
+  #   - cron: "0 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: serenity-data-push
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch new tweets
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: python scripts/fetch_tweets.py --user aleabitoreddit
+
+      - name: Extract opinions (LLM, recent 7d only)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/extract.py --since $(date -u -d '7 days ago' +%Y-%m-%d)
+
+      - name: Rebuild stock database
+        run: python scripts/build_db.py
+
+      - name: Verify data
+        run: python scripts/verify_data.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Sync $(date -u +%Y-%m-%dT%H:%M)"
+          git push

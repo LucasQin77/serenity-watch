@@ -1,0 +1,766 @@
+{
+  "ticker": "NEE",
+  "cashtag": "$NEE",
+  "price_symbol": "NEE",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-10-08",
+  "last_mention": "2026-04-09",
+  "total_mentions": 4,
+  "mentions": [
+    {
+      "tweet_id": "1975939920096333933",
+      "date": "2025-10-08",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$NEE",
+      "text": "@DigestingX I’m just focusing on higher risk higher upside energy plays, like low market cap, that would benefit off rate cuts too.\n\nI’ve heard of $NEE and $CEG but I don’t know enough about energy. So I’m just half-blindly  buying the sector from other DD I’ve seen.",
+      "url": "https://x.com/aleabitoreddit/status/1975939920096333933",
+      "kind": "reply",
+      "engagement": {
+        "views": 4286,
+        "likes": 4,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2023061769313542601",
+      "date": "2026-02-15",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$NEE",
+      "text": "OpenAI sent a memo to congress regarding Deepseek distillation:\n\n\"Sustaining the American advantage on AI depends on depends on whether we can reliably generate and deliver power at scale.\"\n\nPower Delivery - $VRT, $ETN, $PWR, $WMB, $KMI\nTier-1 Energy Providers: $CEG, $VST, $TLN, $GEV, $NEE, $BEPC, $D\nGrid-Energy / Storage - $TSLA, $FLNC, $NRGV, $BE\nEnergy: $TE, $FSLR, $NRG\n\nThis is a tailwind reiterated for these companies. \n\nAnd there's a second-order tailwind for companies that already secured GW capacity like $IREN, $NBIS, $WULF, and $CIFR. \n\nThe core issue of the memo was around IP theft and national security issues. But the largest warning about sustaining an advantage was Energy. \n\nOpenAI warning Congress that in 2024, China added 429 Gigawatts (GW) of new power capacity, which was more than a third of the entire US grid and more than half of global electricity growth. Without a radical expansion of the American power grid, they believe China’s \"brute force\" energy buildout will eventually allow them to surpass Western AI capabilities.\n\nPhotonics, Advanced Packaging, and Memory are three fastest growing bottlenecks right now. However, OpenAI explicitly warned the U.S. government that whoever generates the most power wins the AI race.\n\nTheir message: Invest in American Energy.",
+      "url": "https://x.com/aleabitoreddit/status/2023061769313542601",
+      "kind": "post",
+      "engagement": {
+        "views": 59705,
+        "likes": 498,
+        "reposts": 56,
+        "replies": 29
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2035552610078572849",
+      "date": "2026-03-21",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "heavy debt to maintain power grids",
+        "partly bond proxies"
+      ],
+      "is_risk": true,
+      "conviction": null,
+      "raw_mention": "$NEE",
+      "text": "JPM is projecting 0 rate cuts in 2026 (Mar 19th). \n\nDerivatives show~37% 0 rate cuts. \n\nHere's the traditional winners and losers:\n\n1. Banks / Stablecoins: $CRCL, $JPM, $BAC, $WFC\n- Interest from treasury, CCs, mortgage\n\n2. High Cash vs. MC: Berkshire < $BRK.B >, $ETOR, $VLN, and others\n- Companies that sit on large piles of cash relative to MC, where interest rates make material difference to operational income.\n- This is beneficial to a lot of brokerages, but also very nuanced eg. $HOOD. \n\n3. Insurance: $PGR, $MET, $ALL\n- Higher yields on bond portfolios\n\n4. Value/Cyclical Stocks: $XOM, $CAT, $DE\n- Strong cash flow today + underlying commodities boost as well. \n\nLosers:\n\n1. Telecommunications & Heavy Industrials: $T, $VZ, $ATUS\n- Companies that carry massive debt loads to build out optic cables, 5G, etc.\n\n2. Utilities: $NEE, $DUK, $SO, $XLU\n- Utilities carry heavy debt to maintain power grids and partly bond proxies\n\n3. Real Estate + REITs: $AMT, $O, $BXP \n- Higher rates drive down the valuation of the physical properties themselves and harder borrowing for buying homes. Then government bonds > dividend yields.\n\n4. Unprofitable / Speculative Tech: $ARKK \n\nNuanced:\n\nHistorically Mag7 like $NVDA, $AAPL, $MSFT, $AMZN were neutral-winner as they were typically sitting on loads of cash. \n\nBut for the first time, some are going into debt for the AI buildout and are scaling like startups again (eg. $META 33%+ Y/Y revenue growth): \n\n-> Cash-rich companies like $AAPL are likely to be fine, $MSFT + $GOOGL (largely funded by operational income)\n-> While $META, $ORCL, and others may face more challenges (projected to take on debt long term)\n\nHowever, despite short term volatility from projections + War in Iran:\n\nOne TACO could flip all the projections. \n\nSo, I would not bet on high interest rates or rate hikes or this trade. \n\nAnd I don't think markets will either long term.",
+      "url": "https://x.com/aleabitoreddit/status/2035552610078572849",
+      "kind": "post",
+      "engagement": {
+        "views": 73022,
+        "likes": 458,
+        "reposts": 23,
+        "replies": 31
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2042187668931616964",
+      "date": "2026-04-09",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$NEE",
+      "text": "Here's a bunch of random 30 US-available random stocks I like today and why:  \n\n1. $INTC - America's hope for foundry, national security\n2. $MRVL - scales rev from future maia asics and add ons like cpo, they do everything lost count\n3. $TSM - backbone of semis/ai\n4. $COHR - They do everything vertically integrated + captures optical cycle\n5. $RKLB - the final frontier of space will be around 5 years from now and 20 years from now. \n6. $DRAM - memory exposure for samsung/sk hynix\n7. $AVGO - hyperscalers dont like nvidia gpu tax\n8. $AMZN - nobody can compete against the overnight shipping of toilet paper. robotics will lower opex over time\n9. $ARM - AGI CPUs scale revenue quite a bit over the next decade\n10. $TSEM - you're going to need a foundry for light based stuff\n11. $IBIT - bitcoin, we all know by now\n12. $NBIS - i think it's the next AWS. Also they do self-driving cars with uber, own scaling DB companies, data labeling. It's almost like a mini Google. \n13. $GOOGL - youtube is not going away, gemini is great. they're vertically integrated with TPUs and fund buildout with operating income so i like it. \n14. $AMKR - super facilities coming online in late 2027-2028. benefits from made in america\n15. $HOOD - i dont like short term, but long term i'm a fan of Robinhood since they captured retail + have more products like banking, etc that they're scaling up. product innovation is wild.\n16. $CRCL - I happen to really like stablecoins and see them as the future for both payments/holding (depends on clarity act)\n17. $META - people aren't going to stop using instagram or whatsapp, or others anytime soon. \n18. $LITE - $GOOGL TPU exposure decently high part of BOM. As long as Google's AI program keeps running I think $LITE will do well.\n19. $LPTH - Germanium and China export controls will always be an issue so US made engineered alternatives  will always be important\n20. $FN - Someone needs to assemble optical stuff\n21. $JBL - same as above, but added with ip from Intel's SiPh acqusition so might end up like innolight?\n22. $MP - American rare earths program is extremely important, similar to $INTC national security risks\n23. $HIMS - Okay here me out they just acquired a ton of companies, and at $19 they have global DTC channel. short sellers really hate this company, but I think it's actually promising as a contrarian long\n24. $SMTC - LRO/LPO transition\n25. $POWL - US alternative to hammond for switchgear DC type bottleneck\n26. $VPG - Humanoids will be a thing down the road maybe 2027-2028, this makes the sensors. \n27. $MOG.A - Feels like i see them everywhere in robotics, to spacex supply chains\n28. $MSFT - At $375, one day we'll look back and see this as a buying opportunity.\n29. $CVX - oil might crash after war but these oil companies are going to be extremely important, especially when Venezulea is a goldmine.\n30. $XLU - i think rate cuts might be back online, we need power/grid for AI so these names will always be improtant from $CEG to $NEE\n\nJust throwing out other thoughts aside from $AAOI and $AEHR.",
+      "url": "https://x.com/aleabitoreddit/status/2042187668931616964",
+      "kind": "post",
+      "engagement": {
+        "views": 2775799,
+        "likes": 6475,
+        "reposts": 801,
+        "replies": 193
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2025-10-08",
+      "close": 84.04
+    },
+    {
+      "date": "2025-10-09",
+      "close": 83.71
+    },
+    {
+      "date": "2025-10-10",
+      "close": 83.35
+    },
+    {
+      "date": "2025-10-13",
+      "close": 84.3
+    },
+    {
+      "date": "2025-10-14",
+      "close": 84.64
+    },
+    {
+      "date": "2025-10-15",
+      "close": 85.79
+    },
+    {
+      "date": "2025-10-16",
+      "close": 85.05
+    },
+    {
+      "date": "2025-10-17",
+      "close": 84.53
+    },
+    {
+      "date": "2025-10-20",
+      "close": 84.77
+    },
+    {
+      "date": "2025-10-21",
+      "close": 83.99
+    },
+    {
+      "date": "2025-10-22",
+      "close": 82.84
+    },
+    {
+      "date": "2025-10-23",
+      "close": 83.25
+    },
+    {
+      "date": "2025-10-24",
+      "close": 84.41
+    },
+    {
+      "date": "2025-10-27",
+      "close": 86.03
+    },
+    {
+      "date": "2025-10-28",
+      "close": 83.57
+    },
+    {
+      "date": "2025-10-29",
+      "close": 81.76
+    },
+    {
+      "date": "2025-10-30",
+      "close": 81.64
+    },
+    {
+      "date": "2025-10-31",
+      "close": 81.4
+    },
+    {
+      "date": "2025-11-03",
+      "close": 81.78
+    },
+    {
+      "date": "2025-11-04",
+      "close": 81.69
+    },
+    {
+      "date": "2025-11-05",
+      "close": 82.14
+    },
+    {
+      "date": "2025-11-06",
+      "close": 82.0
+    },
+    {
+      "date": "2025-11-07",
+      "close": 83.93
+    },
+    {
+      "date": "2025-11-10",
+      "close": 84.77
+    },
+    {
+      "date": "2025-11-11",
+      "close": 85.76
+    },
+    {
+      "date": "2025-11-12",
+      "close": 85.89
+    },
+    {
+      "date": "2025-11-13",
+      "close": 83.99
+    },
+    {
+      "date": "2025-11-14",
+      "close": 83.88
+    },
+    {
+      "date": "2025-11-17",
+      "close": 85.75
+    },
+    {
+      "date": "2025-11-18",
+      "close": 84.64
+    },
+    {
+      "date": "2025-11-19",
+      "close": 84.27
+    },
+    {
+      "date": "2025-11-20",
+      "close": 84.3
+    },
+    {
+      "date": "2025-11-21",
+      "close": 83.48
+    },
+    {
+      "date": "2025-11-24",
+      "close": 84.23
+    },
+    {
+      "date": "2025-11-25",
+      "close": 84.83
+    },
+    {
+      "date": "2025-11-26",
+      "close": 85.54
+    },
+    {
+      "date": "2025-11-28",
+      "close": 86.29
+    },
+    {
+      "date": "2025-12-01",
+      "close": 84.65
+    },
+    {
+      "date": "2025-12-02",
+      "close": 84.58
+    },
+    {
+      "date": "2025-12-03",
+      "close": 84.95
+    },
+    {
+      "date": "2025-12-04",
+      "close": 83.39
+    },
+    {
+      "date": "2025-12-05",
+      "close": 83.13
+    },
+    {
+      "date": "2025-12-08",
+      "close": 80.55
+    },
+    {
+      "date": "2025-12-09",
+      "close": 79.64
+    },
+    {
+      "date": "2025-12-10",
+      "close": 81.27
+    },
+    {
+      "date": "2025-12-11",
+      "close": 81.21
+    },
+    {
+      "date": "2025-12-12",
+      "close": 81.65
+    },
+    {
+      "date": "2025-12-15",
+      "close": 81.65
+    },
+    {
+      "date": "2025-12-16",
+      "close": 81.32
+    },
+    {
+      "date": "2025-12-17",
+      "close": 80.29
+    },
+    {
+      "date": "2025-12-18",
+      "close": 80.85
+    },
+    {
+      "date": "2025-12-19",
+      "close": 79.54
+    },
+    {
+      "date": "2025-12-22",
+      "close": 80.04
+    },
+    {
+      "date": "2025-12-23",
+      "close": 79.79
+    },
+    {
+      "date": "2025-12-24",
+      "close": 80.45
+    },
+    {
+      "date": "2025-12-26",
+      "close": 80.41
+    },
+    {
+      "date": "2025-12-29",
+      "close": 80.27
+    },
+    {
+      "date": "2025-12-30",
+      "close": 80.53
+    },
+    {
+      "date": "2025-12-31",
+      "close": 80.28
+    },
+    {
+      "date": "2026-01-02",
+      "close": 80.93
+    },
+    {
+      "date": "2026-01-05",
+      "close": 81.32
+    },
+    {
+      "date": "2026-01-06",
+      "close": 81.05
+    },
+    {
+      "date": "2026-01-07",
+      "close": 78.37
+    },
+    {
+      "date": "2026-01-08",
+      "close": 79.49
+    },
+    {
+      "date": "2026-01-09",
+      "close": 79.89
+    },
+    {
+      "date": "2026-01-12",
+      "close": 81.12
+    },
+    {
+      "date": "2026-01-13",
+      "close": 81.64
+    },
+    {
+      "date": "2026-01-14",
+      "close": 81.98
+    },
+    {
+      "date": "2026-01-15",
+      "close": 82.19
+    },
+    {
+      "date": "2026-01-16",
+      "close": 83.63
+    },
+    {
+      "date": "2026-01-20",
+      "close": 83.51
+    },
+    {
+      "date": "2026-01-21",
+      "close": 83.85
+    },
+    {
+      "date": "2026-01-22",
+      "close": 85.07
+    },
+    {
+      "date": "2026-01-23",
+      "close": 84.81
+    },
+    {
+      "date": "2026-01-26",
+      "close": 85.47
+    },
+    {
+      "date": "2026-01-27",
+      "close": 87.15
+    },
+    {
+      "date": "2026-01-28",
+      "close": 87.57
+    },
+    {
+      "date": "2026-01-29",
+      "close": 88.18
+    },
+    {
+      "date": "2026-01-30",
+      "close": 87.9
+    },
+    {
+      "date": "2026-02-02",
+      "close": 86.33
+    },
+    {
+      "date": "2026-02-03",
+      "close": 88.82
+    },
+    {
+      "date": "2026-02-04",
+      "close": 89.97
+    },
+    {
+      "date": "2026-02-05",
+      "close": 89.21
+    },
+    {
+      "date": "2026-02-06",
+      "close": 89.47
+    },
+    {
+      "date": "2026-02-09",
+      "close": 89.48
+    },
+    {
+      "date": "2026-02-10",
+      "close": 90.83
+    },
+    {
+      "date": "2026-02-11",
+      "close": 91.36
+    },
+    {
+      "date": "2026-02-12",
+      "close": 91.93
+    },
+    {
+      "date": "2026-02-13",
+      "close": 93.8
+    },
+    {
+      "date": "2026-02-17",
+      "close": 92.71
+    },
+    {
+      "date": "2026-02-18",
+      "close": 91.22
+    },
+    {
+      "date": "2026-02-19",
+      "close": 91.64
+    },
+    {
+      "date": "2026-02-20",
+      "close": 92.18
+    },
+    {
+      "date": "2026-02-23",
+      "close": 94.06
+    },
+    {
+      "date": "2026-02-24",
+      "close": 95.68
+    },
+    {
+      "date": "2026-02-25",
+      "close": 95.11
+    },
+    {
+      "date": "2026-02-26",
+      "close": 91.99
+    },
+    {
+      "date": "2026-02-27",
+      "close": 93.77
+    },
+    {
+      "date": "2026-03-02",
+      "close": 92.71
+    },
+    {
+      "date": "2026-03-03",
+      "close": 92.59
+    },
+    {
+      "date": "2026-03-04",
+      "close": 92.6
+    },
+    {
+      "date": "2026-03-05",
+      "close": 91.13
+    },
+    {
+      "date": "2026-03-06",
+      "close": 91.02
+    },
+    {
+      "date": "2026-03-09",
+      "close": 92.01
+    },
+    {
+      "date": "2026-03-10",
+      "close": 91.54
+    },
+    {
+      "date": "2026-03-11",
+      "close": 91.66
+    },
+    {
+      "date": "2026-03-12",
+      "close": 91.73
+    },
+    {
+      "date": "2026-03-13",
+      "close": 92.78
+    },
+    {
+      "date": "2026-03-16",
+      "close": 92.82
+    },
+    {
+      "date": "2026-03-17",
+      "close": 92.53
+    },
+    {
+      "date": "2026-03-18",
+      "close": 90.96
+    },
+    {
+      "date": "2026-03-19",
+      "close": 92.41
+    },
+    {
+      "date": "2026-03-20",
+      "close": 89.5
+    },
+    {
+      "date": "2026-03-23",
+      "close": 90.23
+    },
+    {
+      "date": "2026-03-24",
+      "close": 91.62
+    },
+    {
+      "date": "2026-03-25",
+      "close": 91.16
+    },
+    {
+      "date": "2026-03-26",
+      "close": 91.16
+    },
+    {
+      "date": "2026-03-27",
+      "close": 91.4
+    },
+    {
+      "date": "2026-03-30",
+      "close": 92.05
+    },
+    {
+      "date": "2026-03-31",
+      "close": 92.88
+    },
+    {
+      "date": "2026-04-01",
+      "close": 92.85
+    },
+    {
+      "date": "2026-04-02",
+      "close": 93.15
+    },
+    {
+      "date": "2026-04-06",
+      "close": 92.73
+    },
+    {
+      "date": "2026-04-07",
+      "close": 93.67
+    },
+    {
+      "date": "2026-04-08",
+      "close": 94.17
+    },
+    {
+      "date": "2026-04-09",
+      "close": 94.48
+    },
+    {
+      "date": "2026-04-10",
+      "close": 94.08
+    },
+    {
+      "date": "2026-04-13",
+      "close": 92.3
+    },
+    {
+      "date": "2026-04-14",
+      "close": 91.31
+    },
+    {
+      "date": "2026-04-15",
+      "close": 91.24
+    },
+    {
+      "date": "2026-04-16",
+      "close": 91.83
+    },
+    {
+      "date": "2026-04-17",
+      "close": 91.98
+    },
+    {
+      "date": "2026-04-20",
+      "close": 92.01
+    },
+    {
+      "date": "2026-04-21",
+      "close": 90.6
+    },
+    {
+      "date": "2026-04-22",
+      "close": 90.0
+    },
+    {
+      "date": "2026-04-23",
+      "close": 96.25
+    },
+    {
+      "date": "2026-04-24",
+      "close": 95.28
+    },
+    {
+      "date": "2026-04-27",
+      "close": 94.83
+    },
+    {
+      "date": "2026-04-28",
+      "close": 96.51
+    },
+    {
+      "date": "2026-04-29",
+      "close": 94.17
+    },
+    {
+      "date": "2026-04-30",
+      "close": 97.88
+    },
+    {
+      "date": "2026-05-01",
+      "close": 96.95
+    },
+    {
+      "date": "2026-05-04",
+      "close": 95.51
+    },
+    {
+      "date": "2026-05-05",
+      "close": 96.28
+    },
+    {
+      "date": "2026-05-06",
+      "close": 95.39
+    },
+    {
+      "date": "2026-05-07",
+      "close": 93.32
+    },
+    {
+      "date": "2026-05-08",
+      "close": 93.1
+    },
+    {
+      "date": "2026-05-11",
+      "close": 94.84
+    },
+    {
+      "date": "2026-05-12",
+      "close": 94.59
+    },
+    {
+      "date": "2026-05-13",
+      "close": 94.85
+    },
+    {
+      "date": "2026-05-14",
+      "close": 95.68
+    },
+    {
+      "date": "2026-05-15",
+      "close": 93.36
+    },
+    {
+      "date": "2026-05-18",
+      "close": 89.04
+    },
+    {
+      "date": "2026-05-19",
+      "close": 90.06
+    },
+    {
+      "date": "2026-05-20",
+      "close": 88.27
+    },
+    {
+      "date": "2026-05-21",
+      "close": 89.69
+    },
+    {
+      "date": "2026-05-22",
+      "close": 88.55
+    },
+    {
+      "date": "2026-05-26",
+      "close": 87.65
+    },
+    {
+      "date": "2026-05-27",
+      "close": 87.65
+    },
+    {
+      "date": "2026-05-28",
+      "close": 87.25
+    },
+    {
+      "date": "2026-05-29",
+      "close": 87.01
+    },
+    {
+      "date": "2026-06-01",
+      "close": 83.66
+    },
+    {
+      "date": "2026-06-02",
+      "close": 85.68
+    },
+    {
+      "date": "2026-06-03",
+      "close": 84.58
+    },
+    {
+      "date": "2026-06-04",
+      "close": 85.68
+    }
+  ],
+  "price_status": "ok"
+}

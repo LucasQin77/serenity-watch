@@ -1,0 +1,39 @@
+{
+  "ticker": "SKHYNIX",
+  "cashtag": "SK Hynix",
+  "price_symbol": "SKHYNIX",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-06-02",
+  "last_mention": "2026-06-02",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2061991402196886000",
+      "date": "2026-06-02",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "SK Hynix",
+      "text": "@venuvg18 I cost averaged the other day, it’s more high risk to see if they can shift from qualification to volume ramp with SK Hynix / Samsung. \n\nI’m seeing what happens h2",
+      "url": "https://x.com/aleabitoreddit/status/2061991402196886000",
+      "kind": "reply",
+      "engagement": {
+        "views": 13242,
+        "likes": 56,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

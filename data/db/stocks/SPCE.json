@@ -1,0 +1,77 @@
+{
+  "ticker": "SPCE",
+  "cashtag": "$SPCE",
+  "price_symbol": "SPCE",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-05-30",
+  "last_mention": "2026-05-30",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2060806434963763294",
+      "date": "2026-05-30",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$SPCE",
+      "text": "Everyone is out there making life changing returns on $RDDT.\n\nFully leveraged on the wrong $SPCE (Virgin Galactic) ticker.\n\nInstead of $SPCX, which is yet to launch. \n\nI guess this just goes to show how much retail demand there is for SpaceX’s IPO. https://t.co/AzcpV5fZ3P",
+      "url": "https://x.com/aleabitoreddit/status/2060806434963763294",
+      "kind": "post",
+      "engagement": {
+        "views": 336318,
+        "likes": 1512,
+        "reposts": 51,
+        "replies": 200
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2060807341554241594",
+      "date": "2026-05-30",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$SPCE",
+      "text": "@Projekt_Power It seems to be triggering a gamma/short squeeze by accident… hard to predict when the stupid frenzy stops though https://t.co/uFKqbi440X",
+      "url": "https://x.com/aleabitoreddit/status/2060807341554241594",
+      "kind": "reply",
+      "engagement": {
+        "views": 30286,
+        "likes": 137,
+        "reposts": 1,
+        "replies": 25
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-06-01",
+      "close": 7.52
+    },
+    {
+      "date": "2026-06-02",
+      "close": 4.59
+    },
+    {
+      "date": "2026-06-03",
+      "close": 4.29
+    },
+    {
+      "date": "2026-06-04",
+      "close": 4.72
+    }
+  ],
+  "price_status": "ok"
+}

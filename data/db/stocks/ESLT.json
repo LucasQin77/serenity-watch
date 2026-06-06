@@ -1,0 +1,353 @@
+{
+  "ticker": "ESLT",
+  "cashtag": "$ESLT",
+  "price_symbol": "ESLT",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-02",
+  "last_mention": "2026-03-10",
+  "total_mentions": 3,
+  "mentions": [
+    {
+      "tweet_id": "2028461742783893827",
+      "date": "2026-03-02",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ESLT",
+      "text": "@geokoutalidis Yep great shout! There's other large players out there, like $DRS or $RTX and $ESLT. But nothing publicly traded really has pure play exposure to energy directed weapons aside from $LASR AFAIK.",
+      "url": "https://x.com/aleabitoreddit/status/2028461742783893827",
+      "kind": "reply",
+      "engagement": {
+        "views": 4806,
+        "likes": 29,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2031458765162299669",
+      "date": "2026-03-10",
+      "stance": "neutral",
+      "mention_type": "quote_or_other",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ESLT",
+      "text": "@ShukiCar Will look into $ESLT thanks for the mention",
+      "url": "https://x.com/aleabitoreddit/status/2031458765162299669",
+      "kind": "reply",
+      "engagement": {
+        "views": 4854,
+        "likes": 11,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2031464140028654077",
+      "date": "2026-03-10",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "defense company stands to benefit from mine detection/clearance catalyst",
+        "biggest catalyst of the decade for aquatic defense contractors"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ESLT",
+      "text": "Just in: Trump is angered after Iran mined the Strait of Hormuz.\n\n> Iran Places Underwater Mines\n> Trump Angry bc Oil\n> Urgent need to clear them \n> Mine Detection + Clearance Companies = Profit?\n\nIf you want to profit off the situation:\n\nDefense companies like $CODA, $KRKNF, $OPTT, $MIND, $EXA, $ESLT and many others stand to benefit.\n\nIt's the biggest catalyst of the decade for aquatic defense contractors, given the new news.\n\nJust need to figure out who stands to benefit the most.",
+      "url": "https://x.com/aleabitoreddit/status/2031464140028654077",
+      "kind": "post",
+      "engagement": {
+        "views": 70646,
+        "likes": 504,
+        "reposts": 35,
+        "replies": 50
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-02",
+      "close": 829.36
+    },
+    {
+      "date": "2026-03-03",
+      "close": 823.08
+    },
+    {
+      "date": "2026-03-04",
+      "close": 885.0
+    },
+    {
+      "date": "2026-03-05",
+      "close": 888.1
+    },
+    {
+      "date": "2026-03-06",
+      "close": 936.14
+    },
+    {
+      "date": "2026-03-09",
+      "close": 902.58
+    },
+    {
+      "date": "2026-03-10",
+      "close": 877.12
+    },
+    {
+      "date": "2026-03-11",
+      "close": 881.17
+    },
+    {
+      "date": "2026-03-12",
+      "close": 865.83
+    },
+    {
+      "date": "2026-03-13",
+      "close": 871.105
+    },
+    {
+      "date": "2026-03-16",
+      "close": 874.5
+    },
+    {
+      "date": "2026-03-17",
+      "close": 1014.33
+    },
+    {
+      "date": "2026-03-18",
+      "close": 953.57
+    },
+    {
+      "date": "2026-03-19",
+      "close": 956.05
+    },
+    {
+      "date": "2026-03-20",
+      "close": 920.75
+    },
+    {
+      "date": "2026-03-23",
+      "close": 902.96
+    },
+    {
+      "date": "2026-03-24",
+      "close": 894.8
+    },
+    {
+      "date": "2026-03-25",
+      "close": 911.9
+    },
+    {
+      "date": "2026-03-26",
+      "close": 890.22
+    },
+    {
+      "date": "2026-03-27",
+      "close": 869.82
+    },
+    {
+      "date": "2026-03-30",
+      "close": 816.77
+    },
+    {
+      "date": "2026-03-31",
+      "close": 849.09
+    },
+    {
+      "date": "2026-04-01",
+      "close": 896.53
+    },
+    {
+      "date": "2026-04-02",
+      "close": 888.97
+    },
+    {
+      "date": "2026-04-06",
+      "close": 923.68
+    },
+    {
+      "date": "2026-04-07",
+      "close": 914.17
+    },
+    {
+      "date": "2026-04-08",
+      "close": 920.52
+    },
+    {
+      "date": "2026-04-09",
+      "close": 928.47
+    },
+    {
+      "date": "2026-04-10",
+      "close": 925.24
+    },
+    {
+      "date": "2026-04-13",
+      "close": 935.05
+    },
+    {
+      "date": "2026-04-14",
+      "close": 920.79
+    },
+    {
+      "date": "2026-04-15",
+      "close": 899.0
+    },
+    {
+      "date": "2026-04-16",
+      "close": 869.79
+    },
+    {
+      "date": "2026-04-17",
+      "close": 872.58
+    },
+    {
+      "date": "2026-04-20",
+      "close": 881.98
+    },
+    {
+      "date": "2026-04-21",
+      "close": 865.48
+    },
+    {
+      "date": "2026-04-22",
+      "close": 860.97
+    },
+    {
+      "date": "2026-04-23",
+      "close": 852.34
+    },
+    {
+      "date": "2026-04-24",
+      "close": 821.96
+    },
+    {
+      "date": "2026-04-27",
+      "close": 819.65
+    },
+    {
+      "date": "2026-04-28",
+      "close": 833.63
+    },
+    {
+      "date": "2026-04-29",
+      "close": 819.5
+    },
+    {
+      "date": "2026-04-30",
+      "close": 839.34
+    },
+    {
+      "date": "2026-05-01",
+      "close": 831.22
+    },
+    {
+      "date": "2026-05-04",
+      "close": 857.79
+    },
+    {
+      "date": "2026-05-05",
+      "close": 851.26
+    },
+    {
+      "date": "2026-05-06",
+      "close": 830.09
+    },
+    {
+      "date": "2026-05-07",
+      "close": 794.96
+    },
+    {
+      "date": "2026-05-08",
+      "close": 782.205
+    },
+    {
+      "date": "2026-05-11",
+      "close": 794.95
+    },
+    {
+      "date": "2026-05-12",
+      "close": 802.21
+    },
+    {
+      "date": "2026-05-13",
+      "close": 779.42
+    },
+    {
+      "date": "2026-05-14",
+      "close": 779.43
+    },
+    {
+      "date": "2026-05-15",
+      "close": 750.01
+    },
+    {
+      "date": "2026-05-18",
+      "close": 760.63
+    },
+    {
+      "date": "2026-05-19",
+      "close": 771.0
+    },
+    {
+      "date": "2026-05-20",
+      "close": 768.84
+    },
+    {
+      "date": "2026-05-21",
+      "close": 763.72
+    },
+    {
+      "date": "2026-05-22",
+      "close": 767.82
+    },
+    {
+      "date": "2026-05-26",
+      "close": 852.41
+    },
+    {
+      "date": "2026-05-27",
+      "close": 828.81
+    },
+    {
+      "date": "2026-05-28",
+      "close": 892.63
+    },
+    {
+      "date": "2026-05-29",
+      "close": 880.89
+    },
+    {
+      "date": "2026-06-01",
+      "close": 858.06
+    },
+    {
+      "date": "2026-06-02",
+      "close": 849.15
+    },
+    {
+      "date": "2026-06-03",
+      "close": 829.81
+    },
+    {
+      "date": "2026-06-04",
+      "close": 837.94
+    }
+  ],
+  "price_status": "ok"
+}

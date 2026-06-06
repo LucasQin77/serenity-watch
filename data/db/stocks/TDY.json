@@ -1,0 +1,465 @@
+{
+  "ticker": "TDY",
+  "cashtag": "$TDY",
+  "price_symbol": "TDY",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-01-18",
+  "last_mention": "2026-03-25",
+  "total_mentions": 3,
+  "mentions": [
+    {
+      "tweet_id": "2012957864026087525",
+      "date": "2026-01-18",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "rad-hard image sensors bottleneck",
+        "wouldn't be surprised if went up 5x over the next year"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$TDY",
+      "text": "Personal TLDR research. \n \nWestern supply chain bottlenecks like $LPTH and $AXTI:  \n\n$MTRN - Beryllium (Spor Mountain) \n$HALEU - Uranium | SMRs \n$ESE - Space fuel tanks (through Vacco) \n$GHM - Vacuum Ejectors & Surface Condensers | U.S. Navy \n$FEIM - Atomic Clocks  \n$OPXS - Light Laser Periscopes  \n$TAYD - Vibration  \n$PKE - Heat \n$VNP.TO - Western gallium  \n$TDY - Rad-Hard Image Sensors  $RDW - Roll-Out Solar Arrays \n$PDFS - Exensio Yield for Intel 18A  \n$WOLF - Silicon Carbide  \n$RELL - Ultracapacitors & Magnetrons  \n$CPSH - Thermal / Aluminum Silicon Carbide  \n$VREX - X-Ray Tubes  \n$GSM - Western Silicon Metal  \n$INTT - Extreme Thermal Cycling  \n$CODA - Turbidity (Murkiness)  \n$NTI - Corrosion  $PLAB - Photomask  \n$MKSI - Plasma Control \n$KULR - Explosive Heat  \n$PESI - Radioactive mixed waste.  \n$CVV - Gas-to-Solid Deposition.  \n$LPKFF - Laser Induced Deep Etching/  Glass Substrates    \n\nThese are just more of the \"under the radar\" small caps I was researching -> ended up choosing $AXTI and $LPTH if people were interested.   \n\n Lot of them have terrible fundamentals despite being vital eg: $IQE (already pretty known), so it's not a good idea to just blindly buy a bottleneck.     \n\nThere were a lot more out there I haven't finished researching (so didn't include), and it's a lot harder to pinpoint ones that haven't been priced in.     \n\nBut wouldn't be surprised if a lot of these went up 5x over the next year.",
+      "url": "https://x.com/aleabitoreddit/status/2012957864026087525",
+      "kind": "post",
+      "engagement": {
+        "views": 169071,
+        "likes": 874,
+        "reposts": 92,
+        "replies": 49
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2031457195091759114",
+      "date": "2026-03-10",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$TDY",
+      "text": "Other interesting names aside from $KRKNF, $CODA, $EXA:  \n\n$OPTT - WAM-Vs for underwater mine inspection + disposal (possibly Andruil partner, mentioned by followers).     \n\n$MIND - Side-scan sonars for mines\n\n$NORBT - Wideband Multibeam Sonars\n\n$HII - REMUS 100, 300, and 600 for mine clearance operations.  \n\n$GD - Bluefin Robotics Knifefish UUV for buried mines in cluttered underwater  \n\n$BA - Archerfish, an autonomous, expendable mine neutralizer  \n\n$SAABF - Sea Wasp for navigate up to naval mines and IEDs and place explosive charges next to them  \n\n$TDY - Gavia AUV for minehunting, SeaBotix ROVs, and the high-end RESON sonars  \n\n$NSANY - Synthetic Aperture Sonar  \n\n$NOC - AN/AQS-24B/C for minehunting",
+      "url": "https://x.com/aleabitoreddit/status/2031457195091759114",
+      "kind": "post",
+      "engagement": {
+        "views": 104383,
+        "likes": 474,
+        "reposts": 38,
+        "replies": 36
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2036840136730935736",
+      "date": "2026-03-25",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$TDY",
+      "text": "So just checked out the comments...\n\n$P4O does look like a potential upstream $LITE supplier at a $34M MC. \n\nHow it likely maps:\n\n-> Plan Optik $P4O (Glass Wafers) \n-> Teledyne $TDY or Silek (Mem Foundries) \n-> $LITE (OCS Switches)\n-> $GOOGL (TPUs)\n\nHowever, $LITE likely dual sources with Corning ( $GLW ) on the glass wafer level.\n\nP4O is a known supplier to Infineon, Samsung, and others, so not exactly a random company. \n\n€3.35 million vs. 35.52M MC is very healthy balance sheet. \n\nThat being said:\n\n-> That doesn't exactly mean this translates to material revenue boosts unless they start price hike (given glass wafers are likely a very small part of $LITE OCS BOM). \n\nI do personally own shares, after reading this.\n\nSince $LITE OCS potential supply chain chokepoints is strategically valuable. Maybe not so much so as financially valuable. \n\nBut their core thesis that Plan Optik's Glass Flow and MDF finishing are effectively irreplaceable for OCS packaging checks out. \n\nOf course, hyperscaler supply chains are heavily guarded, so no way to know 100%. \n\nAll credit goes to follower comments.\n\nBut TLDR:\n\nSupply Chain Mapping\n-> $P4O -> Foundries -> $LITE -> $GOOGL is very likely from their analysis. \n\nAs for being a chokepoint in $LITE OCS supply chain... dunno if it translates materially. \n\nAgain, not recommending this at all.\n\nJust thought the $LITE OCS supply chain mapping like this very interesting, and that it would be a waste of the follower kinda posted all this work into the void.",
+      "url": "https://x.com/aleabitoreddit/status/2036840136730935736",
+      "kind": "post",
+      "engagement": {
+        "views": 210374,
+        "likes": 314,
+        "reposts": 24,
+        "replies": 43
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-01-20",
+      "close": 566.23
+    },
+    {
+      "date": "2026-01-21",
+      "close": 621.79
+    },
+    {
+      "date": "2026-01-22",
+      "close": 621.62
+    },
+    {
+      "date": "2026-01-23",
+      "close": 610.66
+    },
+    {
+      "date": "2026-01-26",
+      "close": 607.53
+    },
+    {
+      "date": "2026-01-27",
+      "close": 616.02
+    },
+    {
+      "date": "2026-01-28",
+      "close": 620.31
+    },
+    {
+      "date": "2026-01-29",
+      "close": 625.32
+    },
+    {
+      "date": "2026-01-30",
+      "close": 620.3
+    },
+    {
+      "date": "2026-02-02",
+      "close": 613.23
+    },
+    {
+      "date": "2026-02-03",
+      "close": 640.42
+    },
+    {
+      "date": "2026-02-04",
+      "close": 629.73
+    },
+    {
+      "date": "2026-02-05",
+      "close": 628.47
+    },
+    {
+      "date": "2026-02-06",
+      "close": 647.56
+    },
+    {
+      "date": "2026-02-09",
+      "close": 656.38
+    },
+    {
+      "date": "2026-02-10",
+      "close": 659.92
+    },
+    {
+      "date": "2026-02-11",
+      "close": 661.43
+    },
+    {
+      "date": "2026-02-12",
+      "close": 646.3
+    },
+    {
+      "date": "2026-02-13",
+      "close": 660.29
+    },
+    {
+      "date": "2026-02-17",
+      "close": 649.35
+    },
+    {
+      "date": "2026-02-18",
+      "close": 662.66
+    },
+    {
+      "date": "2026-02-19",
+      "close": 666.35
+    },
+    {
+      "date": "2026-02-20",
+      "close": 668.72
+    },
+    {
+      "date": "2026-02-23",
+      "close": 672.42
+    },
+    {
+      "date": "2026-02-24",
+      "close": 683.22
+    },
+    {
+      "date": "2026-02-25",
+      "close": 677.38
+    },
+    {
+      "date": "2026-02-26",
+      "close": 678.82
+    },
+    {
+      "date": "2026-02-27",
+      "close": 681.1
+    },
+    {
+      "date": "2026-03-02",
+      "close": 688.59
+    },
+    {
+      "date": "2026-03-03",
+      "close": 686.25
+    },
+    {
+      "date": "2026-03-04",
+      "close": 682.77
+    },
+    {
+      "date": "2026-03-05",
+      "close": 654.86
+    },
+    {
+      "date": "2026-03-06",
+      "close": 647.64
+    },
+    {
+      "date": "2026-03-09",
+      "close": 654.06
+    },
+    {
+      "date": "2026-03-10",
+      "close": 655.29
+    },
+    {
+      "date": "2026-03-11",
+      "close": 655.37
+    },
+    {
+      "date": "2026-03-12",
+      "close": 646.57
+    },
+    {
+      "date": "2026-03-13",
+      "close": 638.91
+    },
+    {
+      "date": "2026-03-16",
+      "close": 645.66
+    },
+    {
+      "date": "2026-03-17",
+      "close": 643.06
+    },
+    {
+      "date": "2026-03-18",
+      "close": 633.87
+    },
+    {
+      "date": "2026-03-19",
+      "close": 635.11
+    },
+    {
+      "date": "2026-03-20",
+      "close": 616.18
+    },
+    {
+      "date": "2026-03-23",
+      "close": 623.8
+    },
+    {
+      "date": "2026-03-24",
+      "close": 626.06
+    },
+    {
+      "date": "2026-03-25",
+      "close": 625.37
+    },
+    {
+      "date": "2026-03-26",
+      "close": 611.08
+    },
+    {
+      "date": "2026-03-27",
+      "close": 593.31
+    },
+    {
+      "date": "2026-03-30",
+      "close": 584.07
+    },
+    {
+      "date": "2026-03-31",
+      "close": 605.01
+    },
+    {
+      "date": "2026-04-01",
+      "close": 617.97
+    },
+    {
+      "date": "2026-04-02",
+      "close": 623.13
+    },
+    {
+      "date": "2026-04-06",
+      "close": 632.01
+    },
+    {
+      "date": "2026-04-07",
+      "close": 635.07
+    },
+    {
+      "date": "2026-04-08",
+      "close": 660.31
+    },
+    {
+      "date": "2026-04-09",
+      "close": 654.98
+    },
+    {
+      "date": "2026-04-10",
+      "close": 645.74
+    },
+    {
+      "date": "2026-04-13",
+      "close": 655.99
+    },
+    {
+      "date": "2026-04-14",
+      "close": 647.59
+    },
+    {
+      "date": "2026-04-15",
+      "close": 634.77
+    },
+    {
+      "date": "2026-04-16",
+      "close": 635.76
+    },
+    {
+      "date": "2026-04-17",
+      "close": 635.83
+    },
+    {
+      "date": "2026-04-20",
+      "close": 645.73
+    },
+    {
+      "date": "2026-04-21",
+      "close": 642.79
+    },
+    {
+      "date": "2026-04-22",
+      "close": 656.69
+    },
+    {
+      "date": "2026-04-23",
+      "close": 651.75
+    },
+    {
+      "date": "2026-04-24",
+      "close": 648.68
+    },
+    {
+      "date": "2026-04-27",
+      "close": 655.49
+    },
+    {
+      "date": "2026-04-28",
+      "close": 641.89
+    },
+    {
+      "date": "2026-04-29",
+      "close": 630.56
+    },
+    {
+      "date": "2026-04-30",
+      "close": 645.85
+    },
+    {
+      "date": "2026-05-01",
+      "close": 640.33
+    },
+    {
+      "date": "2026-05-04",
+      "close": 637.58
+    },
+    {
+      "date": "2026-05-05",
+      "close": 631.87
+    },
+    {
+      "date": "2026-05-06",
+      "close": 644.13
+    },
+    {
+      "date": "2026-05-07",
+      "close": 630.78
+    },
+    {
+      "date": "2026-05-08",
+      "close": 621.38
+    },
+    {
+      "date": "2026-05-11",
+      "close": 632.58
+    },
+    {
+      "date": "2026-05-12",
+      "close": 632.17
+    },
+    {
+      "date": "2026-05-13",
+      "close": 635.96
+    },
+    {
+      "date": "2026-05-14",
+      "close": 638.56
+    },
+    {
+      "date": "2026-05-15",
+      "close": 616.58
+    },
+    {
+      "date": "2026-05-18",
+      "close": 617.61
+    },
+    {
+      "date": "2026-05-19",
+      "close": 606.45
+    },
+    {
+      "date": "2026-05-20",
+      "close": 614.2
+    },
+    {
+      "date": "2026-05-21",
+      "close": 607.12
+    },
+    {
+      "date": "2026-05-22",
+      "close": 620.45
+    },
+    {
+      "date": "2026-05-26",
+      "close": 627.97
+    },
+    {
+      "date": "2026-05-27",
+      "close": 612.52
+    },
+    {
+      "date": "2026-05-28",
+      "close": 634.06
+    },
+    {
+      "date": "2026-05-29",
+      "close": 619.83
+    },
+    {
+      "date": "2026-06-01",
+      "close": 609.47
+    },
+    {
+      "date": "2026-06-02",
+      "close": 618.81
+    },
+    {
+      "date": "2026-06-03",
+      "close": 618.02
+    },
+    {
+      "date": "2026-06-04",
+      "close": 618.59
+    }
+  ],
+  "price_status": "ok"
+}

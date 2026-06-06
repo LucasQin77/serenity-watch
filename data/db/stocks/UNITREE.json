@@ -1,0 +1,102 @@
+{
+  "ticker": "UNITREE",
+  "cashtag": "Unitree",
+  "price_symbol": "UNITREE",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-04-15",
+  "last_mention": "2026-06-04",
+  "total_mentions": 4,
+  "mentions": [
+    {
+      "tweet_id": "2044282050040283436",
+      "date": "2026-04-15",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Unitree",
+      "text": "@yumimiya4 Unitree ipo",
+      "url": "https://x.com/aleabitoreddit/status/2044282050040283436",
+      "kind": "reply",
+      "engagement": {
+        "views": 8803,
+        "likes": 29,
+        "reposts": 0,
+        "replies": 5
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2054335940026573222",
+      "date": "2026-05-12",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Unitree (not public yet)",
+      "text": "Here's the humanoid exposure crowdsourced list:\n\n- $OUST \n- Rainbow Robotics (277810)\n- $AMBA \n- Ubtech Robotics\n- $MKA\n- Nextronics\n- $SYM\n- Harmonic Drive (6324)\n- $VPG \n- Beijing Geekplus\n- $MBLY\n- $ARBE \n- Nabtesco (6268)\n- $SERV\n- $HSYDF\n- Robotstrategy\n- $ZBRA\n- $CATL\n- $ABB \n- $BOT\n- Unitree (not public yet)\n- $LSCC \n- Esunny Robot (300024)\n- $NOVT\n- $RR\n- $PDY \n- Hesai (2525)\n- $SHA.DE\n- $XBOT\n- $XPEV\n- $BAM\n- $ALNT\n- 6268.T\n- $AMBQ\n- $ATOM\n- $MRAM\n- $ISRG\n- $HLIT\n- Robosense (2498)\n- $HG\n- $ACUVI\n- $CGNX\n- $KLIC\n- $BSL\n- $AEVA\n- $AUR\n- $CTH.V\n- $IMSR\n- $NEO\n- $KDK\n- $MRLN \n- $KITT\n- $INDI\n- $NOVT \n\nOff the top of my head:\n\nHarmonic Drive, $OUST, $BOT, $VPG, $MBLY, and Ubtech showed up the most. \n\nWill start doing DD into mentions.",
+      "url": "https://x.com/aleabitoreddit/status/2054335940026573222",
+      "kind": "post",
+      "engagement": {
+        "views": 736604,
+        "likes": 3593,
+        "reposts": 351,
+        "replies": 235
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2056549908438749581",
+      "date": "2026-05-18",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Unitree",
+      "text": "$BOT is still trading at 4x NAV.\n\nWith a $2,000,000,000 effective ATM.\n\nEven after the 21% drop.\n\nSo now it’s ~$600M MC, off $146M in private assets.\n\nThen off those assets, they own ~$37M of Figure. \n\nWhich you’re essentially buying at $160B valuations while the leading humanoid maker in Unitree is IPOing at $6B.\n\nSo just because a $146m private fund went public doesn’t mean there should be a multi-billion dollar retail wealth transfer?\n\nMaybe the fund had good intentions? \n\nBut idk after the $2B equity financing facility, that move just seems predatory when there’s already a valuation NAV disconnect.",
+      "url": "https://x.com/aleabitoreddit/status/2056549908438749581",
+      "kind": "post",
+      "engagement": {
+        "views": 654947,
+        "likes": 595,
+        "reposts": 22,
+        "replies": 173
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2062744101393715325",
+      "date": "2026-06-04",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Unitree",
+      "text": "@dean16889 (disclosure: I don't own shares of Leaderdrive, I'm just publishing my research for free). \n\nFor LeaderDrive, it's a material percentage of every humanoid that gets developed. \n\nAGIBot and Unitree has only started to scale up recently, and figures has just reached 10k units shipped (agibot). So P/E valuations would be very high currently since humanoids are not in mass production.  \n\nMarkets are forward looking though. If you think Tesla Optimus, Unitree can mass produce tens of millions or hundreds of millions of robots in the next few years.\n\nWith trillions of dollars flowing into the humanoid industry. \n\nIf you have 5% market capture of robot that gets made for the humanoid rollout. That's would command a much higher valuation than Leaderdrive's current marketcap. \n\nSo LeaderDrive was the robotics player I've identified with the most exposure so far.",
+      "url": "https://x.com/aleabitoreddit/status/2062744101393715325",
+      "kind": "reply",
+      "engagement": {
+        "views": 57054,
+        "likes": 134,
+        "reposts": 15,
+        "replies": 15
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

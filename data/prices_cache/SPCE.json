@@ -1,0 +1,24 @@
+{
+  "price_symbol": "SPCE",
+  "currency": "USD",
+  "price_unit": "USD",
+  "series": [
+    {
+      "date": "2026-06-01",
+      "close": 7.52
+    },
+    {
+      "date": "2026-06-02",
+      "close": 4.59
+    },
+    {
+      "date": "2026-06-03",
+      "close": 4.29
+    },
+    {
+      "date": "2026-06-04",
+      "close": 4.72
+    }
+  ],
+  "last_updated": "2026-06-05T20:34:23.187575+00:00"
+}

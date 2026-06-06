@@ -1,0 +1,933 @@
+{
+  "ticker": "CEG",
+  "cashtag": "$CEG",
+  "price_symbol": "CEG",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-09-17",
+  "last_mention": "2026-04-09",
+  "total_mentions": 9,
+  "mentions": [
+    {
+      "tweet_id": "1968453391115321708",
+      "date": "2025-09-17",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "AI consumption catalyst for energy companies"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$CEG",
+      "text": "@SaiPhan94570565 Thanks bought $20k just now of $NFE. \n\nMain issue was debt but projected 3 rate cuts will help reduce their floating interest. \n\nAI consumption is a great catalyst for energy companies too for like $VST or $CEG, worth a gamble. https://t.co/skI1qMblls",
+      "url": "https://x.com/aleabitoreddit/status/1968453391115321708",
+      "kind": "reply",
+      "engagement": {
+        "views": 3086,
+        "likes": 4,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1975939920096333933",
+      "date": "2025-10-08",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "@DigestingX I’m just focusing on higher risk higher upside energy plays, like low market cap, that would benefit off rate cuts too.\n\nI’ve heard of $NEE and $CEG but I don’t know enough about energy. So I’m just half-blindly  buying the sector from other DD I’ve seen.",
+      "url": "https://x.com/aleabitoreddit/status/1975939920096333933",
+      "kind": "reply",
+      "engagement": {
+        "views": 4286,
+        "likes": 4,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2023061769313542601",
+      "date": "2026-02-15",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "OpenAI sent a memo to congress regarding Deepseek distillation:\n\n\"Sustaining the American advantage on AI depends on depends on whether we can reliably generate and deliver power at scale.\"\n\nPower Delivery - $VRT, $ETN, $PWR, $WMB, $KMI\nTier-1 Energy Providers: $CEG, $VST, $TLN, $GEV, $NEE, $BEPC, $D\nGrid-Energy / Storage - $TSLA, $FLNC, $NRGV, $BE\nEnergy: $TE, $FSLR, $NRG\n\nThis is a tailwind reiterated for these companies. \n\nAnd there's a second-order tailwind for companies that already secured GW capacity like $IREN, $NBIS, $WULF, and $CIFR. \n\nThe core issue of the memo was around IP theft and national security issues. But the largest warning about sustaining an advantage was Energy. \n\nOpenAI warning Congress that in 2024, China added 429 Gigawatts (GW) of new power capacity, which was more than a third of the entire US grid and more than half of global electricity growth. Without a radical expansion of the American power grid, they believe China’s \"brute force\" energy buildout will eventually allow them to surpass Western AI capabilities.\n\nPhotonics, Advanced Packaging, and Memory are three fastest growing bottlenecks right now. However, OpenAI explicitly warned the U.S. government that whoever generates the most power wins the AI race.\n\nTheir message: Invest in American Energy.",
+      "url": "https://x.com/aleabitoreddit/status/2023061769313542601",
+      "kind": "post",
+      "engagement": {
+        "views": 59705,
+        "likes": 498,
+        "reposts": 56,
+        "replies": 29
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2023206956601876691",
+      "date": "2026-02-15",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "perfectly positioned for AI's massive energy demands",
+        "bottleneck: power & data centers"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "Retail is panicking that US Job Numbers have been now revised down by over 1 Million. \n\nBut you are likely missing the bigger picture. \n\nHere's what happened, and how to structure the trade:\n\nThis job revision signals a structural change.\n\nAnd it's the first time in history that this has happened.\n\nWhile the media blames high interest rates and a cooling economy, we are witnessing a collision of cycles: \n\nA cyclical economic slowdown is masking a permanent, structural shift in the history of human labor.\n\nThe 1 million job revision was technological due to AI and automation. This does not signal a slowing economy.  Most analysts assume companies will re-hire when the Fed cuts rates and the economy recovers. They are wrong.\n\nCorporations are executing \"silent downsizings.\"\n\nIn February 2026, the Bureau of Labor Statistics revised payroll jobs at the end of 2025 down 1.03 Million Jobs (From an originally estimated 159.5M). \n\nThe total net growth jobs from a reported 584,000 was slashed down to 181,000.Outside of healthcare and government, the 2025, job market was stagnant.\n\nWhy? \n\nCompanies like $AMZN leaked internal strategy that they plan to automate 75% of their entire operations and slash 600,000 jobs with AI and cobots (collaberative robots) to avoid hiring new workers. \n\nThis saves the company $12.6B/year and cuts opex costs by 30 cents off every item shipped.\n\nThis is not unique. Software engineering, as an example,  declined across the board as Opus and Codex have been replacing the engineers at $GOOGl and others.\n\nAI is finally sophisticated enough to handle, creative writing, routine logistics, data entry, coding, customer service, and marketing, causing hiring freezes and downsizing across the board. \n\nHere are the second order effects: \n\n- Corporate profit margins will explode. If Amazon saves $12.6B/year with AI automation, companies like Walmart, Target, and Fedex will do the same to survive. \n\nThe second order effect is a massive transfer transfer of wealth from human wages to shareholder value and corporate profits. \n\n-  Bifurcated Labor Market\n\nBasic to mid-level jobs and physical labor will likely see a permanent hiring freeze (software engineers to junior level tasks). Meanwhile, high-level AI engineers, robotics engineers, will command massive wage premiums. \n\nVerdict: This is not a good time to just hold cash long term. This is a losing strategy as Federal Reserve cuts interest rates and yields on CDs and money markets will drop + inflation eats away at pursing power over time.\n\nPeople like to joke that in the next 3-5 years, the only chance to save yourself from the underclass is investing in the top AI supply chains that benefit. \n\nThey might not be joking. Corporate profits will likely explode and they are permanently decoupling their revenue from human headcount.\n\nMegacaps (margin expanders):\n$NVDA and Samsung are estimated to make over $200 Billion in pure net cash a year by 2027.  \n\nWhile Sk Hynix, $GOOGL, $TSM, $META, $MSFT, and others are expected to make over $100B+ in pure cash/year despite declining headcounts. \n\nAutomation (displacing human work): \n$SYM, $TER, $TSLA and others are set to replace human work as well. \n\nBottlenecks: Power & Data Centers\nAI's energy demands are massive. $CEG, $VST, $ETN are perfectly positioned. \n\nare just a few examples. \n\nInvesting in AI equities is unfortunately the necessary hedge against unemployment revisions, not holding cash.",
+      "url": "https://x.com/aleabitoreddit/status/2023206956601876691",
+      "kind": "post",
+      "engagement": {
+        "views": 207638,
+        "likes": 673,
+        "reposts": 72,
+        "replies": 81
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2024556607762550943",
+      "date": "2026-02-19",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "Trade Idea: Long OTM $XLU leaps (2 years, Dec 2027/Jan 2028).\n\nThis feels like once-a-generation long due to AI. \n\nXLU has concentration in $VST / $CEG power companies. \n\nTwo reasons:\n\n1. Paradigm shift due to AI DC electricity usage.\n\n2. Low option IV (~14%) based on historical averages (flat since 2000s).\n\nAI power usage is astronomical. \n\nThis cannot be understated.\n\nNever before in history have DCs use up this much GWs in power, especially when they require outputs of nuclear reactors for training LLMs.\n\nThis forces $META, $AMZN, $GOOGL, and others to sign multi-year agreements to consume as much power as possible. And yet they still don't have enough.\n\n-> So, trillions would likely be poured into grid upgrades. \n\nUsually interest rates hurt the sector but we're going into more rate cuts, so it makes the sector a much better long. \n\nOpenAI's letter to congress pleaded the US to invest in energy as well to compete vs. China.\n\nSo, this feels like a once-a-decade type long due to:\n\n- paradigm shift eating up any available power from AI\n- trillions in grid upgrades to compete vs. China\n- rate cuts. \n\nAnd low IV pricing from historical averages.",
+      "url": "https://x.com/aleabitoreddit/status/2024556607762550943",
+      "kind": "post",
+      "engagement": {
+        "views": 343620,
+        "likes": 668,
+        "reposts": 70,
+        "replies": 56
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2024560808475447316",
+      "date": "2026-02-19",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "@SnakePoops Risk is largely overstated. they still go directly to $CEG or others in $XLU to pull power directly for \"off-grid\". Lot of regulatory problems too.",
+      "url": "https://x.com/aleabitoreddit/status/2024560808475447316",
+      "kind": "reply",
+      "engagement": {
+        "views": 7467,
+        "likes": 15,
+        "reposts": 1,
+        "replies": 0
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2024563428220940628",
+      "date": "2026-02-19",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "@adenois few things, $CEG, $VVST and others are independent so they have more pricing power. they're also a large % of $XLU concentration +  power capacity prices are skyrocking.\n\nAnd with AI, yes demand &gt; supply and mag7 is largely funding this new historic grid expansion.",
+      "url": "https://x.com/aleabitoreddit/status/2024563428220940628",
+      "kind": "reply",
+      "engagement": {
+        "views": 5590,
+        "likes": 10,
+        "reposts": 0,
+        "replies": 0
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2025222163251540079",
+      "date": "2026-02-21",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "@ParTheBuilder This is a riskier option for maximum returns using OTM options in an extremely low volatility ETF in $XLU for US power/grid exposure.\n\nYou won't get the same returns from $VST, $CEG, or $TLN, even if they double. \n\nDon't need to pick individual winners with ETFs, sector as a whole should benefit.",
+      "url": "https://x.com/aleabitoreddit/status/2025222163251540079",
+      "kind": "reply",
+      "engagement": {
+        "views": 25144,
+        "likes": 54,
+        "reposts": 1,
+        "replies": 4
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2042187668931616964",
+      "date": "2026-04-09",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CEG",
+      "text": "Here's a bunch of random 30 US-available random stocks I like today and why:  \n\n1. $INTC - America's hope for foundry, national security\n2. $MRVL - scales rev from future maia asics and add ons like cpo, they do everything lost count\n3. $TSM - backbone of semis/ai\n4. $COHR - They do everything vertically integrated + captures optical cycle\n5. $RKLB - the final frontier of space will be around 5 years from now and 20 years from now. \n6. $DRAM - memory exposure for samsung/sk hynix\n7. $AVGO - hyperscalers dont like nvidia gpu tax\n8. $AMZN - nobody can compete against the overnight shipping of toilet paper. robotics will lower opex over time\n9. $ARM - AGI CPUs scale revenue quite a bit over the next decade\n10. $TSEM - you're going to need a foundry for light based stuff\n11. $IBIT - bitcoin, we all know by now\n12. $NBIS - i think it's the next AWS. Also they do self-driving cars with uber, own scaling DB companies, data labeling. It's almost like a mini Google. \n13. $GOOGL - youtube is not going away, gemini is great. they're vertically integrated with TPUs and fund buildout with operating income so i like it. \n14. $AMKR - super facilities coming online in late 2027-2028. benefits from made in america\n15. $HOOD - i dont like short term, but long term i'm a fan of Robinhood since they captured retail + have more products like banking, etc that they're scaling up. product innovation is wild.\n16. $CRCL - I happen to really like stablecoins and see them as the future for both payments/holding (depends on clarity act)\n17. $META - people aren't going to stop using instagram or whatsapp, or others anytime soon. \n18. $LITE - $GOOGL TPU exposure decently high part of BOM. As long as Google's AI program keeps running I think $LITE will do well.\n19. $LPTH - Germanium and China export controls will always be an issue so US made engineered alternatives  will always be important\n20. $FN - Someone needs to assemble optical stuff\n21. $JBL - same as above, but added with ip from Intel's SiPh acqusition so might end up like innolight?\n22. $MP - American rare earths program is extremely important, similar to $INTC national security risks\n23. $HIMS - Okay here me out they just acquired a ton of companies, and at $19 they have global DTC channel. short sellers really hate this company, but I think it's actually promising as a contrarian long\n24. $SMTC - LRO/LPO transition\n25. $POWL - US alternative to hammond for switchgear DC type bottleneck\n26. $VPG - Humanoids will be a thing down the road maybe 2027-2028, this makes the sensors. \n27. $MOG.A - Feels like i see them everywhere in robotics, to spacex supply chains\n28. $MSFT - At $375, one day we'll look back and see this as a buying opportunity.\n29. $CVX - oil might crash after war but these oil companies are going to be extremely important, especially when Venezulea is a goldmine.\n30. $XLU - i think rate cuts might be back online, we need power/grid for AI so these names will always be improtant from $CEG to $NEE\n\nJust throwing out other thoughts aside from $AAOI and $AEHR.",
+      "url": "https://x.com/aleabitoreddit/status/2042187668931616964",
+      "kind": "post",
+      "engagement": {
+        "views": 2775799,
+        "likes": 6475,
+        "reposts": 801,
+        "replies": 193
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2025-09-17",
+      "close": 321.275
+    },
+    {
+      "date": "2025-09-18",
+      "close": 322.71
+    },
+    {
+      "date": "2025-09-19",
+      "close": 330.9
+    },
+    {
+      "date": "2025-09-22",
+      "close": 347.12
+    },
+    {
+      "date": "2025-09-23",
+      "close": 336.65
+    },
+    {
+      "date": "2025-09-24",
+      "close": 339.13
+    },
+    {
+      "date": "2025-09-25",
+      "close": 326.33
+    },
+    {
+      "date": "2025-09-26",
+      "close": 331.26
+    },
+    {
+      "date": "2025-09-29",
+      "close": 334.265
+    },
+    {
+      "date": "2025-09-30",
+      "close": 329.07
+    },
+    {
+      "date": "2025-10-01",
+      "close": 350.9
+    },
+    {
+      "date": "2025-10-02",
+      "close": 357.46
+    },
+    {
+      "date": "2025-10-03",
+      "close": 360.0
+    },
+    {
+      "date": "2025-10-06",
+      "close": 364.1
+    },
+    {
+      "date": "2025-10-07",
+      "close": 358.16
+    },
+    {
+      "date": "2025-10-08",
+      "close": 371.0
+    },
+    {
+      "date": "2025-10-09",
+      "close": 383.23
+    },
+    {
+      "date": "2025-10-10",
+      "close": 368.49
+    },
+    {
+      "date": "2025-10-13",
+      "close": 380.91
+    },
+    {
+      "date": "2025-10-14",
+      "close": 389.56
+    },
+    {
+      "date": "2025-10-15",
+      "close": 403.95
+    },
+    {
+      "date": "2025-10-16",
+      "close": 396.53
+    },
+    {
+      "date": "2025-10-17",
+      "close": 386.5
+    },
+    {
+      "date": "2025-10-20",
+      "close": 370.0
+    },
+    {
+      "date": "2025-10-21",
+      "close": 358.79
+    },
+    {
+      "date": "2025-10-22",
+      "close": 350.06
+    },
+    {
+      "date": "2025-10-23",
+      "close": 365.8
+    },
+    {
+      "date": "2025-10-24",
+      "close": 389.19
+    },
+    {
+      "date": "2025-10-27",
+      "close": 391.15
+    },
+    {
+      "date": "2025-10-28",
+      "close": 384.95
+    },
+    {
+      "date": "2025-10-29",
+      "close": 401.43
+    },
+    {
+      "date": "2025-10-30",
+      "close": 382.48
+    },
+    {
+      "date": "2025-10-31",
+      "close": 377.0
+    },
+    {
+      "date": "2025-11-03",
+      "close": 377.71
+    },
+    {
+      "date": "2025-11-04",
+      "close": 362.82
+    },
+    {
+      "date": "2025-11-05",
+      "close": 363.25
+    },
+    {
+      "date": "2025-11-06",
+      "close": 351.3
+    },
+    {
+      "date": "2025-11-07",
+      "close": 358.39
+    },
+    {
+      "date": "2025-11-10",
+      "close": 360.93
+    },
+    {
+      "date": "2025-11-11",
+      "close": 351.67
+    },
+    {
+      "date": "2025-11-12",
+      "close": 354.02
+    },
+    {
+      "date": "2025-11-13",
+      "close": 335.74
+    },
+    {
+      "date": "2025-11-14",
+      "close": 338.52
+    },
+    {
+      "date": "2025-11-17",
+      "close": 338.67
+    },
+    {
+      "date": "2025-11-18",
+      "close": 339.35
+    },
+    {
+      "date": "2025-11-19",
+      "close": 357.48
+    },
+    {
+      "date": "2025-11-20",
+      "close": 345.78
+    },
+    {
+      "date": "2025-11-21",
+      "close": 338.11
+    },
+    {
+      "date": "2025-11-24",
+      "close": 354.105
+    },
+    {
+      "date": "2025-11-25",
+      "close": 351.595
+    },
+    {
+      "date": "2025-11-26",
+      "close": 359.09
+    },
+    {
+      "date": "2025-11-28",
+      "close": 364.39
+    },
+    {
+      "date": "2025-12-01",
+      "close": 359.05
+    },
+    {
+      "date": "2025-12-02",
+      "close": 363.67
+    },
+    {
+      "date": "2025-12-03",
+      "close": 361.26
+    },
+    {
+      "date": "2025-12-04",
+      "close": 368.62
+    },
+    {
+      "date": "2025-12-05",
+      "close": 359.82
+    },
+    {
+      "date": "2025-12-08",
+      "close": 357.67
+    },
+    {
+      "date": "2025-12-09",
+      "close": 359.15
+    },
+    {
+      "date": "2025-12-10",
+      "close": 362.07
+    },
+    {
+      "date": "2025-12-11",
+      "close": 378.6
+    },
+    {
+      "date": "2025-12-12",
+      "close": 351.98
+    },
+    {
+      "date": "2025-12-15",
+      "close": 357.14
+    },
+    {
+      "date": "2025-12-16",
+      "close": 365.625
+    },
+    {
+      "date": "2025-12-17",
+      "close": 340.97
+    },
+    {
+      "date": "2025-12-18",
+      "close": 361.05
+    },
+    {
+      "date": "2025-12-19",
+      "close": 355.4
+    },
+    {
+      "date": "2025-12-22",
+      "close": 357.81
+    },
+    {
+      "date": "2025-12-23",
+      "close": 361.33
+    },
+    {
+      "date": "2025-12-24",
+      "close": 363.95
+    },
+    {
+      "date": "2025-12-26",
+      "close": 360.46
+    },
+    {
+      "date": "2025-12-29",
+      "close": 358.33
+    },
+    {
+      "date": "2025-12-30",
+      "close": 357.12
+    },
+    {
+      "date": "2025-12-31",
+      "close": 353.27
+    },
+    {
+      "date": "2026-01-02",
+      "close": 366.25
+    },
+    {
+      "date": "2026-01-05",
+      "close": 354.94
+    },
+    {
+      "date": "2026-01-06",
+      "close": 354.58
+    },
+    {
+      "date": "2026-01-07",
+      "close": 338.63
+    },
+    {
+      "date": "2026-01-08",
+      "close": 322.54
+    },
+    {
+      "date": "2026-01-09",
+      "close": 342.52
+    },
+    {
+      "date": "2026-01-12",
+      "close": 335.86
+    },
+    {
+      "date": "2026-01-13",
+      "close": 333.53
+    },
+    {
+      "date": "2026-01-14",
+      "close": 330.38
+    },
+    {
+      "date": "2026-01-15",
+      "close": 341.2
+    },
+    {
+      "date": "2026-01-16",
+      "close": 307.71
+    },
+    {
+      "date": "2026-01-20",
+      "close": 295.4
+    },
+    {
+      "date": "2026-01-21",
+      "close": 294.37
+    },
+    {
+      "date": "2026-01-22",
+      "close": 287.35
+    },
+    {
+      "date": "2026-01-23",
+      "close": 289.06
+    },
+    {
+      "date": "2026-01-26",
+      "close": 285.27
+    },
+    {
+      "date": "2026-01-27",
+      "close": 288.76
+    },
+    {
+      "date": "2026-01-28",
+      "close": 287.95
+    },
+    {
+      "date": "2026-01-29",
+      "close": 287.45
+    },
+    {
+      "date": "2026-01-30",
+      "close": 280.68
+    },
+    {
+      "date": "2026-02-02",
+      "close": 270.88
+    },
+    {
+      "date": "2026-02-03",
+      "close": 268.45
+    },
+    {
+      "date": "2026-02-04",
+      "close": 250.46
+    },
+    {
+      "date": "2026-02-05",
+      "close": 247.06
+    },
+    {
+      "date": "2026-02-06",
+      "close": 261.42
+    },
+    {
+      "date": "2026-02-09",
+      "close": 272.15
+    },
+    {
+      "date": "2026-02-10",
+      "close": 271.14
+    },
+    {
+      "date": "2026-02-11",
+      "close": 276.85
+    },
+    {
+      "date": "2026-02-12",
+      "close": 276.12
+    },
+    {
+      "date": "2026-02-13",
+      "close": 288.43
+    },
+    {
+      "date": "2026-02-17",
+      "close": 303.01
+    },
+    {
+      "date": "2026-02-18",
+      "close": 294.05
+    },
+    {
+      "date": "2026-02-19",
+      "close": 291.66
+    },
+    {
+      "date": "2026-02-20",
+      "close": 294.84
+    },
+    {
+      "date": "2026-02-23",
+      "close": 293.8
+    },
+    {
+      "date": "2026-02-24",
+      "close": 312.64
+    },
+    {
+      "date": "2026-02-25",
+      "close": 325.84
+    },
+    {
+      "date": "2026-02-26",
+      "close": 323.56
+    },
+    {
+      "date": "2026-02-27",
+      "close": 329.88
+    },
+    {
+      "date": "2026-03-02",
+      "close": 327.16
+    },
+    {
+      "date": "2026-03-03",
+      "close": 324.87
+    },
+    {
+      "date": "2026-03-04",
+      "close": 322.85
+    },
+    {
+      "date": "2026-03-05",
+      "close": 332.07
+    },
+    {
+      "date": "2026-03-06",
+      "close": 319.06
+    },
+    {
+      "date": "2026-03-09",
+      "close": 322.99
+    },
+    {
+      "date": "2026-03-10",
+      "close": 317.09
+    },
+    {
+      "date": "2026-03-11",
+      "close": 300.69
+    },
+    {
+      "date": "2026-03-12",
+      "close": 301.55
+    },
+    {
+      "date": "2026-03-13",
+      "close": 301.77
+    },
+    {
+      "date": "2026-03-16",
+      "close": 305.58
+    },
+    {
+      "date": "2026-03-17",
+      "close": 307.69
+    },
+    {
+      "date": "2026-03-18",
+      "close": 317.22
+    },
+    {
+      "date": "2026-03-19",
+      "close": 316.47
+    },
+    {
+      "date": "2026-03-20",
+      "close": 281.99
+    },
+    {
+      "date": "2026-03-23",
+      "close": 289.76
+    },
+    {
+      "date": "2026-03-24",
+      "close": 294.85
+    },
+    {
+      "date": "2026-03-25",
+      "close": 303.32
+    },
+    {
+      "date": "2026-03-26",
+      "close": 295.19
+    },
+    {
+      "date": "2026-03-27",
+      "close": 301.49
+    },
+    {
+      "date": "2026-03-30",
+      "close": 298.61
+    },
+    {
+      "date": "2026-03-31",
+      "close": 279.25
+    },
+    {
+      "date": "2026-04-01",
+      "close": 279.46
+    },
+    {
+      "date": "2026-04-02",
+      "close": 272.82
+    },
+    {
+      "date": "2026-04-06",
+      "close": 275.16
+    },
+    {
+      "date": "2026-04-07",
+      "close": 272.58
+    },
+    {
+      "date": "2026-04-08",
+      "close": 284.27
+    },
+    {
+      "date": "2026-04-09",
+      "close": 280.25
+    },
+    {
+      "date": "2026-04-10",
+      "close": 286.5
+    },
+    {
+      "date": "2026-04-13",
+      "close": 291.72
+    },
+    {
+      "date": "2026-04-14",
+      "close": 296.61
+    },
+    {
+      "date": "2026-04-15",
+      "close": 294.73
+    },
+    {
+      "date": "2026-04-16",
+      "close": 299.14
+    },
+    {
+      "date": "2026-04-17",
+      "close": 296.21
+    },
+    {
+      "date": "2026-04-20",
+      "close": 287.56
+    },
+    {
+      "date": "2026-04-21",
+      "close": 277.7
+    },
+    {
+      "date": "2026-04-22",
+      "close": 287.16
+    },
+    {
+      "date": "2026-04-23",
+      "close": 292.77
+    },
+    {
+      "date": "2026-04-24",
+      "close": 313.53
+    },
+    {
+      "date": "2026-04-27",
+      "close": 315.17
+    },
+    {
+      "date": "2026-04-28",
+      "close": 305.71
+    },
+    {
+      "date": "2026-04-29",
+      "close": 297.0
+    },
+    {
+      "date": "2026-04-30",
+      "close": 313.0
+    },
+    {
+      "date": "2026-05-01",
+      "close": 307.81
+    },
+    {
+      "date": "2026-05-04",
+      "close": 321.05
+    },
+    {
+      "date": "2026-05-05",
+      "close": 320.42
+    },
+    {
+      "date": "2026-05-06",
+      "close": 322.78
+    },
+    {
+      "date": "2026-05-07",
+      "close": 311.28
+    },
+    {
+      "date": "2026-05-08",
+      "close": 303.63
+    },
+    {
+      "date": "2026-05-11",
+      "close": 299.69
+    },
+    {
+      "date": "2026-05-12",
+      "close": 293.6
+    },
+    {
+      "date": "2026-05-13",
+      "close": 274.89
+    },
+    {
+      "date": "2026-05-14",
+      "close": 275.26
+    },
+    {
+      "date": "2026-05-15",
+      "close": 267.2
+    },
+    {
+      "date": "2026-05-18",
+      "close": 262.0
+    },
+    {
+      "date": "2026-05-19",
+      "close": 260.67
+    },
+    {
+      "date": "2026-05-20",
+      "close": 281.26
+    },
+    {
+      "date": "2026-05-21",
+      "close": 285.83
+    },
+    {
+      "date": "2026-05-22",
+      "close": 294.07
+    },
+    {
+      "date": "2026-05-26",
+      "close": 301.57
+    },
+    {
+      "date": "2026-05-27",
+      "close": 288.68
+    },
+    {
+      "date": "2026-05-28",
+      "close": 286.31
+    },
+    {
+      "date": "2026-05-29",
+      "close": 287.75
+    },
+    {
+      "date": "2026-06-01",
+      "close": 265.7
+    },
+    {
+      "date": "2026-06-02",
+      "close": 272.65
+    },
+    {
+      "date": "2026-06-03",
+      "close": 267.24
+    },
+    {
+      "date": "2026-06-04",
+      "close": 264.59
+    }
+  ],
+  "price_status": "ok"
+}

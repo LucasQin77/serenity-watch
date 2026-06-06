@@ -1,0 +1,463 @@
+{
+  "ticker": "ASPI",
+  "cashtag": "$ASPI",
+  "price_symbol": "ASPI",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-01-28",
+  "last_mention": "2026-05-31",
+  "total_mentions": 4,
+  "mentions": [
+    {
+      "tweet_id": "2016590495968055600",
+      "date": "2026-01-28",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "very speculative"
+      ],
+      "is_risk": true,
+      "conviction": "low",
+      "raw_mention": "$ASPI",
+      "text": "@BigBallsSef As the others said $ASPI is very speculative and $LEU is the only one that can produce HALEU today.\n\nThat being said I’m sure they’re a potential beneficiary of this supply chain investment by DOE and private investors, esp. since Trump family is involved with that quantum enrichment production method in their subsidiary",
+      "url": "https://x.com/aleabitoreddit/status/2016590495968055600",
+      "kind": "reply",
+      "engagement": {
+        "views": 18770,
+        "likes": 45,
+        "reposts": 4,
+        "replies": 5
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2039906072291611057",
+      "date": "2026-04-02",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ASPI",
+      "text": "Serenity's Followers Favorite Stock Parabolic Growth ETF:\n\nThe most anticipated ETF of all time:\n\n$TRT - $5.88\n$HGRAF - $4.49\n$SIVE - 9.9 SEK\n$QURE - $17.21\n$AEHR - $45.08\n$ENVX - $5.07\n$ASPI - $4.2\n$EONR - $11.79\n$LPK.DE - 6.59 EUR\n$MITK - $13.9\n$EQR.AX - .315 AUD\n$WATT - $15.8\n$VLN - $1.16\n$BZAI - $1.79\n$TMC - $4.59\n$ALCJ - $74.57\n$POET - $6.11\n$AAOI - $108.86\n$ADUR - $10.37\n$P4O.DE - 6.85 EUR\n$PLAB - $40.87\n$FLY - $33.16\n$LASR - $60.7\n$AL2SI - 28.70 EUR\n$ENAFF - $1.71\n$VPG - $44.7\n$EOS.AX - $9.00\n\nI haven't heard of 1/3rd of these names, but if my followers have high conviction that their name will 10x...\n\nSo do I.",
+      "url": "https://x.com/aleabitoreddit/status/2039906072291611057",
+      "kind": "post",
+      "engagement": {
+        "views": 772421,
+        "likes": 1393,
+        "reposts": 115,
+        "replies": 85
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2043096081060504057",
+      "date": "2026-04-11",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ASPI",
+      "text": "Serenity's Follower Picked Hyperbolic 10x ETF Performance. \n\nWeek 1: +12.39% \n$AEHR: +56.72% ($45.08 -> $70.65)\n$AAOI: +39.63% ($108.86 -> $152.00)\n$SIVE: +35.35% (9.9 SEK -> 13.4 SEK)\n$ENAFF: +31.58% ($1.71 -> $2.25)\n$AL2SI: +25.44% (28.70 EUR -> 36 EUR)\n$ENVX: +21.30% ($5.07 -> $6.15)\n$BZAI: +18.99% ($1.79 -> $2.13)\n$POET: +16.04% ($6.11 -> $7.09)\n$WATT: +14.81% ($15.8 -> $18.14)\n$HGRAF: +14.48% ($4.49 -> $5.14)\n$VLN: +13.79% ($1.16 -> $1.32)\n$LPK.DE: +13.20% (6.59 EUR -> 7.46 EUR)\n$FLY: +13.09% ($33.16 -> $37.50)\n$VPG: +11.63% ($44.7 -> $49.90)\n$PLAB: +9.86% ($40.87 -> $44.90)\n$TRT: +8.33% ($5.88 -> $6.37)\n$EQR.AX: +7.94% (.315 AUD -> .34 AUD)\n$LASR: +7.92% ($60.7 -> $65.51)\n$ASPI: +6.67% ($4.2 -> $4.48)\n$P4O.DE: +5.69% (6.85 EUR -> 7.24 EUR)\n$EOS.AX: +3.11% ($9.00-> $9.28)\n$ADUR: -0.29% ($10.37 -> $10.34)\n$MITK: -2.52% ($13.9 -> $13.55)\n$ALCJ: -3.41% (2.05 EUR -> 1.98 EUR)\n$TMC: -5.01% ($4.59 -> $4.36)\n$QURE: -9.94% ($17.21 -> $15.50)\n$EONR: -20.00% ($.9 -> $.72)\n\nTop 3:\n1. $AEHR: +56.72%\n2. $AAOI: +39.63%\n3. $SIVE: +35.35%\n\nHonorable mention $ENAFF with a 31.58% return. \n\nWeighted average was 12.39%. \n\nHonestly not bad everyone, you beat year index returns in just 1 week.",
+      "url": "https://x.com/aleabitoreddit/status/2043096081060504057",
+      "kind": "post",
+      "engagement": {
+        "views": 173602,
+        "likes": 968,
+        "reposts": 57,
+        "replies": 66
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061093085568966664",
+      "date": "2026-05-31",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "previously mentioned as a name that performed well"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ASPI",
+      "text": "Okay chat, it’s been awhile since the previous one.\n\nAnd a ton of names from $VPG to $ASPI cooked.\n\nSo crowdsourcing a new list:\n\nWhat’s your highest conviction ticker that you think can 10x in a short timeframe, and why? https://t.co/Rt21dTMtDK",
+      "url": "https://x.com/aleabitoreddit/status/2061093085568966664",
+      "kind": "post",
+      "engagement": {
+        "views": 390299,
+        "likes": 1997,
+        "reposts": 153,
+        "replies": 778
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-01-28",
+      "close": 7.94
+    },
+    {
+      "date": "2026-01-29",
+      "close": 7.24
+    },
+    {
+      "date": "2026-01-30",
+      "close": 6.34
+    },
+    {
+      "date": "2026-02-02",
+      "close": 6.035
+    },
+    {
+      "date": "2026-02-03",
+      "close": 6.31
+    },
+    {
+      "date": "2026-02-04",
+      "close": 5.805
+    },
+    {
+      "date": "2026-02-05",
+      "close": 5.215
+    },
+    {
+      "date": "2026-02-06",
+      "close": 5.815
+    },
+    {
+      "date": "2026-02-09",
+      "close": 5.73
+    },
+    {
+      "date": "2026-02-10",
+      "close": 5.47
+    },
+    {
+      "date": "2026-02-11",
+      "close": 5.67
+    },
+    {
+      "date": "2026-02-12",
+      "close": 5.13
+    },
+    {
+      "date": "2026-02-13",
+      "close": 5.22
+    },
+    {
+      "date": "2026-02-17",
+      "close": 5.385
+    },
+    {
+      "date": "2026-02-18",
+      "close": 5.49
+    },
+    {
+      "date": "2026-02-19",
+      "close": 5.46
+    },
+    {
+      "date": "2026-02-20",
+      "close": 5.2
+    },
+    {
+      "date": "2026-02-23",
+      "close": 5.33
+    },
+    {
+      "date": "2026-02-24",
+      "close": 5.42
+    },
+    {
+      "date": "2026-02-25",
+      "close": 5.74
+    },
+    {
+      "date": "2026-02-26",
+      "close": 5.66
+    },
+    {
+      "date": "2026-02-27",
+      "close": 5.34
+    },
+    {
+      "date": "2026-03-02",
+      "close": 5.5
+    },
+    {
+      "date": "2026-03-03",
+      "close": 5.26
+    },
+    {
+      "date": "2026-03-04",
+      "close": 5.31
+    },
+    {
+      "date": "2026-03-05",
+      "close": 5.11
+    },
+    {
+      "date": "2026-03-06",
+      "close": 5.55
+    },
+    {
+      "date": "2026-03-09",
+      "close": 5.81
+    },
+    {
+      "date": "2026-03-10",
+      "close": 6.04
+    },
+    {
+      "date": "2026-03-11",
+      "close": 5.68
+    },
+    {
+      "date": "2026-03-12",
+      "close": 5.85
+    },
+    {
+      "date": "2026-03-13",
+      "close": 5.28
+    },
+    {
+      "date": "2026-03-16",
+      "close": 5.34
+    },
+    {
+      "date": "2026-03-17",
+      "close": 4.97
+    },
+    {
+      "date": "2026-03-18",
+      "close": 4.645
+    },
+    {
+      "date": "2026-03-19",
+      "close": 4.37
+    },
+    {
+      "date": "2026-03-20",
+      "close": 4.215
+    },
+    {
+      "date": "2026-03-23",
+      "close": 4.83
+    },
+    {
+      "date": "2026-03-24",
+      "close": 4.98
+    },
+    {
+      "date": "2026-03-25",
+      "close": 5.04
+    },
+    {
+      "date": "2026-03-26",
+      "close": 4.61
+    },
+    {
+      "date": "2026-03-27",
+      "close": 4.37
+    },
+    {
+      "date": "2026-03-30",
+      "close": 4.22
+    },
+    {
+      "date": "2026-03-31",
+      "close": 4.42
+    },
+    {
+      "date": "2026-04-01",
+      "close": 4.11
+    },
+    {
+      "date": "2026-04-02",
+      "close": 4.29
+    },
+    {
+      "date": "2026-04-06",
+      "close": 4.21
+    },
+    {
+      "date": "2026-04-07",
+      "close": 4.07
+    },
+    {
+      "date": "2026-04-08",
+      "close": 4.5
+    },
+    {
+      "date": "2026-04-09",
+      "close": 4.21
+    },
+    {
+      "date": "2026-04-10",
+      "close": 4.48
+    },
+    {
+      "date": "2026-04-13",
+      "close": 5.06
+    },
+    {
+      "date": "2026-04-14",
+      "close": 5.0
+    },
+    {
+      "date": "2026-04-15",
+      "close": 5.38
+    },
+    {
+      "date": "2026-04-16",
+      "close": 5.11
+    },
+    {
+      "date": "2026-04-17",
+      "close": 5.37
+    },
+    {
+      "date": "2026-04-20",
+      "close": 5.47
+    },
+    {
+      "date": "2026-04-21",
+      "close": 5.06
+    },
+    {
+      "date": "2026-04-22",
+      "close": 5.61
+    },
+    {
+      "date": "2026-04-23",
+      "close": 5.43
+    },
+    {
+      "date": "2026-04-24",
+      "close": 5.35
+    },
+    {
+      "date": "2026-04-27",
+      "close": 5.65
+    },
+    {
+      "date": "2026-04-28",
+      "close": 5.24
+    },
+    {
+      "date": "2026-04-29",
+      "close": 4.94
+    },
+    {
+      "date": "2026-04-30",
+      "close": 5.26
+    },
+    {
+      "date": "2026-05-01",
+      "close": 5.15
+    },
+    {
+      "date": "2026-05-04",
+      "close": 5.16
+    },
+    {
+      "date": "2026-05-05",
+      "close": 5.13
+    },
+    {
+      "date": "2026-05-06",
+      "close": 5.54
+    },
+    {
+      "date": "2026-05-07",
+      "close": 5.33
+    },
+    {
+      "date": "2026-05-08",
+      "close": 5.38
+    },
+    {
+      "date": "2026-05-11",
+      "close": 6.22
+    },
+    {
+      "date": "2026-05-12",
+      "close": 5.97
+    },
+    {
+      "date": "2026-05-13",
+      "close": 6.32
+    },
+    {
+      "date": "2026-05-14",
+      "close": 6.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 5.8
+    },
+    {
+      "date": "2026-05-18",
+      "close": 5.275
+    },
+    {
+      "date": "2026-05-19",
+      "close": 4.84
+    },
+    {
+      "date": "2026-05-20",
+      "close": 5.26
+    },
+    {
+      "date": "2026-05-21",
+      "close": 5.17
+    },
+    {
+      "date": "2026-05-22",
+      "close": 5.55
+    },
+    {
+      "date": "2026-05-26",
+      "close": 6.93
+    },
+    {
+      "date": "2026-05-27",
+      "close": 6.67
+    },
+    {
+      "date": "2026-05-28",
+      "close": 7.77
+    },
+    {
+      "date": "2026-05-29",
+      "close": 7.78
+    },
+    {
+      "date": "2026-06-01",
+      "close": 8.01
+    },
+    {
+      "date": "2026-06-02",
+      "close": 8.33
+    },
+    {
+      "date": "2026-06-03",
+      "close": 7.55
+    },
+    {
+      "date": "2026-06-04",
+      "close": 7.97
+    }
+  ],
+  "price_status": "ok"
+}

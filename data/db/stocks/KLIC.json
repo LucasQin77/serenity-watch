@@ -1,0 +1,368 @@
+{
+  "ticker": "KLIC",
+  "cashtag": "$KLIC",
+  "price_symbol": "KLIC",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-02-24",
+  "last_mention": "2026-05-12",
+  "total_mentions": 3,
+  "mentions": [
+    {
+      "tweet_id": "2026341976942195152",
+      "date": "2026-02-24",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "advanced packaging capex bottleneck long"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$KLIC",
+      "text": "Year to Date: 412.72%\n\nLot of it is just picking the right sector, profiting off of Jane Street algos weekly, and a bit of luck. \n\nIn terms of bottleneck longs, these are currently my favorite: \n\n1. Memory -  Samsung, Sk Hynix, $SNDK, $MU, $SIMO \n\n2. Photonics - $LITE, $COHR, $AAOI, $AXTI, (maybe Yamamura too, but not to the same degree). \n\n3. Power/Grid - $XLU.\n\n4. Advanced Packaging Capex -  $AMKR, $ONTO, $CAMT, $KLIC, and $FORM.\n\nI’ve talked about all of these before aside from maybe $KLIC?\n\nBut most if not all are up like 50-100%+ in a short timeframe, which amplifies overall returns from trading. \n\nBest lesson I’ve learned this year was to rotate where the money flows and current bottlenecks. Rather than attempting contrarian turnaround plays in sectors like cybersecurity.\n\nI publish all my ideas for free too so hopefully people can take away a thing or two!",
+      "url": "https://x.com/aleabitoreddit/status/2026341976942195152",
+      "kind": "post",
+      "engagement": {
+        "views": 995354,
+        "likes": 3870,
+        "reposts": 177,
+        "replies": 198
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2027106275881079067",
+      "date": "2026-02-26",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$KLIC",
+      "text": "Year to Date post $NVDA earnings:\n\n477.27%.\n\nMajority of the gains are the result of the research I've done the past few months:\n\nFrom the $AXTI's InP chokepoint that went up few hundred percent recently. \n\nor profiting off Jane Street from $EWY IV vega expansion for Sk Hynix/Samsung. \n\nMany others were tens of % or hundreds of percent returns each in a short timeframe. \n\nLike $XLU going up 3% in a week to the epic directional rally of $MU and $SNDK. \n\nI think people just like to see the end results like this, which is understandably the most eye-catching.\n\nBut most of the groundwork for the current returns was laid out months ago from $LITE Google BOM analysis to semi supply chain bottlenecks from Unimicron, Nittobo, and even $TSM last year. \n\nEven now I’m planting the seeds for the future with analysis on $XLU for the power/grid sector, or understandably higher risk companies like $IQE as a $LITE supplier for the photonics supply chains. \n\nI typically shift from: \n\n> Research Posts (Initial thesis post)\n> Map that into actual ideas + trades\n> Follow-Up DDs on Alpha (eg. SMM InP pricing)\n> celebrate when things go up. \n\ncross-industry, and typically on sectors with momentum. \n\nRather than sticking single stocks, or just analysis only (instead of trading).\n\nAnd I think people might have found this style refreshing. \n\nI think recently, I’m is just capitalizing on two different trends:\n\n1. Focusing on active bottlenecks in AI supply chains\n\n- Memory like $SNDK, $MU, Sk Hynix, Samsung, $SIMO\n- Photonics like $LITE, $COHR, $AAOI, $IQE, $AXTI, and Yamamura \n- Power Grid like $XLU\n- Advanced Packaging/Yields - $AMKR, $ONTO, $CAMT, $KLIC, $FORM, and $AEHR\n\n2. Then focusing on Capital Rotation into Taiwan, Japan, Korea. \n\nBasically past week capital rotation was rotating from US/China -> Korea, Taiwan, Japan.\n\nETFs like $EWJ or individual stocks from Nanya Plastics have been taking off. \n\n- Taiwan Equity Funds recently took in over $1 billion in a single week for the first time in months\n\n- For Japan: GS chart's +0.37 long buying\n\n- For Korea, foreigners were net buyers of roughly 1.37 trillion won (~$1 billion USD) in the first half of February\n\nWhile GS chart shows a staggering -1.52 SD in short activity for North America. \n\nSo that's probably my assumption on why $HOOD investors haven't been doing too well from a lack of Asian equity exposure. \n\nThe reason being Hyperscaler capex trade flows into Asian countries in the supply chains (eg. Some analysts projected Sk Hynix to have 2.2 2027 fwd p/e, which is absurd) -> institutions following the flow with capital rotation.\n\nAs for some reflection, I'm genuinely surprised by how many people read my posts nowadays and it’s really humbling!\n\nI don’t really celebrate this much (last year I only did one time with a 600%+ 1Y return) but I’m amazed by how lucky I am this year with timing and getting a lot my thesis right. \n\nI’m not perfect, I do get a few things wrong, but what’s more important is I get more green than red every day.\n\nBut thanks to everyone, I grew from a little account to 83K in like two or three months!",
+      "url": "https://x.com/aleabitoreddit/status/2027106275881079067",
+      "kind": "post",
+      "engagement": {
+        "views": 424561,
+        "likes": 1615,
+        "reposts": 152,
+        "replies": 113
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2054335940026573222",
+      "date": "2026-05-12",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$KLIC",
+      "text": "Here's the humanoid exposure crowdsourced list:\n\n- $OUST \n- Rainbow Robotics (277810)\n- $AMBA \n- Ubtech Robotics\n- $MKA\n- Nextronics\n- $SYM\n- Harmonic Drive (6324)\n- $VPG \n- Beijing Geekplus\n- $MBLY\n- $ARBE \n- Nabtesco (6268)\n- $SERV\n- $HSYDF\n- Robotstrategy\n- $ZBRA\n- $CATL\n- $ABB \n- $BOT\n- Unitree (not public yet)\n- $LSCC \n- Esunny Robot (300024)\n- $NOVT\n- $RR\n- $PDY \n- Hesai (2525)\n- $SHA.DE\n- $XBOT\n- $XPEV\n- $BAM\n- $ALNT\n- 6268.T\n- $AMBQ\n- $ATOM\n- $MRAM\n- $ISRG\n- $HLIT\n- Robosense (2498)\n- $HG\n- $ACUVI\n- $CGNX\n- $KLIC\n- $BSL\n- $AEVA\n- $AUR\n- $CTH.V\n- $IMSR\n- $NEO\n- $KDK\n- $MRLN \n- $KITT\n- $INDI\n- $NOVT \n\nOff the top of my head:\n\nHarmonic Drive, $OUST, $BOT, $VPG, $MBLY, and Ubtech showed up the most. \n\nWill start doing DD into mentions.",
+      "url": "https://x.com/aleabitoreddit/status/2054335940026573222",
+      "kind": "post",
+      "engagement": {
+        "views": 736604,
+        "likes": 3593,
+        "reposts": 351,
+        "replies": 235
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-02-24",
+      "close": 71.2
+    },
+    {
+      "date": "2026-02-25",
+      "close": 72.75
+    },
+    {
+      "date": "2026-02-26",
+      "close": 70.73
+    },
+    {
+      "date": "2026-02-27",
+      "close": 69.72
+    },
+    {
+      "date": "2026-03-02",
+      "close": 70.27
+    },
+    {
+      "date": "2026-03-03",
+      "close": 66.22
+    },
+    {
+      "date": "2026-03-04",
+      "close": 67.75
+    },
+    {
+      "date": "2026-03-05",
+      "close": 63.48
+    },
+    {
+      "date": "2026-03-06",
+      "close": 61.47
+    },
+    {
+      "date": "2026-03-09",
+      "close": 65.45
+    },
+    {
+      "date": "2026-03-10",
+      "close": 65.46
+    },
+    {
+      "date": "2026-03-11",
+      "close": 65.58
+    },
+    {
+      "date": "2026-03-12",
+      "close": 63.39
+    },
+    {
+      "date": "2026-03-13",
+      "close": 64.37
+    },
+    {
+      "date": "2026-03-16",
+      "close": 66.145
+    },
+    {
+      "date": "2026-03-17",
+      "close": 66.36
+    },
+    {
+      "date": "2026-03-18",
+      "close": 65.73
+    },
+    {
+      "date": "2026-03-19",
+      "close": 66.76
+    },
+    {
+      "date": "2026-03-20",
+      "close": 63.89
+    },
+    {
+      "date": "2026-03-23",
+      "close": 65.3
+    },
+    {
+      "date": "2026-03-24",
+      "close": 68.04
+    },
+    {
+      "date": "2026-03-25",
+      "close": 68.8
+    },
+    {
+      "date": "2026-03-26",
+      "close": 64.75
+    },
+    {
+      "date": "2026-03-27",
+      "close": 64.68
+    },
+    {
+      "date": "2026-03-30",
+      "close": 61.79
+    },
+    {
+      "date": "2026-03-31",
+      "close": 65.72
+    },
+    {
+      "date": "2026-04-01",
+      "close": 66.28
+    },
+    {
+      "date": "2026-04-02",
+      "close": 64.08
+    },
+    {
+      "date": "2026-04-06",
+      "close": 66.62
+    },
+    {
+      "date": "2026-04-07",
+      "close": 67.18
+    },
+    {
+      "date": "2026-04-08",
+      "close": 72.36
+    },
+    {
+      "date": "2026-04-09",
+      "close": 76.8
+    },
+    {
+      "date": "2026-04-10",
+      "close": 77.46
+    },
+    {
+      "date": "2026-04-13",
+      "close": 77.98
+    },
+    {
+      "date": "2026-04-14",
+      "close": 79.9
+    },
+    {
+      "date": "2026-04-15",
+      "close": 79.84
+    },
+    {
+      "date": "2026-04-16",
+      "close": 79.66
+    },
+    {
+      "date": "2026-04-17",
+      "close": 81.88
+    },
+    {
+      "date": "2026-04-20",
+      "close": 83.42
+    },
+    {
+      "date": "2026-04-21",
+      "close": 83.92
+    },
+    {
+      "date": "2026-04-22",
+      "close": 85.2
+    },
+    {
+      "date": "2026-04-23",
+      "close": 84.66
+    },
+    {
+      "date": "2026-04-24",
+      "close": 87.71
+    },
+    {
+      "date": "2026-04-27",
+      "close": 86.46
+    },
+    {
+      "date": "2026-04-28",
+      "close": 82.98
+    },
+    {
+      "date": "2026-04-29",
+      "close": 83.7
+    },
+    {
+      "date": "2026-04-30",
+      "close": 85.5
+    },
+    {
+      "date": "2026-05-01",
+      "close": 86.33
+    },
+    {
+      "date": "2026-05-04",
+      "close": 87.85
+    },
+    {
+      "date": "2026-05-05",
+      "close": 91.39
+    },
+    {
+      "date": "2026-05-06",
+      "close": 93.78
+    },
+    {
+      "date": "2026-05-07",
+      "close": 98.15
+    },
+    {
+      "date": "2026-05-08",
+      "close": 102.66
+    },
+    {
+      "date": "2026-05-11",
+      "close": 104.28
+    },
+    {
+      "date": "2026-05-12",
+      "close": 98.0
+    },
+    {
+      "date": "2026-05-13",
+      "close": 104.27
+    },
+    {
+      "date": "2026-05-14",
+      "close": 104.09
+    },
+    {
+      "date": "2026-05-15",
+      "close": 102.04
+    },
+    {
+      "date": "2026-05-18",
+      "close": 99.36
+    },
+    {
+      "date": "2026-05-19",
+      "close": 97.62
+    },
+    {
+      "date": "2026-05-20",
+      "close": 101.23
+    },
+    {
+      "date": "2026-05-21",
+      "close": 101.09
+    },
+    {
+      "date": "2026-05-22",
+      "close": 104.4
+    },
+    {
+      "date": "2026-05-26",
+      "close": 108.57
+    },
+    {
+      "date": "2026-05-27",
+      "close": 105.61
+    },
+    {
+      "date": "2026-05-28",
+      "close": 104.75
+    },
+    {
+      "date": "2026-05-29",
+      "close": 101.89
+    },
+    {
+      "date": "2026-06-01",
+      "close": 103.34
+    },
+    {
+      "date": "2026-06-02",
+      "close": 108.36
+    },
+    {
+      "date": "2026-06-03",
+      "close": 108.4
+    },
+    {
+      "date": "2026-06-04",
+      "close": 107.52
+    }
+  ],
+  "price_status": "ok"
+}

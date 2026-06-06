@@ -1,0 +1,41 @@
+{
+  "ticker": "GM",
+  "cashtag": "$GM",
+  "price_symbol": "GM",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-11-25",
+  "last_mention": "2025-11-25",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "1993335570978967802",
+      "date": "2025-11-25",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "Cruise is Level 4 autonomy, cited as context"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GM",
+      "text": "@halldj00 @Spiralout_one lol $TSLA feels like marketing snake oil currently.\n\nWaymo ( $GOOGL ) -Level 4\nCruise ( $GM ) - Level 4\nAvride - Level 4\nTesla FSD - Level 2\n\n$TSLA still has humans remotely monitoring every drive since it's level 2 right now and it's just snake oil marketing FSD (with disclaimers that you must be at the wheel lol at all times).  If they get it right with just cameras, it has higher scale potential as you mentioned. And I don't really doubt Elon if he can make massive reusable rockets.\n\nThat aside, $GOOGL is dominating every one of them right now. \n\nThink the better question to be asking is if avride + Uber can compete vs $TSLA or $GOOGL, rather than the standalone company.",
+      "url": "https://x.com/aleabitoreddit/status/1993335570978967802",
+      "kind": "reply",
+      "engagement": {
+        "views": 590,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 2
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

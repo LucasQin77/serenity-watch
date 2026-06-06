@@ -1,0 +1,64 @@
+{
+  "ticker": "WEN",
+  "cashtag": "Wendy's",
+  "price_symbol": "WEN",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-11-02",
+  "last_mention": "2025-11-02",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "1985035553507782921",
+      "date": "2025-11-02",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "huge untapped, unmonetized revenue potential behind the dumpsters"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$WEN",
+      "text": "@moninvestor It’s gotta be @Wendys $WEN.\n\nHuge untapped, unmonetized revenue potential behind the dumpsters. I think @DeepValueBagger realized this too on his most recent post.",
+      "url": "https://x.com/aleabitoreddit/status/1985035553507782921",
+      "kind": "reply",
+      "engagement": {
+        "views": 6407,
+        "likes": 27,
+        "reposts": 1,
+        "replies": 6
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1985039758658314433",
+      "date": "2025-11-02",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "full port weeklies on earnings, 125% OTM"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "Wendy's",
+      "text": "@StudentToStreet @moninvestor @Wendys @DeepValueBagger Can you ask if I full port Wendy's weeklies on earnings, 125% OTM and it hits..  Can I take over the Chariman's position? \n\nI eat fast food like once a month, so I have great domain knowledge.",
+      "url": "https://x.com/aleabitoreddit/status/1985039758658314433",
+      "kind": "reply",
+      "engagement": {
+        "views": 838,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

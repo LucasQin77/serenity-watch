@@ -1,0 +1,406 @@
+{
+  "ticker": "ON",
+  "cashtag": "$ON",
+  "price_symbol": "ON",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-02-07",
+  "last_mention": "2026-06-01",
+  "total_mentions": 3,
+  "mentions": [
+    {
+      "tweet_id": "2020088575203721520",
+      "date": "2026-02-07",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ON",
+      "text": "Here's my TLDR + mapped into investment framework from Semivision bottleneck summary:\n\nHBM:\nHBM4 (16Hi) - Samsung, Sk Hynix, $MU\nHBF - $SNDK, Kioxia\nBase Die - $TSM, Samsung (internal)\n\nCPO/photonics;\nGlass Substrate: $GLW, $INTC, Ibiden\nOptical: $LITE, $AVGO, $COHR, $MRVL\n\nPower Delivery:\nVolatage: $MPWR, $VICR\nThermal: $VRT, $NVT, $MOD\nGrid: $ETN, $SBGSY\nSiC/GaN: $ON, $IFNNY\nRack: $APH\n\nN2 Volume:\n$TSM , $AMD (First mover dc), $QLCM, Mediatek, $NVDA\n\nAdvanced Packaging:\nYield: $CAMT, $ONTO, $KLAC\nOSATs: $AMKR\n$BESIY, Disco\n\nSemivision's summary:\n1. \"advanced packaging capacity and yield control\"\n2. \"HBM ecosystem coordination\"\n3. \"power delivery innovation (SiC, GaN PMICs, rack-level power architectures)\"\n4. \"CPO/photonics integration capability\"\n5.  \"data center infrastructure as a “hidden limiter” to semiconductor revenue realization\"\n\nAs you probably know, I'm probably most bullish on memory/photonics like Sk Hynix/Samsung, $SNDK, $MU, $LITE above. And $TSM. \n\nI probably go a bit more upstream like $AXTI for InP precursors, but midstream players are the chokepoint + control most of the pricing. \n\nBut just added commentary of related companies to topics to make things simpler for the regular retail investor.",
+      "url": "https://x.com/aleabitoreddit/status/2020088575203721520",
+      "kind": "post",
+      "engagement": {
+        "views": 261071,
+        "likes": 910,
+        "reposts": 96,
+        "replies": 40
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2021783355076026581",
+      "date": "2026-02-11",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ON",
+      "text": "The \"Bottleneck ETF\" from supply chain mapping. \n\nNot a single name red.\n\nEqual weighted results 1W: +12.83%.\n\nList:\n$LITE: +31.68%\n$AMKR: +28.7%\nDisco: +24.35%\n$GLW: +23.57%\n$COHR: +23.5%\n$ONTO: +18.4%\n$CAMT: +17.7%\n$TSM: +15.8%\n$ON: +15.8%\nSamsung: +15.4%\n$KLAC: +12.7%\n$APH: +11.6%\n$MRVL: +11.4%\n$MU: +10.6%\n$MOD: +10.6%\nSk Hynix: +10.31%\n$VICR: +9.6%\n$AVGO: +9.46%\n$SBGSY: +9.27%\n$ETN: +9.1%\n$BESIY: +8.53%\n$IFNNY: +7.37%\n$MPWR: +6.85%\n$SNDK: +6.4%\n$QLCM: +6.12%\n$AMD: +6.01%\nMediatek: +6%\nKioxia: +3.68%\n$INTC: +1.62%\n\nI feel like institutions just bought this entire list from last week's framework? \n\nThis level of performance is pretty crazy.",
+      "url": "https://x.com/aleabitoreddit/status/2021783355076026581",
+      "kind": "post",
+      "engagement": {
+        "views": 261040,
+        "likes": 1214,
+        "reposts": 142,
+        "replies": 49
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2061348882685243497",
+      "date": "2026-06-01",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ON",
+      "text": "Just some mobile shower thoughts around $XFAB and train of thought:\n\n1. 800vdc $NVDA push look for GaN/SiC players / power semis.\n\n2. $NVTS and other fabless/fab-lite beneficiaries of $NVDA push probably use foundry models \n\n3. care more about Western supply chains over Asia, want to build up Western capabilities + Western premiums. \n\n4 China has a lot of capacity, maybe risk into 2028, but again it’s building up Western supply chains \n\n5. XFAB only high volume SiC foundry in America (others like $ON or Infineon are vertically integrated)\n\n6. advanced 6in SiC, 8in GaN on Si, building out 8in GaN\n\n7. Maybe likely they’re developing 8in SiC from CHIPS backing, just not public material\n\n8. check SiC revenue -> 152% Y/Y growth okay. Probably something markets missed, since blended looks worse from automotive slump, that should come out recovery\n\n9. $NVTS and others turns out to use $XFAB. $POWI cites $XFAB in filings, among others.\n\n10. both are $NVDA power semi explicit partners, great exposure indicator to 800vdc power semi players. \n\n11. US Dpt. of commerce cites $XFAB as only high volume SiC foundry in the US, $50M PMT\n\n12. validation from US Gov about critical component in supply chains is amazing \n\n13. EU CHIPS Act gives $XFAB $128M EU, for foundry (MEMS, AI, etc), okay turns out they’re critical MEMS player\n\n14. So that’s validation from EU gov about critical component in supply chains, dual continent subsidies\n\n15. So now we know $XFAB is a critical MEMS foundry so you get SiC capabilities, GaN development, and MEMS upside\n\n16. they also got $47.6M EU funding for leading Silicon Photonics supply chain in EU. So that’s EU funding on multiple angles. \n\n17. Turns out, I know all the players there from smartphotonics from $GFS deck.\n\n18. $NVDA and $NOK are qualifying them for silicon photonics HVM. I think this is just a government backing angle for success in EU photonics so likely to succeed… kinda like how Us gov encourages everyone to use $INTC. \n\n19. Okay chips act 2 is coming out next week… so they’ll probably get funding there or more revenue commitments \n\n20. 1.28 p/b, now that’s probably just book cost? Likely coming out of $SOI type legacy drag cycle.\n\n21. Did some modeling around actually replacement values, true replacement p/b cost likely ~.5/.7.\n\n22. Getting business for free, while having upside from SiC near term into Silicon Photonics / GaN as main growth past H2 2027.\n\nThoughts: derisked by p/b values + replacement value. maybe like 20% downside from macro.\n\nHowever, critical dual continent importance. So downside risk seems low, but upside is compelling. \n\nLot of capex likely backstopped by upcoming chips act catalyst + national security concerns. \n\nMaybe 2.5-4x rerating seems possible/likely. \n\nNot a 10-20x, but recovery from depressed valuations from silicon photonics upside with SiC / GaN bridge.  \n\nTLDR: likely trading lower than replacement value, dual continent subsidies likely subsidize capex.\n\nGov grants shows importance to Western supply chains, photonics longer term upside, SiC/GaN demand likely near term upside and bridge. \n\nDon’t control any recent volatility, should shake out anyone not really confident in the thesis though. \n\nCHIPS act 2 from EU is coming up, $XFAB was listed in earlier blueprints for optical ecosystem, so should get a boost after that comes out as near term event catalysts.\n\nSo now is the risk reward seems compelling, we’ll see if this is right or not",
+      "url": "https://x.com/aleabitoreddit/status/2061348882685243497",
+      "kind": "post",
+      "engagement": {
+        "views": 344862,
+        "likes": 952,
+        "reposts": 114,
+        "replies": 91
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-02-09",
+      "close": 65.1
+    },
+    {
+      "date": "2026-02-10",
+      "close": 67.38
+    },
+    {
+      "date": "2026-02-11",
+      "close": 71.18
+    },
+    {
+      "date": "2026-02-12",
+      "close": 70.63
+    },
+    {
+      "date": "2026-02-13",
+      "close": 72.21
+    },
+    {
+      "date": "2026-02-17",
+      "close": 71.96
+    },
+    {
+      "date": "2026-02-18",
+      "close": 70.66
+    },
+    {
+      "date": "2026-02-19",
+      "close": 68.09
+    },
+    {
+      "date": "2026-02-20",
+      "close": 69.11
+    },
+    {
+      "date": "2026-02-23",
+      "close": 69.47
+    },
+    {
+      "date": "2026-02-24",
+      "close": 70.03
+    },
+    {
+      "date": "2026-02-25",
+      "close": 69.68
+    },
+    {
+      "date": "2026-02-26",
+      "close": 68.16
+    },
+    {
+      "date": "2026-02-27",
+      "close": 66.48
+    },
+    {
+      "date": "2026-03-02",
+      "close": 66.48
+    },
+    {
+      "date": "2026-03-03",
+      "close": 63.42
+    },
+    {
+      "date": "2026-03-04",
+      "close": 62.53
+    },
+    {
+      "date": "2026-03-05",
+      "close": 60.85
+    },
+    {
+      "date": "2026-03-06",
+      "close": 56.87
+    },
+    {
+      "date": "2026-03-09",
+      "close": 59.23
+    },
+    {
+      "date": "2026-03-10",
+      "close": 59.59
+    },
+    {
+      "date": "2026-03-11",
+      "close": 59.24
+    },
+    {
+      "date": "2026-03-12",
+      "close": 57.69
+    },
+    {
+      "date": "2026-03-13",
+      "close": 58.55
+    },
+    {
+      "date": "2026-03-16",
+      "close": 59.88
+    },
+    {
+      "date": "2026-03-17",
+      "close": 60.98
+    },
+    {
+      "date": "2026-03-18",
+      "close": 60.46
+    },
+    {
+      "date": "2026-03-19",
+      "close": 59.29
+    },
+    {
+      "date": "2026-03-20",
+      "close": 59.26
+    },
+    {
+      "date": "2026-03-23",
+      "close": 59.89
+    },
+    {
+      "date": "2026-03-24",
+      "close": 62.34
+    },
+    {
+      "date": "2026-03-25",
+      "close": 63.1
+    },
+    {
+      "date": "2026-03-26",
+      "close": 60.87
+    },
+    {
+      "date": "2026-03-27",
+      "close": 58.35
+    },
+    {
+      "date": "2026-03-30",
+      "close": 55.66
+    },
+    {
+      "date": "2026-03-31",
+      "close": 61.92
+    },
+    {
+      "date": "2026-04-01",
+      "close": 62.2
+    },
+    {
+      "date": "2026-04-02",
+      "close": 62.19
+    },
+    {
+      "date": "2026-04-06",
+      "close": 63.49
+    },
+    {
+      "date": "2026-04-07",
+      "close": 63.79
+    },
+    {
+      "date": "2026-04-08",
+      "close": 68.38
+    },
+    {
+      "date": "2026-04-09",
+      "close": 68.49
+    },
+    {
+      "date": "2026-04-10",
+      "close": 68.65
+    },
+    {
+      "date": "2026-04-13",
+      "close": 71.02
+    },
+    {
+      "date": "2026-04-14",
+      "close": 72.05
+    },
+    {
+      "date": "2026-04-15",
+      "close": 72.43
+    },
+    {
+      "date": "2026-04-16",
+      "close": 79.93
+    },
+    {
+      "date": "2026-04-17",
+      "close": 83.01
+    },
+    {
+      "date": "2026-04-20",
+      "close": 85.56
+    },
+    {
+      "date": "2026-04-21",
+      "close": 86.91
+    },
+    {
+      "date": "2026-04-22",
+      "close": 88.99
+    },
+    {
+      "date": "2026-04-23",
+      "close": 97.78
+    },
+    {
+      "date": "2026-04-24",
+      "close": 98.4
+    },
+    {
+      "date": "2026-04-27",
+      "close": 98.04
+    },
+    {
+      "date": "2026-04-28",
+      "close": 93.3
+    },
+    {
+      "date": "2026-04-29",
+      "close": 98.86
+    },
+    {
+      "date": "2026-04-30",
+      "close": 100.81
+    },
+    {
+      "date": "2026-05-01",
+      "close": 103.03
+    },
+    {
+      "date": "2026-05-04",
+      "close": 102.04
+    },
+    {
+      "date": "2026-05-05",
+      "close": 102.67
+    },
+    {
+      "date": "2026-05-06",
+      "close": 105.77
+    },
+    {
+      "date": "2026-05-07",
+      "close": 100.61
+    },
+    {
+      "date": "2026-05-08",
+      "close": 103.2
+    },
+    {
+      "date": "2026-05-11",
+      "close": 107.24
+    },
+    {
+      "date": "2026-05-12",
+      "close": 104.11
+    },
+    {
+      "date": "2026-05-13",
+      "close": 115.71
+    },
+    {
+      "date": "2026-05-14",
+      "close": 118.37
+    },
+    {
+      "date": "2026-05-15",
+      "close": 113.11
+    },
+    {
+      "date": "2026-05-18",
+      "close": 109.43
+    },
+    {
+      "date": "2026-05-19",
+      "close": 106.02
+    },
+    {
+      "date": "2026-05-20",
+      "close": 110.21
+    },
+    {
+      "date": "2026-05-21",
+      "close": 109.61
+    },
+    {
+      "date": "2026-05-22",
+      "close": 116.2
+    },
+    {
+      "date": "2026-05-26",
+      "close": 127.0
+    },
+    {
+      "date": "2026-05-27",
+      "close": 124.89
+    },
+    {
+      "date": "2026-05-28",
+      "close": 123.77
+    },
+    {
+      "date": "2026-05-29",
+      "close": 120.62
+    },
+    {
+      "date": "2026-06-01",
+      "close": 120.92
+    },
+    {
+      "date": "2026-06-02",
+      "close": 128.64
+    },
+    {
+      "date": "2026-06-03",
+      "close": 133.93
+    },
+    {
+      "date": "2026-06-04",
+      "close": 131.82
+    }
+  ],
+  "price_status": "ok"
+}

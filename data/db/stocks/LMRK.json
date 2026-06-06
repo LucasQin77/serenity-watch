@@ -1,0 +1,39 @@
+{
+  "ticker": "LMRK",
+  "cashtag": "Landmark Optoelectronics",
+  "price_symbol": "LMRK",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-02-26",
+  "last_mention": "2026-02-26",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2026934223416734052",
+      "date": "2026-02-26",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Landmark Optoelectronics",
+      "text": "If I had to pick a 10x return-stock only after $AXTI, it would probably be $IQE.\n\nMy thought process TLDR: \n\n- Closest comparison would be Taiwan's LandMark Optoelectronics for epiwafers. It's valued at ~$3.8B. \n\n- $LITE <- $IQE is a known relation, and $LITE is a known supplier to $GOOGL TPUs and hyperscaler ASICs. \n\n- IQE is the largest epiwafer foundry in the world, valued at $150M.\n\n- Why is Landmark valued at $3.8B vs. $150M? $IQE has  -£23.5 million net debt and £18M convertible notes. And drag from legacy smartphone RF. \n\n- Landmark is pure play for InP epiwafer and just an idea to what it could be valued at. \n\n- So when you go look at net debt + convertibles... £41M is basically pennies? Especially to a hyperscaler supply chain. \n\n- Landmark has 27 to 30 MOCVD reactors. IQE operates over 100.\n\n- All $IQE needs to do is restructure (which they're doing now), selling off their drag will remove debt. And focusing on the photonics supply chain with much more capacity than their Taiwan counterparty would warrant rerating. \n\nBasically, if you look at a much smaller sized (but more pure-play version of $IQE in Landmark), it's valued at close to 25 times IQE's current business. \n\nThe downside is you get diluted to oblivion, but the £41M feels kinda like nothing to hyperscalers? \n\nSo this is a binary asymmetrical moonshot pick on re-rating due to $IQE's importance in the hyperscaler supply chains for photonics.",
+      "url": "https://x.com/aleabitoreddit/status/2026934223416734052",
+      "kind": "post",
+      "engagement": {
+        "views": 197657,
+        "likes": 1056,
+        "reposts": 107,
+        "replies": 82
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

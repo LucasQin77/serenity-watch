@@ -1,0 +1,379 @@
+{
+  "ticker": "MXL",
+  "cashtag": "$MXL",
+  "price_symbol": "MXL",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-17",
+  "last_mention": "2026-05-11",
+  "total_mentions": 6,
+  "mentions": [
+    {
+      "tweet_id": "2033885603423785170",
+      "date": "2026-03-17",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$MXL",
+      "text": "The upcoming CPO / Silicon Photonics Bottleneck Cheat Sheet:\n\n$SIVE, Sumitomo, $LITE, $COHR, $AVGO, $MTSI, $AAOI - Light Source (CW DFB Lasers)\n$TSEM, $GFS, $UMC, $TSM, $INTC - SiPh foundry\n$NOK, $CIEN, $CSCO, $COHR - DCO  \n$HIMX, FOCI (3363.TWO) - Micro-lens + Fiber Arrays\n$POET - Optical Interposers\n$SOI, $AXTI, Shin-Etsu  - Substrates\n$FN, $ASX, Innolight, Eoptolink -  Optical Packaging and Assembly\n$MTSI, $SMTC, $MRVL, $MXL - Analog/Mixed-Signal ICs\n$LWLG - Speculative Modulator Materials. \n$GLW, $APH, $TEL, $FIT, Fujikura - Connectors and Fibers\n$FORM, $KEYS, $VIAV, $AEHR- Test & Measurement\n$BESI, $SMHN, $ONTO, $CAMT - Advanced Packaging & Hybrid Bonding\n\nMany are private companies from Lightmatter, Ayar, Ranovus and others. \n\nNow... Everyone is asking... How do you profit? \n\nIf you look at the forecast for CPO TAM, it's a straight line up, and next year is inflection point for CPO mass deployment. \n\nThe alpha is capturing the rotation:\n\nFrom the current EML bottlenecks ( $LITE, $COHR type) to SiPh / CW DFB architectural winners for CPO.\n\nHighest upside potential are the ones that aren't included in current cycles.\n\nBut that are in the next. \n\nCompanies like $SOI, $SIVE, or $AEHR are perfect examples. \n \nRide the current pluggable bottleneck like $AAOI. \n\nBut the alpha is frontrunning institutions with the next CPO bottleneck. \n\nThe capital rotation is inevitable.",
+      "url": "https://x.com/aleabitoreddit/status/2033885603423785170",
+      "kind": "post",
+      "engagement": {
+        "views": 346524,
+        "likes": 1756,
+        "reposts": 257,
+        "replies": 88
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2034916899021365725",
+      "date": "2026-03-20",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$MXL",
+      "text": "The Serenity Silicon Photonics / CPO ETF.\n\nYTD Returns of Each Index Stock: \n\n$IQE: +282.5%\n$AXTI: +246.6%\nLandmark: 167.54%\n$AAOI: +157.37%\n$SIVE: +113.08%\n$SOI: +103.54%\n$LITE: +100.27%\n$LWLG: +92.35%\n$VIAV: +88.71%\n$AIXA: +73.92%\n$AEHR: +70.4%\n$CIEN: +67.67%\n$FORM: +60.67%\n$FOCI: +60.44%\n$CAMT: +49.13%\n$GLW: +46.77%\n$SMHN: +45.94%\nFujikura: +43.89%\n$COHR: +41.81%\n$KEYS: +40.48%\n$TSEM: +36.42%\n$ASX: +29.89%\n$MTSI: +28.34%\n$NOK: +27.5%\nShin-Etsu: +27.33%\n$ONTO: +26.28%\n$BESI: +24.71%\n$UMC: +18.11%\n$INTC: +17.27%\n$OXINF: 15.03%\n$FN: +12.79%\nEoptolink: +11.82%\n$TSM: +6.00%\n$HIMX: +5.39%\n$SMTC: +4.11%\nSumitomo: +3.67%\n$CSCO: +3.25%\nInnolight: +.33%\n$MRVL: +.16%\n$APH: -6.48%\n$MXL: -7.62%\n$AVGO: -7.99%\n$POET: -12.99%\n$TEL: -14.93%\n\nThis is retrospectively, but as you've known I've been in a lot of the winners for awhile (eg. Top 6/7 like $AXTI or $LITE aside from Landmark). \n\nHowever, if you were curious if you invested in the photonics trend as a whole at the start of the year.\n\nThe equal weighted return? \n\n50.033%\n\nI expect the Photonic Supercycle to last over the next several years, and many of these names to be large beneficaries going forward. \n\nEspecially as CPO is used to scale AI deployments. \n\nPhotonics is the new architectural paradigm for AI.",
+      "url": "https://x.com/aleabitoreddit/status/2034916899021365725",
+      "kind": "post",
+      "engagement": {
+        "views": 138272,
+        "likes": 1002,
+        "reposts": 104,
+        "replies": 63
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2047417154564481097",
+      "date": "2026-04-23",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "compelling for scale across"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$MXL",
+      "text": "@AtlasShrug1 Yeah should have went long when I said $MXL was compelling for scale across lol.\n\nFeeling the fomo for sure",
+      "url": "https://x.com/aleabitoreddit/status/2047417154564481097",
+      "kind": "reply",
+      "engagement": {
+        "views": 21448,
+        "likes": 84,
+        "reposts": 1,
+        "replies": 8
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2047705901486985666",
+      "date": "2026-04-24",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "up 76.2%",
+        "photonics bottleneck play"
+      ],
+      "is_risk": false,
+      "conviction": "high",
+      "raw_mention": "$MXL",
+      "text": "Photonics go brrr.\n\n$MXL +76.2% (lol)\n$AAOI +15.03%\n$SIVE +12.69%\n$AEHR +7.07%\n$SOI +6.19%\n$LITE +4.96%\n\nHope you didn’t sell and try and chase other bottlenecks anon? https://t.co/Ft2p94bDWR",
+      "url": "https://x.com/aleabitoreddit/status/2047705901486985666",
+      "kind": "post",
+      "engagement": {
+        "views": 186038,
+        "likes": 1715,
+        "reposts": 103,
+        "replies": 142
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2048137369405325468",
+      "date": "2026-04-25",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "shot up 70% a day after he mentioned it"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$MXL",
+      "text": "@Sopcaja lol still can’t believe $MXL shot up 70% a day later, my timing is pretty uncanny",
+      "url": "https://x.com/aleabitoreddit/status/2048137369405325468",
+      "kind": "reply",
+      "engagement": {
+        "views": 13139,
+        "likes": 53,
+        "reposts": 0,
+        "replies": 5
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2053859779035185310",
+      "date": "2026-05-11",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "called it out before the entire rally",
+        "regrets not going long"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$MXL",
+      "text": "@RyanGoldenberg2 Bro I'm mad i didn't long $MXL.\n\nI literally called it out in subscribers chat before the entire rally. https://t.co/7dC01zDLJH",
+      "url": "https://x.com/aleabitoreddit/status/2053859779035185310",
+      "kind": "reply",
+      "engagement": {
+        "views": 13818,
+        "likes": 92,
+        "reposts": 0,
+        "replies": 16
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-17",
+      "close": 16.81
+    },
+    {
+      "date": "2026-03-18",
+      "close": 16.46
+    },
+    {
+      "date": "2026-03-19",
+      "close": 17.1
+    },
+    {
+      "date": "2026-03-20",
+      "close": 16.56
+    },
+    {
+      "date": "2026-03-23",
+      "close": 17.14
+    },
+    {
+      "date": "2026-03-24",
+      "close": 17.64
+    },
+    {
+      "date": "2026-03-25",
+      "close": 17.8
+    },
+    {
+      "date": "2026-03-26",
+      "close": 17.16
+    },
+    {
+      "date": "2026-03-27",
+      "close": 17.0
+    },
+    {
+      "date": "2026-03-30",
+      "close": 16.08
+    },
+    {
+      "date": "2026-03-31",
+      "close": 17.39
+    },
+    {
+      "date": "2026-04-01",
+      "close": 17.69
+    },
+    {
+      "date": "2026-04-02",
+      "close": 17.98
+    },
+    {
+      "date": "2026-04-06",
+      "close": 18.45
+    },
+    {
+      "date": "2026-04-07",
+      "close": 18.41
+    },
+    {
+      "date": "2026-04-08",
+      "close": 19.14
+    },
+    {
+      "date": "2026-04-09",
+      "close": 19.84
+    },
+    {
+      "date": "2026-04-10",
+      "close": 20.69
+    },
+    {
+      "date": "2026-04-13",
+      "close": 21.31
+    },
+    {
+      "date": "2026-04-14",
+      "close": 21.56
+    },
+    {
+      "date": "2026-04-15",
+      "close": 22.01
+    },
+    {
+      "date": "2026-04-16",
+      "close": 23.35
+    },
+    {
+      "date": "2026-04-17",
+      "close": 26.27
+    },
+    {
+      "date": "2026-04-20",
+      "close": 31.73
+    },
+    {
+      "date": "2026-04-21",
+      "close": 33.7
+    },
+    {
+      "date": "2026-04-22",
+      "close": 33.89
+    },
+    {
+      "date": "2026-04-23",
+      "close": 34.25
+    },
+    {
+      "date": "2026-04-24",
+      "close": 60.32
+    },
+    {
+      "date": "2026-04-27",
+      "close": 51.65
+    },
+    {
+      "date": "2026-04-28",
+      "close": 52.08
+    },
+    {
+      "date": "2026-04-29",
+      "close": 67.52
+    },
+    {
+      "date": "2026-04-30",
+      "close": 70.75
+    },
+    {
+      "date": "2026-05-01",
+      "close": 77.18
+    },
+    {
+      "date": "2026-05-04",
+      "close": 78.12
+    },
+    {
+      "date": "2026-05-05",
+      "close": 81.68
+    },
+    {
+      "date": "2026-05-06",
+      "close": 81.23
+    },
+    {
+      "date": "2026-05-07",
+      "close": 82.37
+    },
+    {
+      "date": "2026-05-08",
+      "close": 99.83
+    },
+    {
+      "date": "2026-05-11",
+      "close": 102.27
+    },
+    {
+      "date": "2026-05-12",
+      "close": 91.93
+    },
+    {
+      "date": "2026-05-13",
+      "close": 87.73
+    },
+    {
+      "date": "2026-05-14",
+      "close": 88.78
+    },
+    {
+      "date": "2026-05-15",
+      "close": 92.34
+    },
+    {
+      "date": "2026-05-18",
+      "close": 87.46
+    },
+    {
+      "date": "2026-05-19",
+      "close": 94.86
+    },
+    {
+      "date": "2026-05-20",
+      "close": 96.77
+    },
+    {
+      "date": "2026-05-21",
+      "close": 99.67
+    },
+    {
+      "date": "2026-05-22",
+      "close": 99.16
+    },
+    {
+      "date": "2026-05-26",
+      "close": 96.12
+    },
+    {
+      "date": "2026-05-27",
+      "close": 101.1
+    },
+    {
+      "date": "2026-05-28",
+      "close": 97.76
+    },
+    {
+      "date": "2026-05-29",
+      "close": 92.93
+    },
+    {
+      "date": "2026-06-01",
+      "close": 86.23
+    },
+    {
+      "date": "2026-06-02",
+      "close": 88.76
+    },
+    {
+      "date": "2026-06-03",
+      "close": 91.39
+    },
+    {
+      "date": "2026-06-04",
+      "close": 94.21
+    }
+  ],
+  "price_status": "ok"
+}

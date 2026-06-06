@@ -1,0 +1,430 @@
+{
+  "ticker": "AA",
+  "cashtag": "$AA",
+  "price_symbol": "AA",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-01-26",
+  "last_mention": "2026-03-28",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2015805598265479518",
+      "date": "2026-01-26",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "Western beneficiary of Chinese gallium export control chokepoint"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AA",
+      "text": "Today, all eyes are on Copper, $SLV, and $USAR after US Gov's $1.6B funding.\n\nBut ever wonder about the more silent trades you should really be watching out for? \n\n1. Tungsten - $ALM\n2. Indium - $TECK\n3. Bismuth - TSE: $VNP\n4. Tellurium - $VNP\n5. Molybdenum - $FCX\n6. Lithium  - $LAC\n7. Antimony- $UAMY\n8. Gallium - $AA\n9. Germanium - $TECK\n10. Graphite  - $SYAAF\n\nThis are the list of some of the top Chinese critical minerals/material export control chokepoints and the Western beneficiary. \n\nNot everyday do you have foreign governments telling you what to buy.",
+      "url": "https://x.com/aleabitoreddit/status/2015805598265479518",
+      "kind": "post",
+      "engagement": {
+        "views": 186511,
+        "likes": 791,
+        "reposts": 123,
+        "replies": 59
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2037933841802014891",
+      "date": "2026-03-28",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "pure play aluminum: bauxite mining, alumina refining, and smelting",
+        "captures mine to refinery to smelter"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AA",
+      "text": "Iran has now just drone striked the major UAE Aluminum Plant. \n\nIf your first thought like everyone else was:\n\nHow do I profit off this?\n\nHere's how:\n\n$CNEX - Smelting process for aluminum production. They benefit when primary aluminum prices hike from global prices.\n\n$AA - Bauxite mining, alumina refining, and aluminum smelting. They capture mine -> refinery -> smelter as a pure play way for Aluminum. \n\nAnd of course: Long CME/COMEX Aluminum (ALI).\n\nMost people are long oil, but Aluminum from Iran drone striking everything, is a large beneficary of the war.",
+      "url": "https://x.com/aleabitoreddit/status/2037933841802014891",
+      "kind": "post",
+      "engagement": {
+        "views": 97540,
+        "likes": 723,
+        "reposts": 64,
+        "replies": 45
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-01-26",
+      "close": 58.55
+    },
+    {
+      "date": "2026-01-27",
+      "close": 59.66
+    },
+    {
+      "date": "2026-01-28",
+      "close": 60.01
+    },
+    {
+      "date": "2026-01-29",
+      "close": 60.64
+    },
+    {
+      "date": "2026-01-30",
+      "close": 56.81
+    },
+    {
+      "date": "2026-02-02",
+      "close": 58.21
+    },
+    {
+      "date": "2026-02-03",
+      "close": 61.35
+    },
+    {
+      "date": "2026-02-04",
+      "close": 58.16
+    },
+    {
+      "date": "2026-02-05",
+      "close": 56.38
+    },
+    {
+      "date": "2026-02-06",
+      "close": 59.16
+    },
+    {
+      "date": "2026-02-09",
+      "close": 62.36
+    },
+    {
+      "date": "2026-02-10",
+      "close": 61.76
+    },
+    {
+      "date": "2026-02-11",
+      "close": 63.15
+    },
+    {
+      "date": "2026-02-12",
+      "close": 60.51
+    },
+    {
+      "date": "2026-02-13",
+      "close": 59.95
+    },
+    {
+      "date": "2026-02-17",
+      "close": 57.47
+    },
+    {
+      "date": "2026-02-18",
+      "close": 60.21
+    },
+    {
+      "date": "2026-02-19",
+      "close": 59.69
+    },
+    {
+      "date": "2026-02-20",
+      "close": 60.49
+    },
+    {
+      "date": "2026-02-23",
+      "close": 59.81
+    },
+    {
+      "date": "2026-02-24",
+      "close": 61.41
+    },
+    {
+      "date": "2026-02-25",
+      "close": 64.9
+    },
+    {
+      "date": "2026-02-26",
+      "close": 63.47
+    },
+    {
+      "date": "2026-02-27",
+      "close": 62.08
+    },
+    {
+      "date": "2026-03-02",
+      "close": 64.08
+    },
+    {
+      "date": "2026-03-03",
+      "close": 63.84
+    },
+    {
+      "date": "2026-03-04",
+      "close": 61.55
+    },
+    {
+      "date": "2026-03-05",
+      "close": 60.38
+    },
+    {
+      "date": "2026-03-06",
+      "close": 59.65
+    },
+    {
+      "date": "2026-03-09",
+      "close": 61.16
+    },
+    {
+      "date": "2026-03-10",
+      "close": 61.31
+    },
+    {
+      "date": "2026-03-11",
+      "close": 66.36
+    },
+    {
+      "date": "2026-03-12",
+      "close": 65.93
+    },
+    {
+      "date": "2026-03-13",
+      "close": 63.59
+    },
+    {
+      "date": "2026-03-16",
+      "close": 66.6
+    },
+    {
+      "date": "2026-03-17",
+      "close": 65.42
+    },
+    {
+      "date": "2026-03-18",
+      "close": 64.23
+    },
+    {
+      "date": "2026-03-19",
+      "close": 58.65
+    },
+    {
+      "date": "2026-03-20",
+      "close": 56.45
+    },
+    {
+      "date": "2026-03-23",
+      "close": 56.08
+    },
+    {
+      "date": "2026-03-24",
+      "close": 56.68
+    },
+    {
+      "date": "2026-03-25",
+      "close": 58.7
+    },
+    {
+      "date": "2026-03-26",
+      "close": 57.6
+    },
+    {
+      "date": "2026-03-27",
+      "close": 58.41
+    },
+    {
+      "date": "2026-03-30",
+      "close": 63.22
+    },
+    {
+      "date": "2026-03-31",
+      "close": 66.33
+    },
+    {
+      "date": "2026-04-01",
+      "close": 72.06
+    },
+    {
+      "date": "2026-04-02",
+      "close": 71.53
+    },
+    {
+      "date": "2026-04-06",
+      "close": 71.01
+    },
+    {
+      "date": "2026-04-07",
+      "close": 72.96
+    },
+    {
+      "date": "2026-04-08",
+      "close": 71.76
+    },
+    {
+      "date": "2026-04-09",
+      "close": 73.27
+    },
+    {
+      "date": "2026-04-10",
+      "close": 73.03
+    },
+    {
+      "date": "2026-04-13",
+      "close": 73.31
+    },
+    {
+      "date": "2026-04-14",
+      "close": 71.84
+    },
+    {
+      "date": "2026-04-15",
+      "close": 70.38
+    },
+    {
+      "date": "2026-04-16",
+      "close": 70.41
+    },
+    {
+      "date": "2026-04-17",
+      "close": 65.62
+    },
+    {
+      "date": "2026-04-20",
+      "close": 66.53
+    },
+    {
+      "date": "2026-04-21",
+      "close": 67.15
+    },
+    {
+      "date": "2026-04-22",
+      "close": 68.53
+    },
+    {
+      "date": "2026-04-23",
+      "close": 65.37
+    },
+    {
+      "date": "2026-04-24",
+      "close": 66.01
+    },
+    {
+      "date": "2026-04-27",
+      "close": 67.36
+    },
+    {
+      "date": "2026-04-28",
+      "close": 63.17
+    },
+    {
+      "date": "2026-04-29",
+      "close": 62.46
+    },
+    {
+      "date": "2026-04-30",
+      "close": 63.79
+    },
+    {
+      "date": "2026-05-01",
+      "close": 62.63
+    },
+    {
+      "date": "2026-05-04",
+      "close": 62.46
+    },
+    {
+      "date": "2026-05-05",
+      "close": 63.06
+    },
+    {
+      "date": "2026-05-06",
+      "close": 63.26
+    },
+    {
+      "date": "2026-05-07",
+      "close": 62.64
+    },
+    {
+      "date": "2026-05-08",
+      "close": 63.18
+    },
+    {
+      "date": "2026-05-11",
+      "close": 65.34
+    },
+    {
+      "date": "2026-05-12",
+      "close": 67.62
+    },
+    {
+      "date": "2026-05-13",
+      "close": 68.44
+    },
+    {
+      "date": "2026-05-14",
+      "close": 66.02
+    },
+    {
+      "date": "2026-05-15",
+      "close": 62.53
+    },
+    {
+      "date": "2026-05-18",
+      "close": 62.59
+    },
+    {
+      "date": "2026-05-19",
+      "close": 63.93
+    },
+    {
+      "date": "2026-05-20",
+      "close": 64.14
+    },
+    {
+      "date": "2026-05-21",
+      "close": 66.27
+    },
+    {
+      "date": "2026-05-22",
+      "close": 71.38
+    },
+    {
+      "date": "2026-05-26",
+      "close": 74.57
+    },
+    {
+      "date": "2026-05-27",
+      "close": 73.15
+    },
+    {
+      "date": "2026-05-28",
+      "close": 75.58
+    },
+    {
+      "date": "2026-05-29",
+      "close": 77.64
+    },
+    {
+      "date": "2026-06-01",
+      "close": 77.76
+    },
+    {
+      "date": "2026-06-02",
+      "close": 83.79
+    },
+    {
+      "date": "2026-06-03",
+      "close": 80.86
+    },
+    {
+      "date": "2026-06-04",
+      "close": 78.02
+    }
+  ],
+  "price_status": "ok"
+}

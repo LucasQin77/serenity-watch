@@ -1,0 +1,34 @@
+name: smoke-test
+
+on:
+  workflow_dispatch:   # manual trigger
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify data present
+        run: |
+          echo "Stocks:" && ls data/db/stocks/*.json | wc -l
+          echo "extracted.json:" && ls -lh data/extracted.json
+          echo "raw_tweets.json:" && ls -lh data/raw_tweets.json
+
+      - name: Run build_db (pure aggregation, no API)
+        run: python scripts/build_db.py
+
+      - name: Run render EN (deterministic, no API)
+        run: python scripts/serenity_render.py 2026-05-30
+
+      - name: Run render ZH
+        run: python scripts/serenity_render.py 2026-05-30 --lang zh
+
+      - name: Check outputs
+        run: |
+          ls -lh serenity-tracker-*.html
+          echo "✅ Smoke test passed"

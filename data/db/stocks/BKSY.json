@@ -1,0 +1,1038 @@
+{
+  "ticker": "BKSY",
+  "cashtag": "$BKSY",
+  "price_symbol": "BKSY",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-07-03",
+  "last_mention": "2026-03-24",
+  "total_mentions": 4,
+  "mentions": [
+    {
+      "tweet_id": "1940696557151781335",
+      "date": "2025-07-03",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$BKSY",
+      "text": "Can't talk about microcaps on WSB, but if you're curious:\n\nOnly three I've owned are $BKKT ($12), $TSSI ($8), $BKSY ($11).\n\nFor BKKT, 21%+ of the company is sold short and crypto companies are doing well. I don't recommend chasing but not the worst to have small positions. https://t.co/yIzRzMAMD9",
+      "url": "https://x.com/aleabitoreddit/status/1940696557151781335",
+      "kind": "post",
+      "engagement": {
+        "views": 1936,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 2
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1940698335398318450",
+      "date": "2025-07-03",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "pretty terrible company",
+        "industry adjacent to satellite/space companies that spiked",
+        "hadn't moved yet when peers spiked so caught up in price"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$BKSY",
+      "text": "As for thesis on Blacksky ($BKSY) honestly, pretty terrible company. \n\nHowever, Planet Labs $PL + Satellite / Space companies like $RKLB $RDW had a huge spike awhile ago and Blacksky (industry adjacent) hadn't moved at all yet. \n\nIt ended up catching up in price, so it worked.",
+      "url": "https://x.com/aleabitoreddit/status/1940698335398318450",
+      "kind": "self_thread",
+      "engagement": {
+        "views": 14650,
+        "likes": 13,
+        "reposts": 0,
+        "replies": 0
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1977079938835718513",
+      "date": "2025-10-11",
+      "stance": "bearish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "space stocks have gone up a lot",
+        "fundamentals haven't mirrored marketcap"
+      ],
+      "is_risk": true,
+      "conviction": "medium",
+      "raw_mention": "$BKSY",
+      "text": "Based Friday Market Close (-3.6% SPY day), Thoughts and Explanations\n\nStrong Buy\n$IBIT\n$LTC\n$WLAC\n$NBIS\n$MP\n$TSM\n(For Next Year)\n$ETOR\n$DKNG\n$SNAP\n\nBuy\n$UPWK\n$CRDO\n$ALAB\n$AMZN\n$META\n$UNH\n$SG\n$TGT\n$BULL\n$FLY\n$CIFR\n$WULF\n$IREN\n$GLXY\n$SMCI\n$DELL\n$MRVL\n\nHold\n$RKLB\n$HOOD\n$RBRK\n$MU\n$HOOD\n$GRAB\n$MARA\n$RIOT\n$NVO\n$RR\n$ELOSE\n$FLNC\n$SEI\n$PLTR\n\nSell\n$CRCL\n$ETH\n$BMNR\n$PL\n$BKSY\n\nStrong Sell\n$RGTI\n$OKLO\n$IONQ\n$QBTS\n$QUBT\n\n_\n\nExplanations:\n\nIBIT - Dumped to $104k, Bitcoin demand has been institutional, tariff fears overblown, and caused one of the biggest liquidation events in history. IMO post-liquidation is the best time to buy crypto. Polymarket still pricing in 55% chance to $130K EOY, but either way Bitcoin is always a good buy long term.\n\nLTC - Down 24% in one day. People on 10X margin were likely frontrunning ETF and got liquidated one exchanges.  Probably the best time I've seen to buy sub $98 because ETF will likely get approved when government shutdown stops.\n\nWLAC - One of the best Neocloud SPAC IPO 1000% opportunities ever at $600m valuation because of their partnership with Fluidstack (the ones that helps WULF + CIFR get backstopped by GOOGL), and both of those are $4-7B. For context they're IPOing Q4, so you might need to wait ~2 months.\n\nNBIS - Strongest conviction buy I've had, $400 aggressive PT for next year out of any Neocloud.\n\nMP - National security risk for rare earths (+other rare materials stocks from exploration to Lithium batteries will likely perform well).\n\nTSM - Backbone of all AI Infrastructure\n\n_\nStrong Buy Tax Harvesting Bucket of Stocks\n(Might need to wait for next year)\n\nETOR - Way too oversold at $38, likely tax harvesting event going on compounding losses.\n\nDKNG - Fundamentally a growth stock. Revenue numbers are insane given market cap but they're -15% yearly low. Likely compounded by tax harvesting unaffected by Macro.\n\nSNAP - If you read my thesis, they're doing 1.3B quarterly revenue off a 13B marketcap... I'm convinced they will re-rate next year after lowering opex + increasing revenue from monetizing GCP storage. It's just a matter of when the market will price this in, but this is 1Y+ out. Post investors aren't patient. Again likely affected by EOY tax harvesting due to performance so far.\n\n_\n\nBuys\n\nUPWK - Down 4.5% from yesterday, amazing fundamentals, ~800m y/y rev off 70%~ or 80~ gross margins thats growing, 200m buybacks, 2.2B market cap. Likely affected by Russell selloff.\n\nCRDO - Data Center Trade, Mag7 uses them.\n\nALAB - Data Center Trade, Mag7 uses them.\n\nAMZN - It's materially affected by 100% Chinese tariffs but they won't lose anything, since it gets passed onto the merchant or customers.\nMETA - Probably less ad revenue by Chinese tariffs (eg. Chinese vendors like Temu, might not buy adspace), buy just based on -6% 1m low + Mag7 laggard with Amazon, I like it more.\n\nUNH - Healthcare not really impacted 100% Chinese Tariff or rare earths.\n\nSG - It's down likely due to bad performance + tax harvesting but it's almost 1 P/S lol.\n\nTGT - I'd put it Strong Buy due to dividend catalyst + 5Y low just now, but haven't dont enough research on the effect on Chinese tariffs on the stock yet.\n\nBULL - Growing at similar rates asHOOD, their fundamentals aren't exactly great for the market cap but you would invest based on retail customer base and the future potential for monetization.\n\nFLY - I did a DD on this earlier but Medium Lift Payload likely to succeed with Northrop in 2027, it takes a TON of patience for a potential 1000% moonshot.\n\nCIFR - Neocloud trade, always bullish. Like Meta X CRWV, more details likely to come soon.\n\nWULF - Neocloud trade bullish.\n\nIREN - Neocloud trade bullish. Their funding round was at some number 70%+ of their stock price if I remember correctly, which is a bullish tell (eg. NBIS and CIFR both hit that after their fundraising round).\n\nGLXY - Part of Neocloud trade.\n\nMRVL - It's not really priced in that it's growing 56% Y/Y like NVDA.\n\nSMCI - Data center/stargate buildout\n\nDELL -Data center/stargate buildout\n\n_\n\nSell\n\nCRCL - I will keep repeating this but COIN is better than Circle unless Circle can show they can monetize USDC outside from interest income. Because COIN literally gets 50% revenue sharing and on top of that 100% of the revenue on its platform.\n\nETH - I will keep repeating this but I will not personally buy above $3000. So even if it dips 16% (you can take the chance of a swing trade, back up to $4k+), there's always the chance it keeps cascading down below $3k and I've lost track of how many times this has happened in history.\n\nBMNR - Tied with ETH fundamentally.\n\nPL - Space stocks have gone up a lot, I think with stuff like RGTI and others, fundamentals haven't mirrored it's marketcap.\n\nBKSY - Space stocks have gone up a lot, I think with stuff like RGTI and others, fundamentals haven't mirrored it's marketcap.\n\nStrong Sell\n\nRGTI - market cap extremely disconnected from valuation\n\nOKLO - market cap extremely disconnected from valuation\n\nIONQ - market cap disconnected from valuation\n\nQBTS - market cap disconnected from valuation\n-market cap disconnected from valuation\n\nThere's obviously a macro overhead with China x USA trade wars going on, but none of this was new information (Chinese rare earth export controls have been known for awhile + US has already been tarrifing Chinese goods)\n\nWe're heading into 2x more rate cuts priced in at 70% and large corrections to cleanse the overvalued froth and liquidate margins (eg. Crypto), will help the market go to higher highs. I will always recommend shares because with good companies, if you wait long enough they will likely outperform (but short term underperform if there's random macro risk).\n\nMid term I'm the most bullish on Neoclouds for the next year during the rapid AI buildout -> Robotics/Space likely next frontier after that.",
+      "url": "https://x.com/aleabitoreddit/status/1977079938835718513",
+      "kind": "post",
+      "engagement": {
+        "views": 184275,
+        "likes": 756,
+        "reposts": 128,
+        "replies": 66
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2036329557444403424",
+      "date": "2026-03-24",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$BKSY",
+      "text": "There's the Space Satellite MegaCycle:\n\n-> Triggered by $PL. \n\nWith $BKSY / $SATL / $SPIR and others following.\n\nThen there's the Photonics SuperCycle:\n\n-> Triggered by $LITE and $COHR. \n\nWith $AAOI / $TSEM / $MTSI / $SIVE / $IQE / $SOI and others following. \n\nOne is hype over applications from Space. \n\nThe other is hype over extreme revenue and earnings growth from AI. \n\nThe latter tends to be more defensible.",
+      "url": "https://x.com/aleabitoreddit/status/2036329557444403424",
+      "kind": "post",
+      "engagement": {
+        "views": 118003,
+        "likes": 891,
+        "reposts": 85,
+        "replies": 40
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2025-07-03",
+      "close": 21.48
+    },
+    {
+      "date": "2025-07-07",
+      "close": 21.66
+    },
+    {
+      "date": "2025-07-08",
+      "close": 22.52
+    },
+    {
+      "date": "2025-07-09",
+      "close": 22.3
+    },
+    {
+      "date": "2025-07-10",
+      "close": 23.41
+    },
+    {
+      "date": "2025-07-11",
+      "close": 22.74
+    },
+    {
+      "date": "2025-07-14",
+      "close": 24.26
+    },
+    {
+      "date": "2025-07-15",
+      "close": 25.89
+    },
+    {
+      "date": "2025-07-16",
+      "close": 25.97
+    },
+    {
+      "date": "2025-07-17",
+      "close": 28.29
+    },
+    {
+      "date": "2025-07-18",
+      "close": 23.7
+    },
+    {
+      "date": "2025-07-21",
+      "close": 22.33
+    },
+    {
+      "date": "2025-07-22",
+      "close": 20.14
+    },
+    {
+      "date": "2025-07-23",
+      "close": 20.44
+    },
+    {
+      "date": "2025-07-24",
+      "close": 20.53
+    },
+    {
+      "date": "2025-07-25",
+      "close": 19.78
+    },
+    {
+      "date": "2025-07-28",
+      "close": 19.15
+    },
+    {
+      "date": "2025-07-29",
+      "close": 19.05
+    },
+    {
+      "date": "2025-07-30",
+      "close": 18.47
+    },
+    {
+      "date": "2025-07-31",
+      "close": 19.24
+    },
+    {
+      "date": "2025-08-01",
+      "close": 18.86
+    },
+    {
+      "date": "2025-08-04",
+      "close": 20.57
+    },
+    {
+      "date": "2025-08-05",
+      "close": 18.94
+    },
+    {
+      "date": "2025-08-06",
+      "close": 18.3
+    },
+    {
+      "date": "2025-08-07",
+      "close": 17.21
+    },
+    {
+      "date": "2025-08-08",
+      "close": 17.09
+    },
+    {
+      "date": "2025-08-11",
+      "close": 17.26
+    },
+    {
+      "date": "2025-08-12",
+      "close": 17.44
+    },
+    {
+      "date": "2025-08-13",
+      "close": 18.49
+    },
+    {
+      "date": "2025-08-14",
+      "close": 18.17
+    },
+    {
+      "date": "2025-08-15",
+      "close": 18.17
+    },
+    {
+      "date": "2025-08-18",
+      "close": 17.42
+    },
+    {
+      "date": "2025-08-19",
+      "close": 16.17
+    },
+    {
+      "date": "2025-08-20",
+      "close": 16.32
+    },
+    {
+      "date": "2025-08-21",
+      "close": 16.33
+    },
+    {
+      "date": "2025-08-22",
+      "close": 17.28
+    },
+    {
+      "date": "2025-08-25",
+      "close": 17.53
+    },
+    {
+      "date": "2025-08-26",
+      "close": 18.21
+    },
+    {
+      "date": "2025-08-27",
+      "close": 18.16
+    },
+    {
+      "date": "2025-08-28",
+      "close": 18.08
+    },
+    {
+      "date": "2025-08-29",
+      "close": 17.56
+    },
+    {
+      "date": "2025-09-02",
+      "close": 17.06
+    },
+    {
+      "date": "2025-09-03",
+      "close": 16.43
+    },
+    {
+      "date": "2025-09-04",
+      "close": 15.71
+    },
+    {
+      "date": "2025-09-05",
+      "close": 16.22
+    },
+    {
+      "date": "2025-09-08",
+      "close": 16.63
+    },
+    {
+      "date": "2025-09-09",
+      "close": 16.32
+    },
+    {
+      "date": "2025-09-10",
+      "close": 15.47
+    },
+    {
+      "date": "2025-09-11",
+      "close": 17.39
+    },
+    {
+      "date": "2025-09-12",
+      "close": 19.29
+    },
+    {
+      "date": "2025-09-15",
+      "close": 19.7
+    },
+    {
+      "date": "2025-09-16",
+      "close": 18.58
+    },
+    {
+      "date": "2025-09-17",
+      "close": 19.16
+    },
+    {
+      "date": "2025-09-18",
+      "close": 19.43
+    },
+    {
+      "date": "2025-09-19",
+      "close": 20.99
+    },
+    {
+      "date": "2025-09-22",
+      "close": 20.9
+    },
+    {
+      "date": "2025-09-23",
+      "close": 22.03
+    },
+    {
+      "date": "2025-09-24",
+      "close": 20.97
+    },
+    {
+      "date": "2025-09-25",
+      "close": 19.83
+    },
+    {
+      "date": "2025-09-26",
+      "close": 19.71
+    },
+    {
+      "date": "2025-09-29",
+      "close": 19.97
+    },
+    {
+      "date": "2025-09-30",
+      "close": 20.15
+    },
+    {
+      "date": "2025-10-01",
+      "close": 22.42
+    },
+    {
+      "date": "2025-10-02",
+      "close": 24.35
+    },
+    {
+      "date": "2025-10-03",
+      "close": 25.52
+    },
+    {
+      "date": "2025-10-06",
+      "close": 28.58
+    },
+    {
+      "date": "2025-10-07",
+      "close": 30.15
+    },
+    {
+      "date": "2025-10-08",
+      "close": 30.07
+    },
+    {
+      "date": "2025-10-09",
+      "close": 29.95
+    },
+    {
+      "date": "2025-10-10",
+      "close": 26.75
+    },
+    {
+      "date": "2025-10-13",
+      "close": 28.3
+    },
+    {
+      "date": "2025-10-14",
+      "close": 29.83
+    },
+    {
+      "date": "2025-10-15",
+      "close": 31.63
+    },
+    {
+      "date": "2025-10-16",
+      "close": 26.06
+    },
+    {
+      "date": "2025-10-17",
+      "close": 24.42
+    },
+    {
+      "date": "2025-10-20",
+      "close": 26.72
+    },
+    {
+      "date": "2025-10-21",
+      "close": 25.2
+    },
+    {
+      "date": "2025-10-22",
+      "close": 21.72
+    },
+    {
+      "date": "2025-10-23",
+      "close": 22.85
+    },
+    {
+      "date": "2025-10-24",
+      "close": 23.64
+    },
+    {
+      "date": "2025-10-27",
+      "close": 23.32
+    },
+    {
+      "date": "2025-10-28",
+      "close": 21.53
+    },
+    {
+      "date": "2025-10-29",
+      "close": 21.04
+    },
+    {
+      "date": "2025-10-30",
+      "close": 19.67
+    },
+    {
+      "date": "2025-10-31",
+      "close": 21.12
+    },
+    {
+      "date": "2025-11-03",
+      "close": 20.42
+    },
+    {
+      "date": "2025-11-04",
+      "close": 18.73
+    },
+    {
+      "date": "2025-11-05",
+      "close": 18.78
+    },
+    {
+      "date": "2025-11-06",
+      "close": 16.63
+    },
+    {
+      "date": "2025-11-07",
+      "close": 16.92
+    },
+    {
+      "date": "2025-11-10",
+      "close": 16.58
+    },
+    {
+      "date": "2025-11-11",
+      "close": 16.07
+    },
+    {
+      "date": "2025-11-12",
+      "close": 15.83
+    },
+    {
+      "date": "2025-11-13",
+      "close": 13.62
+    },
+    {
+      "date": "2025-11-14",
+      "close": 13.19
+    },
+    {
+      "date": "2025-11-17",
+      "close": 13.14
+    },
+    {
+      "date": "2025-11-18",
+      "close": 13.57
+    },
+    {
+      "date": "2025-11-19",
+      "close": 14.49
+    },
+    {
+      "date": "2025-11-20",
+      "close": 14.99
+    },
+    {
+      "date": "2025-11-21",
+      "close": 15.33
+    },
+    {
+      "date": "2025-11-24",
+      "close": 16.05
+    },
+    {
+      "date": "2025-11-25",
+      "close": 17.13
+    },
+    {
+      "date": "2025-11-26",
+      "close": 17.75
+    },
+    {
+      "date": "2025-11-28",
+      "close": 17.72
+    },
+    {
+      "date": "2025-12-01",
+      "close": 16.57
+    },
+    {
+      "date": "2025-12-02",
+      "close": 16.97
+    },
+    {
+      "date": "2025-12-03",
+      "close": 17.68
+    },
+    {
+      "date": "2025-12-04",
+      "close": 19.25
+    },
+    {
+      "date": "2025-12-05",
+      "close": 18.29
+    },
+    {
+      "date": "2025-12-08",
+      "close": 18.28
+    },
+    {
+      "date": "2025-12-09",
+      "close": 18.7
+    },
+    {
+      "date": "2025-12-10",
+      "close": 19.32
+    },
+    {
+      "date": "2025-12-11",
+      "close": 19.55
+    },
+    {
+      "date": "2025-12-12",
+      "close": 18.24
+    },
+    {
+      "date": "2025-12-15",
+      "close": 17.52
+    },
+    {
+      "date": "2025-12-16",
+      "close": 17.97
+    },
+    {
+      "date": "2025-12-17",
+      "close": 16.45
+    },
+    {
+      "date": "2025-12-18",
+      "close": 17.47
+    },
+    {
+      "date": "2025-12-19",
+      "close": 19.25
+    },
+    {
+      "date": "2025-12-22",
+      "close": 21.87
+    },
+    {
+      "date": "2025-12-23",
+      "close": 21.68
+    },
+    {
+      "date": "2025-12-24",
+      "close": 21.22
+    },
+    {
+      "date": "2025-12-26",
+      "close": 19.31
+    },
+    {
+      "date": "2025-12-29",
+      "close": 19.17
+    },
+    {
+      "date": "2025-12-30",
+      "close": 19.31
+    },
+    {
+      "date": "2025-12-31",
+      "close": 18.75
+    },
+    {
+      "date": "2026-01-02",
+      "close": 20.82
+    },
+    {
+      "date": "2026-01-05",
+      "close": 22.72
+    },
+    {
+      "date": "2026-01-06",
+      "close": 24.78
+    },
+    {
+      "date": "2026-01-07",
+      "close": 24.26
+    },
+    {
+      "date": "2026-01-08",
+      "close": 24.95
+    },
+    {
+      "date": "2026-01-09",
+      "close": 25.52
+    },
+    {
+      "date": "2026-01-12",
+      "close": 26.61
+    },
+    {
+      "date": "2026-01-13",
+      "close": 25.61
+    },
+    {
+      "date": "2026-01-14",
+      "close": 27.65
+    },
+    {
+      "date": "2026-01-15",
+      "close": 28.3
+    },
+    {
+      "date": "2026-01-16",
+      "close": 27.53
+    },
+    {
+      "date": "2026-01-20",
+      "close": 27.37
+    },
+    {
+      "date": "2026-01-21",
+      "close": 25.3
+    },
+    {
+      "date": "2026-01-22",
+      "close": 26.87
+    },
+    {
+      "date": "2026-01-23",
+      "close": 27.08
+    },
+    {
+      "date": "2026-01-26",
+      "close": 24.31
+    },
+    {
+      "date": "2026-01-27",
+      "close": 26.86
+    },
+    {
+      "date": "2026-01-28",
+      "close": 27.73
+    },
+    {
+      "date": "2026-01-29",
+      "close": 24.72
+    },
+    {
+      "date": "2026-01-30",
+      "close": 22.07
+    },
+    {
+      "date": "2026-02-02",
+      "close": 21.41
+    },
+    {
+      "date": "2026-02-03",
+      "close": 23.7
+    },
+    {
+      "date": "2026-02-04",
+      "close": 21.14
+    },
+    {
+      "date": "2026-02-05",
+      "close": 20.99
+    },
+    {
+      "date": "2026-02-06",
+      "close": 22.85
+    },
+    {
+      "date": "2026-02-09",
+      "close": 24.71
+    },
+    {
+      "date": "2026-02-10",
+      "close": 22.76
+    },
+    {
+      "date": "2026-02-11",
+      "close": 21.12
+    },
+    {
+      "date": "2026-02-12",
+      "close": 20.58
+    },
+    {
+      "date": "2026-02-13",
+      "close": 21.48
+    },
+    {
+      "date": "2026-02-17",
+      "close": 21.3
+    },
+    {
+      "date": "2026-02-18",
+      "close": 22.03
+    },
+    {
+      "date": "2026-02-19",
+      "close": 21.42
+    },
+    {
+      "date": "2026-02-20",
+      "close": 19.88
+    },
+    {
+      "date": "2026-02-23",
+      "close": 19.34
+    },
+    {
+      "date": "2026-02-24",
+      "close": 19.71
+    },
+    {
+      "date": "2026-02-25",
+      "close": 20.19
+    },
+    {
+      "date": "2026-02-26",
+      "close": 19.99
+    },
+    {
+      "date": "2026-02-27",
+      "close": 18.85
+    },
+    {
+      "date": "2026-03-02",
+      "close": 21.61
+    },
+    {
+      "date": "2026-03-03",
+      "close": 22.72
+    },
+    {
+      "date": "2026-03-04",
+      "close": 24.3
+    },
+    {
+      "date": "2026-03-05",
+      "close": 24.36
+    },
+    {
+      "date": "2026-03-06",
+      "close": 23.73
+    },
+    {
+      "date": "2026-03-09",
+      "close": 24.94
+    },
+    {
+      "date": "2026-03-10",
+      "close": 24.0
+    },
+    {
+      "date": "2026-03-11",
+      "close": 23.63
+    },
+    {
+      "date": "2026-03-12",
+      "close": 23.93
+    },
+    {
+      "date": "2026-03-13",
+      "close": 23.63
+    },
+    {
+      "date": "2026-03-16",
+      "close": 24.0
+    },
+    {
+      "date": "2026-03-17",
+      "close": 26.4
+    },
+    {
+      "date": "2026-03-18",
+      "close": 25.38
+    },
+    {
+      "date": "2026-03-19",
+      "close": 25.63
+    },
+    {
+      "date": "2026-03-20",
+      "close": 26.09
+    },
+    {
+      "date": "2026-03-23",
+      "close": 27.74
+    },
+    {
+      "date": "2026-03-24",
+      "close": 25.43
+    },
+    {
+      "date": "2026-03-25",
+      "close": 27.03
+    },
+    {
+      "date": "2026-03-26",
+      "close": 28.14
+    },
+    {
+      "date": "2026-03-27",
+      "close": 23.29
+    },
+    {
+      "date": "2026-03-30",
+      "close": 21.91
+    },
+    {
+      "date": "2026-03-31",
+      "close": 25.16
+    },
+    {
+      "date": "2026-04-01",
+      "close": 27.62
+    },
+    {
+      "date": "2026-04-02",
+      "close": 30.81
+    },
+    {
+      "date": "2026-04-06",
+      "close": 30.93
+    },
+    {
+      "date": "2026-04-07",
+      "close": 34.05
+    },
+    {
+      "date": "2026-04-08",
+      "close": 33.41
+    },
+    {
+      "date": "2026-04-09",
+      "close": 32.65
+    },
+    {
+      "date": "2026-04-10",
+      "close": 34.14
+    },
+    {
+      "date": "2026-04-13",
+      "close": 34.79
+    },
+    {
+      "date": "2026-04-14",
+      "close": 32.04
+    },
+    {
+      "date": "2026-04-15",
+      "close": 33.08
+    },
+    {
+      "date": "2026-04-16",
+      "close": 39.0
+    },
+    {
+      "date": "2026-04-17",
+      "close": 37.57
+    },
+    {
+      "date": "2026-04-20",
+      "close": 37.42
+    },
+    {
+      "date": "2026-04-21",
+      "close": 38.94
+    },
+    {
+      "date": "2026-04-22",
+      "close": 40.66
+    },
+    {
+      "date": "2026-04-23",
+      "close": 38.44
+    },
+    {
+      "date": "2026-04-24",
+      "close": 33.83
+    },
+    {
+      "date": "2026-04-27",
+      "close": 33.21
+    },
+    {
+      "date": "2026-04-28",
+      "close": 31.22
+    },
+    {
+      "date": "2026-04-29",
+      "close": 31.66
+    },
+    {
+      "date": "2026-04-30",
+      "close": 35.48
+    },
+    {
+      "date": "2026-05-01",
+      "close": 35.55
+    },
+    {
+      "date": "2026-05-04",
+      "close": 36.33
+    },
+    {
+      "date": "2026-05-05",
+      "close": 35.96
+    },
+    {
+      "date": "2026-05-06",
+      "close": 40.51
+    },
+    {
+      "date": "2026-05-07",
+      "close": 32.24
+    },
+    {
+      "date": "2026-05-08",
+      "close": 39.45
+    },
+    {
+      "date": "2026-05-11",
+      "close": 41.38
+    },
+    {
+      "date": "2026-05-12",
+      "close": 40.31
+    },
+    {
+      "date": "2026-05-13",
+      "close": 41.15
+    },
+    {
+      "date": "2026-05-14",
+      "close": 42.66
+    },
+    {
+      "date": "2026-05-15",
+      "close": 38.75
+    },
+    {
+      "date": "2026-05-18",
+      "close": 43.0
+    },
+    {
+      "date": "2026-05-19",
+      "close": 45.17
+    },
+    {
+      "date": "2026-05-20",
+      "close": 45.58
+    },
+    {
+      "date": "2026-05-21",
+      "close": 44.65
+    },
+    {
+      "date": "2026-05-22",
+      "close": 47.87
+    },
+    {
+      "date": "2026-05-26",
+      "close": 48.77
+    },
+    {
+      "date": "2026-05-27",
+      "close": 51.0
+    },
+    {
+      "date": "2026-05-28",
+      "close": 51.63
+    },
+    {
+      "date": "2026-05-29",
+      "close": 48.47
+    },
+    {
+      "date": "2026-06-01",
+      "close": 42.38
+    },
+    {
+      "date": "2026-06-02",
+      "close": 43.91
+    },
+    {
+      "date": "2026-06-03",
+      "close": 37.48
+    },
+    {
+      "date": "2026-06-04",
+      "close": 39.66
+    }
+  ],
+  "price_status": "ok"
+}

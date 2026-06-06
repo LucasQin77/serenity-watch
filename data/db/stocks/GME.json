@@ -1,0 +1,1305 @@
+{
+  "ticker": "GME",
+  "cashtag": "$GME",
+  "price_symbol": "GME",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-07-03",
+  "last_mention": "2026-04-06",
+  "total_mentions": 16,
+  "mentions": [
+    {
+      "tweet_id": "1940711432397684953",
+      "date": "2025-07-03",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "swing trade after 30% drop"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$GME",
+      "text": "Med/Long term swing trades right now are\n\n1. $GME after the 30% drop\n2. $SG after the 49% drop\n3. $UNH after the 45% drop. \n4. $GOOGL after the drop to $164 again. Bought calls ~$150 for my WSB DD, sold $175, rebought $164, now holding to $185. \n\nDoing more research on $SRPT.",
+      "url": "https://x.com/aleabitoreddit/status/1940711432397684953",
+      "kind": "self_thread",
+      "engagement": {
+        "views": 2027,
+        "likes": 3,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1942222651151548657",
+      "date": "2025-07-07",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "bought on 3% drop at 23.00"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$GME",
+      "text": "🔥Fire sale today for stocks. \n\nBought a decent amount of $BULL on the 15% drop 12.28.  \n\nBought $SG  $13.8 on the 6% drop (sometimes drops to low $13/high $12.8, so hold off on major positions).  \n\nBought $GME $23.00 on the 3% drop.   \n\n Bought $HIMS $45.26 on the 5.6% drop.",
+      "url": "https://x.com/aleabitoreddit/status/1942222651151548657",
+      "kind": "post",
+      "engagement": {
+        "views": 3090,
+        "likes": 2,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1942227925773987991",
+      "date": "2025-07-07",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "spikes around earnings so hold until then",
+        "has enough assets that shares unlikely to drop too far beneath $23"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$GME",
+      "text": "@MR61615938 Maybe like $26 if you're not greedy, $28+ if you are. \n\nIt usually spikes around earnings so just hold until then usually. It has enough assets that shares are unlikely to drop too far beneath $23.",
+      "url": "https://x.com/aleabitoreddit/status/1942227925773987991",
+      "kind": "reply",
+      "engagement": {
+        "views": 410,
+        "likes": 1,
+        "reposts": 0,
+        "replies": 2
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1942229906341155068",
+      "date": "2025-07-07",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "sub $20 buy calls",
+        "$21-$22 buy",
+        "$23 accumulate as cost average down levels for swing trading"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "$GME",
+      "text": "I typically cost average down for swing trading. Some levels I look out for as examples (i don't leverage unless something is extremely oversold)\n\n$GME (sub $20 - buy calls), $21-$22 buy, $23 accumulate\n\n$SG (High $13) buy, (~ $12.8) very strong buy, sub $11 calls.",
+      "url": "https://x.com/aleabitoreddit/status/1942229906341155068",
+      "kind": "self_thread",
+      "engagement": {
+        "views": 1821,
+        "likes": 3,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1965478345283658118",
+      "date": "2025-09-09",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "comfortable selling puts or holding at current prices",
+        "good value",
+        "massive cash pile"
+      ],
+      "is_risk": false,
+      "conviction": "medium",
+      "raw_mention": "GME",
+      "text": "@LibertadEterno I'd be comfortable selling puts or holding GME stock around current prices. Probably ignore the analysts on this one, seems like good value. \n\nOtherwise, future really depends on what the CEO wants to do with the massive cash pile.",
+      "url": "https://x.com/aleabitoreddit/status/1965478345283658118",
+      "kind": "reply",
+      "engagement": {
+        "views": 239,
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1965479119472443405",
+      "date": "2025-09-09",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "happy selling $21.5 puts"
+      ],
+      "is_risk": true,
+      "conviction": "medium",
+      "raw_mention": "$21.5 puts",
+      "text": "@LibertadEterno I'd be happy selling $21.5 puts unless the CEO dilutes again lol",
+      "url": "https://x.com/aleabitoreddit/status/1965479119472443405",
+      "kind": "reply",
+      "engagement": {
+        "views": 134,
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1965763491329093943",
+      "date": "2025-09-10",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "If you're scared about $NBIS remember **DILUTION WAS ALREADY PRICED IN**\n\nThe $MSFT contract was 17B+, increasing forward rev by 300%+ for over 7 years. $NBIS gained 45% on the day not 250%+.\n\nIt's positive if they're using it for the MSFT contract instead of just holding it like $GME or $AMC. \n\n$ASTS also launched a capital raise for product deployment and their stock went from $22 -> $18 -> $50.",
+      "url": "https://x.com/aleabitoreddit/status/1965763491329093943",
+      "kind": "post",
+      "engagement": {
+        "views": 2911,
+        "likes": 3,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1966512870251749588",
+      "date": "2025-09-12",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "I don’t know how to reiterate this enough for $HIMS\n\n42% short interest on a 11B, profitable, and fast growing company… has the potential to make history on a short squeeze like $OPEN or $GME.\n\nThe risk reward is worth it. https://t.co/xoCKXMzdqu",
+      "url": "https://x.com/aleabitoreddit/status/1966512870251749588",
+      "kind": "post",
+      "engagement": {
+        "views": 34181,
+        "likes": 194,
+        "reposts": 16,
+        "replies": 5
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1968012660898926699",
+      "date": "2025-09-16",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "sold out at $25-26",
+        "does not like long term holding stocks he does not have complete conviction in"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$GME",
+      "text": "@MR61615938 Oh yeah I sold out of $GME at $25-26. I don't like long term holding stocks I don't have complete conviction in.",
+      "url": "https://x.com/aleabitoreddit/status/1968012660898926699",
+      "kind": "reply",
+      "engagement": {
+        "views": 495,
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "1968027977113104505",
+      "date": "2025-09-16",
+      "stance": "bearish",
+      "mention_type": "comparison",
+      "reasons": [
+        "holders cheered company dumping stock on them"
+      ],
+      "is_risk": true,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "@beavinvests Sorry but I haven't seen this much delusion since $GME or $AMC holders cheered that the company is dumping stock on them. \n\nHaving $RKLB sell $750m on open market against any buying pressure is not something to be excited about.",
+      "url": "https://x.com/aleabitoreddit/status/1968027977113104505",
+      "kind": "reply",
+      "engagement": {
+        "views": 880,
+        "likes": 5,
+        "reposts": 0,
+        "replies": 3
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2022853233761276227",
+      "date": "2026-02-14",
+      "stance": "neutral",
+      "mention_type": "quote_or_other",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Gamestock",
+      "text": "@RealMattMoney @michaeljburry @basispointpod @TheCompoundNews @theallinpod Yeah I got blocked because his arguments don’t hold up to pubic scrutiny.\n\nThought he might have been knowledgeable but the guy turned out to be a snake oil salesman selling $385 subscriptions and pitching Gamestock. \n\nhttps://t.co/xoT1vtp5cf",
+      "url": "https://x.com/aleabitoreddit/status/2022853233761276227",
+      "kind": "reply",
+      "engagement": {
+        "views": 5619,
+        "likes": 21,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2024408036203516182",
+      "date": "2026-02-19",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "The Financial Times piece on $RPI seems disingenuous.\n\nEspecially the framing of \"Raspberry Pi\" as a Meme stock.   \n\n1. There's been 0 mentions about shorts\n\n2. It's completely unrelated to $GME's short squeeze + hold \"meme-stock\" narratives. \n\nThis is informed flow from material revenue changes.\n\nEspecially when Raspberry Pi is an already profitable company.  \n\nMy exact quote verbatim: \n\n \" \n- ~$280M- $300M revenue  \n- ~$75M+ Gross Profit  \n- ~25% Gross Margin  \n- Net income: ~$10M - $15M  \n- Net Cash: $28M\"\n\nAnalysts currently project revenue growth closer to 14–17%.    \n\nBut if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues.\n \"  \n\n$AAPL mac minis has been known to be hoarded for OpenClaw deployments. But Apple devices purchases have little material impact on a $3.7T company.  \n\n$RPI is the other leading hardware of choice for OpenClaw agentic orchestration, causing a surge of demand. \n\nBut due to the market cap, a surge in demand increase does have a material impact.   \n\nThis is purely fundamental revenue increases and a new addressable market.\n\nFraming it as $GME-type rally around squeezing opposition shorts, when there's been 0 mentions of shorts whatsoever is disingenuous.",
+      "url": "https://x.com/aleabitoreddit/status/2024408036203516182",
+      "kind": "post",
+      "engagement": {
+        "views": 81869,
+        "likes": 145,
+        "reposts": 6,
+        "replies": 26
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2029223044208832707",
+      "date": "2026-03-04",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "@pablocuellar_3 If 3 hyperscalers say they will buy any transceivers you can possibly ever make. It's not really a demand problem with $AAOI, just how much they can capacity they can buildout. \n\n$250m is pennies considering it's used for that reason (and not just hoarding like $GME or $POET).",
+      "url": "https://x.com/aleabitoreddit/status/2029223044208832707",
+      "kind": "reply",
+      "engagement": {
+        "views": 7307,
+        "likes": 21,
+        "reposts": 0,
+        "replies": 2
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2030245046742876233",
+      "date": "2026-03-07",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "@EikonDD Yeah seems pretty likely at this point. People were talking about $ENPH doubling off 14% SI but this is 40%+\n\nWas really memorable seeing $GME go from $3-&gt;$150 that one year. Don’t think we’ll ever see a repeat of that but curious where $HIMS heads.",
+      "url": "https://x.com/aleabitoreddit/status/2030245046742876233",
+      "kind": "reply",
+      "engagement": {
+        "views": 28510,
+        "likes": 60,
+        "reposts": 0,
+        "replies": 4
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2038924865181471031",
+      "date": "2026-03-31",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "@GeneralMarketx Actual ****s over at FT, and other news outlets sparking panic with the false labels.\n\nSaying it was $GME \"Meme stock territory\" over actual fundamentals. \n\n$RPI is likely going to be repriced upward a lot after the 58% growth estimate revisions.",
+      "url": "https://x.com/aleabitoreddit/status/2038924865181471031",
+      "kind": "reply",
+      "engagement": {
+        "views": 1702,
+        "likes": 6,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2041258618906136658",
+      "date": "2026-04-06",
+      "stance": "neutral",
+      "mention_type": "comparison",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$GME",
+      "text": "@Kaizen_Investor Yes if you were $GME, $AMC CEO’s a logical choice might be to dump ATMs on a retail shareholders to benefit the company because they would take it. \n\nHowever $IREN bagholders or meme stocks, I would not personally just sit there and get diluted from around double the 52m share float.\n\nI hope it doesn’t pass since it’s stupid. They already raised enough from Northland and this is predatory",
+      "url": "https://x.com/aleabitoreddit/status/2041258618906136658",
+      "kind": "reply",
+      "engagement": {
+        "views": 13241,
+        "likes": 74,
+        "reposts": 0,
+        "replies": 2
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2025-07-03",
+      "close": 23.59
+    },
+    {
+      "date": "2025-07-07",
+      "close": 22.62
+    },
+    {
+      "date": "2025-07-08",
+      "close": 22.75
+    },
+    {
+      "date": "2025-07-09",
+      "close": 23.19
+    },
+    {
+      "date": "2025-07-10",
+      "close": 23.1
+    },
+    {
+      "date": "2025-07-11",
+      "close": 23.33
+    },
+    {
+      "date": "2025-07-14",
+      "close": 23.7
+    },
+    {
+      "date": "2025-07-15",
+      "close": 23.22
+    },
+    {
+      "date": "2025-07-16",
+      "close": 23.68
+    },
+    {
+      "date": "2025-07-17",
+      "close": 23.4
+    },
+    {
+      "date": "2025-07-18",
+      "close": 23.28
+    },
+    {
+      "date": "2025-07-21",
+      "close": 24.2
+    },
+    {
+      "date": "2025-07-22",
+      "close": 24.26
+    },
+    {
+      "date": "2025-07-23",
+      "close": 23.96
+    },
+    {
+      "date": "2025-07-24",
+      "close": 23.53
+    },
+    {
+      "date": "2025-07-25",
+      "close": 23.33
+    },
+    {
+      "date": "2025-07-28",
+      "close": 22.98
+    },
+    {
+      "date": "2025-07-29",
+      "close": 22.55
+    },
+    {
+      "date": "2025-07-30",
+      "close": 22.45
+    },
+    {
+      "date": "2025-07-31",
+      "close": 22.45
+    },
+    {
+      "date": "2025-08-01",
+      "close": 22.1
+    },
+    {
+      "date": "2025-08-04",
+      "close": 22.63
+    },
+    {
+      "date": "2025-08-05",
+      "close": 22.81
+    },
+    {
+      "date": "2025-08-06",
+      "close": 22.81
+    },
+    {
+      "date": "2025-08-07",
+      "close": 22.65
+    },
+    {
+      "date": "2025-08-08",
+      "close": 22.27
+    },
+    {
+      "date": "2025-08-11",
+      "close": 22.41
+    },
+    {
+      "date": "2025-08-12",
+      "close": 22.93
+    },
+    {
+      "date": "2025-08-13",
+      "close": 23.02
+    },
+    {
+      "date": "2025-08-14",
+      "close": 22.89
+    },
+    {
+      "date": "2025-08-15",
+      "close": 22.94
+    },
+    {
+      "date": "2025-08-18",
+      "close": 23.11
+    },
+    {
+      "date": "2025-08-19",
+      "close": 22.82
+    },
+    {
+      "date": "2025-08-20",
+      "close": 22.63
+    },
+    {
+      "date": "2025-08-21",
+      "close": 22.56
+    },
+    {
+      "date": "2025-08-22",
+      "close": 22.89
+    },
+    {
+      "date": "2025-08-25",
+      "close": 22.68
+    },
+    {
+      "date": "2025-08-26",
+      "close": 22.3
+    },
+    {
+      "date": "2025-08-27",
+      "close": 22.5
+    },
+    {
+      "date": "2025-08-28",
+      "close": 22.79
+    },
+    {
+      "date": "2025-08-29",
+      "close": 22.41
+    },
+    {
+      "date": "2025-09-02",
+      "close": 23.41
+    },
+    {
+      "date": "2025-09-03",
+      "close": 22.88
+    },
+    {
+      "date": "2025-09-04",
+      "close": 22.37
+    },
+    {
+      "date": "2025-09-05",
+      "close": 22.61
+    },
+    {
+      "date": "2025-09-08",
+      "close": 23.22
+    },
+    {
+      "date": "2025-09-09",
+      "close": 23.59
+    },
+    {
+      "date": "2025-09-10",
+      "close": 24.37
+    },
+    {
+      "date": "2025-09-11",
+      "close": 24.85
+    },
+    {
+      "date": "2025-09-12",
+      "close": 24.93
+    },
+    {
+      "date": "2025-09-15",
+      "close": 25.53
+    },
+    {
+      "date": "2025-09-16",
+      "close": 26.34
+    },
+    {
+      "date": "2025-09-17",
+      "close": 26.1
+    },
+    {
+      "date": "2025-09-18",
+      "close": 25.88
+    },
+    {
+      "date": "2025-09-19",
+      "close": 26.08
+    },
+    {
+      "date": "2025-09-22",
+      "close": 26.78
+    },
+    {
+      "date": "2025-09-23",
+      "close": 26.8
+    },
+    {
+      "date": "2025-09-24",
+      "close": 26.25
+    },
+    {
+      "date": "2025-09-25",
+      "close": 25.27
+    },
+    {
+      "date": "2025-09-26",
+      "close": 26.42
+    },
+    {
+      "date": "2025-09-29",
+      "close": 27.21
+    },
+    {
+      "date": "2025-09-30",
+      "close": 27.28
+    },
+    {
+      "date": "2025-10-01",
+      "close": 27.69
+    },
+    {
+      "date": "2025-10-02",
+      "close": 27.22
+    },
+    {
+      "date": "2025-10-03",
+      "close": 25.38
+    },
+    {
+      "date": "2025-10-06",
+      "close": 25.05
+    },
+    {
+      "date": "2025-10-07",
+      "close": 24.35
+    },
+    {
+      "date": "2025-10-08",
+      "close": 24.41
+    },
+    {
+      "date": "2025-10-09",
+      "close": 24.07
+    },
+    {
+      "date": "2025-10-10",
+      "close": 23.3
+    },
+    {
+      "date": "2025-10-13",
+      "close": 23.59
+    },
+    {
+      "date": "2025-10-14",
+      "close": 23.21
+    },
+    {
+      "date": "2025-10-15",
+      "close": 23.38
+    },
+    {
+      "date": "2025-10-16",
+      "close": 22.95
+    },
+    {
+      "date": "2025-10-17",
+      "close": 23.07
+    },
+    {
+      "date": "2025-10-20",
+      "close": 23.37
+    },
+    {
+      "date": "2025-10-21",
+      "close": 22.8
+    },
+    {
+      "date": "2025-10-22",
+      "close": 22.49
+    },
+    {
+      "date": "2025-10-23",
+      "close": 23.63
+    },
+    {
+      "date": "2025-10-24",
+      "close": 23.3
+    },
+    {
+      "date": "2025-10-27",
+      "close": 23.53
+    },
+    {
+      "date": "2025-10-28",
+      "close": 23.3
+    },
+    {
+      "date": "2025-10-29",
+      "close": 23.38
+    },
+    {
+      "date": "2025-10-30",
+      "close": 22.58
+    },
+    {
+      "date": "2025-10-31",
+      "close": 22.29
+    },
+    {
+      "date": "2025-11-03",
+      "close": 22.11
+    },
+    {
+      "date": "2025-11-04",
+      "close": 21.98
+    },
+    {
+      "date": "2025-11-05",
+      "close": 22.01
+    },
+    {
+      "date": "2025-11-06",
+      "close": 21.35
+    },
+    {
+      "date": "2025-11-07",
+      "close": 21.5
+    },
+    {
+      "date": "2025-11-10",
+      "close": 21.49
+    },
+    {
+      "date": "2025-11-11",
+      "close": 21.45
+    },
+    {
+      "date": "2025-11-12",
+      "close": 21.36
+    },
+    {
+      "date": "2025-11-13",
+      "close": 20.96
+    },
+    {
+      "date": "2025-11-14",
+      "close": 20.66
+    },
+    {
+      "date": "2025-11-17",
+      "close": 20.5
+    },
+    {
+      "date": "2025-11-18",
+      "close": 20.5
+    },
+    {
+      "date": "2025-11-19",
+      "close": 20.42
+    },
+    {
+      "date": "2025-11-20",
+      "close": 19.94
+    },
+    {
+      "date": "2025-11-21",
+      "close": 20.14
+    },
+    {
+      "date": "2025-11-24",
+      "close": 20.49
+    },
+    {
+      "date": "2025-11-25",
+      "close": 21.06
+    },
+    {
+      "date": "2025-11-26",
+      "close": 21.63
+    },
+    {
+      "date": "2025-11-28",
+      "close": 22.53
+    },
+    {
+      "date": "2025-12-01",
+      "close": 22.79
+    },
+    {
+      "date": "2025-12-02",
+      "close": 22.81
+    },
+    {
+      "date": "2025-12-03",
+      "close": 23.21
+    },
+    {
+      "date": "2025-12-04",
+      "close": 22.95
+    },
+    {
+      "date": "2025-12-05",
+      "close": 23.0
+    },
+    {
+      "date": "2025-12-08",
+      "close": 23.35
+    },
+    {
+      "date": "2025-12-09",
+      "close": 23.11
+    },
+    {
+      "date": "2025-12-10",
+      "close": 22.12
+    },
+    {
+      "date": "2025-12-11",
+      "close": 21.86
+    },
+    {
+      "date": "2025-12-12",
+      "close": 21.23
+    },
+    {
+      "date": "2025-12-15",
+      "close": 22.09
+    },
+    {
+      "date": "2025-12-16",
+      "close": 22.28
+    },
+    {
+      "date": "2025-12-17",
+      "close": 23.03
+    },
+    {
+      "date": "2025-12-18",
+      "close": 22.56
+    },
+    {
+      "date": "2025-12-19",
+      "close": 22.51
+    },
+    {
+      "date": "2025-12-22",
+      "close": 21.74
+    },
+    {
+      "date": "2025-12-23",
+      "close": 21.38
+    },
+    {
+      "date": "2025-12-24",
+      "close": 21.53
+    },
+    {
+      "date": "2025-12-26",
+      "close": 21.09
+    },
+    {
+      "date": "2025-12-29",
+      "close": 20.53
+    },
+    {
+      "date": "2025-12-30",
+      "close": 20.5
+    },
+    {
+      "date": "2025-12-31",
+      "close": 20.08
+    },
+    {
+      "date": "2026-01-02",
+      "close": 20.62
+    },
+    {
+      "date": "2026-01-05",
+      "close": 20.72
+    },
+    {
+      "date": "2026-01-06",
+      "close": 20.66
+    },
+    {
+      "date": "2026-01-07",
+      "close": 21.29
+    },
+    {
+      "date": "2026-01-08",
+      "close": 21.42
+    },
+    {
+      "date": "2026-01-09",
+      "close": 21.23
+    },
+    {
+      "date": "2026-01-12",
+      "close": 20.98
+    },
+    {
+      "date": "2026-01-13",
+      "close": 21.02
+    },
+    {
+      "date": "2026-01-14",
+      "close": 21.02
+    },
+    {
+      "date": "2026-01-15",
+      "close": 21.36
+    },
+    {
+      "date": "2026-01-16",
+      "close": 21.1
+    },
+    {
+      "date": "2026-01-20",
+      "close": 21.1
+    },
+    {
+      "date": "2026-01-21",
+      "close": 21.69
+    },
+    {
+      "date": "2026-01-22",
+      "close": 23.14
+    },
+    {
+      "date": "2026-01-23",
+      "close": 22.99
+    },
+    {
+      "date": "2026-01-26",
+      "close": 24.01
+    },
+    {
+      "date": "2026-01-27",
+      "close": 24.21
+    },
+    {
+      "date": "2026-01-28",
+      "close": 23.64
+    },
+    {
+      "date": "2026-01-29",
+      "close": 22.81
+    },
+    {
+      "date": "2026-01-30",
+      "close": 23.88
+    },
+    {
+      "date": "2026-02-02",
+      "close": 25.85
+    },
+    {
+      "date": "2026-02-03",
+      "close": 24.52
+    },
+    {
+      "date": "2026-02-04",
+      "close": 24.98
+    },
+    {
+      "date": "2026-02-05",
+      "close": 24.69
+    },
+    {
+      "date": "2026-02-06",
+      "close": 24.98
+    },
+    {
+      "date": "2026-02-09",
+      "close": 24.64
+    },
+    {
+      "date": "2026-02-10",
+      "close": 24.82
+    },
+    {
+      "date": "2026-02-11",
+      "close": 24.21
+    },
+    {
+      "date": "2026-02-12",
+      "close": 23.52
+    },
+    {
+      "date": "2026-02-13",
+      "close": 23.57
+    },
+    {
+      "date": "2026-02-17",
+      "close": 23.26
+    },
+    {
+      "date": "2026-02-18",
+      "close": 23.87
+    },
+    {
+      "date": "2026-02-19",
+      "close": 23.9
+    },
+    {
+      "date": "2026-02-20",
+      "close": 23.43
+    },
+    {
+      "date": "2026-02-23",
+      "close": 23.64
+    },
+    {
+      "date": "2026-02-24",
+      "close": 23.77
+    },
+    {
+      "date": "2026-02-25",
+      "close": 24.22
+    },
+    {
+      "date": "2026-02-26",
+      "close": 24.1
+    },
+    {
+      "date": "2026-02-27",
+      "close": 24.03
+    },
+    {
+      "date": "2026-03-02",
+      "close": 24.2
+    },
+    {
+      "date": "2026-03-03",
+      "close": 23.82
+    },
+    {
+      "date": "2026-03-04",
+      "close": 23.87
+    },
+    {
+      "date": "2026-03-05",
+      "close": 23.88
+    },
+    {
+      "date": "2026-03-06",
+      "close": 24.37
+    },
+    {
+      "date": "2026-03-09",
+      "close": 24.8
+    },
+    {
+      "date": "2026-03-10",
+      "close": 24.37
+    },
+    {
+      "date": "2026-03-11",
+      "close": 24.46
+    },
+    {
+      "date": "2026-03-12",
+      "close": 24.43
+    },
+    {
+      "date": "2026-03-13",
+      "close": 23.53
+    },
+    {
+      "date": "2026-03-16",
+      "close": 23.28
+    },
+    {
+      "date": "2026-03-17",
+      "close": 23.59
+    },
+    {
+      "date": "2026-03-18",
+      "close": 23.36
+    },
+    {
+      "date": "2026-03-19",
+      "close": 23.23
+    },
+    {
+      "date": "2026-03-20",
+      "close": 22.57
+    },
+    {
+      "date": "2026-03-23",
+      "close": 23.03
+    },
+    {
+      "date": "2026-03-24",
+      "close": 22.81
+    },
+    {
+      "date": "2026-03-25",
+      "close": 23.08
+    },
+    {
+      "date": "2026-03-26",
+      "close": 22.56
+    },
+    {
+      "date": "2026-03-27",
+      "close": 22.1
+    },
+    {
+      "date": "2026-03-30",
+      "close": 22.27
+    },
+    {
+      "date": "2026-03-31",
+      "close": 23.04
+    },
+    {
+      "date": "2026-04-01",
+      "close": 22.76
+    },
+    {
+      "date": "2026-04-02",
+      "close": 23.36
+    },
+    {
+      "date": "2026-04-06",
+      "close": 23.08
+    },
+    {
+      "date": "2026-04-07",
+      "close": 23.43
+    },
+    {
+      "date": "2026-04-08",
+      "close": 22.91
+    },
+    {
+      "date": "2026-04-09",
+      "close": 22.87
+    },
+    {
+      "date": "2026-04-10",
+      "close": 23.22
+    },
+    {
+      "date": "2026-04-13",
+      "close": 23.4
+    },
+    {
+      "date": "2026-04-14",
+      "close": 24.03
+    },
+    {
+      "date": "2026-04-15",
+      "close": 24.79
+    },
+    {
+      "date": "2026-04-16",
+      "close": 25.18
+    },
+    {
+      "date": "2026-04-17",
+      "close": 24.55
+    },
+    {
+      "date": "2026-04-20",
+      "close": 24.92
+    },
+    {
+      "date": "2026-04-21",
+      "close": 24.46
+    },
+    {
+      "date": "2026-04-22",
+      "close": 25.66
+    },
+    {
+      "date": "2026-04-23",
+      "close": 25.01
+    },
+    {
+      "date": "2026-04-24",
+      "close": 24.95
+    },
+    {
+      "date": "2026-04-27",
+      "close": 25.41
+    },
+    {
+      "date": "2026-04-28",
+      "close": 25.09
+    },
+    {
+      "date": "2026-04-29",
+      "close": 24.52
+    },
+    {
+      "date": "2026-04-30",
+      "close": 24.95
+    },
+    {
+      "date": "2026-05-01",
+      "close": 26.53
+    },
+    {
+      "date": "2026-05-04",
+      "close": 23.84
+    },
+    {
+      "date": "2026-05-05",
+      "close": 24.23
+    },
+    {
+      "date": "2026-05-06",
+      "close": 25.17
+    },
+    {
+      "date": "2026-05-07",
+      "close": 23.97
+    },
+    {
+      "date": "2026-05-08",
+      "close": 24.28
+    },
+    {
+      "date": "2026-05-11",
+      "close": 23.17
+    },
+    {
+      "date": "2026-05-12",
+      "close": 22.37
+    },
+    {
+      "date": "2026-05-13",
+      "close": 22.08
+    },
+    {
+      "date": "2026-05-14",
+      "close": 21.61
+    },
+    {
+      "date": "2026-05-15",
+      "close": 21.59
+    },
+    {
+      "date": "2026-05-18",
+      "close": 21.91
+    },
+    {
+      "date": "2026-05-19",
+      "close": 22.1
+    },
+    {
+      "date": "2026-05-20",
+      "close": 22.55
+    },
+    {
+      "date": "2026-05-21",
+      "close": 22.49
+    },
+    {
+      "date": "2026-05-22",
+      "close": 21.96
+    },
+    {
+      "date": "2026-05-26",
+      "close": 21.91
+    },
+    {
+      "date": "2026-05-27",
+      "close": 21.68
+    },
+    {
+      "date": "2026-05-28",
+      "close": 21.68
+    },
+    {
+      "date": "2026-05-29",
+      "close": 21.18
+    },
+    {
+      "date": "2026-06-01",
+      "close": 21.36
+    },
+    {
+      "date": "2026-06-02",
+      "close": 20.92
+    },
+    {
+      "date": "2026-06-03",
+      "close": 22.18
+    },
+    {
+      "date": "2026-06-04",
+      "close": 22.27
+    }
+  ],
+  "price_status": "ok"
+}

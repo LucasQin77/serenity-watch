@@ -1,0 +1,284 @@
+{
+  "ticker": "SYY",
+  "cashtag": "$SYY",
+  "price_symbol": "SYY",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-11",
+  "last_mention": "2026-03-11",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2031632009618161879",
+      "date": "2026-03-11",
+      "stance": "bullish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "holds massive multi-million dollar DLA contracts with the US Gov",
+        "large beneficiary of government overspending on king crab and lobster",
+        "chokepoint that transports the food"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$SYY",
+      "text": "The Pentagon purchased $2M worth of Alaskan king crab.\n\nAs well as $6.9M worth of lobster tails with taxpayer funds in September\n\nIf your first thought like me was:\n\nHow do I profit off of government overspending on king crab and lobsters?\n\nHere’s how:\n\n$SYY - They hold massive, multi-million dollar DLA contracts with the US Gov, so when they need to order millions in king crab or lobster delivered, they’re the large beneficiary.\n\n$USFD - The second-largest U.S. broadline distributor. USFD also bids on institutional and government contracts, absorbing the overflow of massive government food budgets for expensive crab and lobsters.\n\n$PFGC - Another massive distributor that competes for institutional government and supply contracts for crab and lobster.\n\nTo profit from the Pentagon's taste in seafood and steak, you have to invest in the chokepoints that transport the food.\n\nThe three above are the largest beneficiaries and the spend in q4 from lobster and crab should show up in their earnings.",
+      "url": "https://x.com/aleabitoreddit/status/2031632009618161879",
+      "kind": "post",
+      "engagement": {
+        "views": 89651,
+        "likes": 624,
+        "reposts": 23,
+        "replies": 64
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-11",
+      "close": 84.56
+    },
+    {
+      "date": "2026-03-12",
+      "close": 84.91
+    },
+    {
+      "date": "2026-03-13",
+      "close": 85.49
+    },
+    {
+      "date": "2026-03-16",
+      "close": 84.52
+    },
+    {
+      "date": "2026-03-17",
+      "close": 84.29
+    },
+    {
+      "date": "2026-03-18",
+      "close": 82.51
+    },
+    {
+      "date": "2026-03-19",
+      "close": 81.67
+    },
+    {
+      "date": "2026-03-20",
+      "close": 81.33
+    },
+    {
+      "date": "2026-03-23",
+      "close": 81.6
+    },
+    {
+      "date": "2026-03-24",
+      "close": 82.34
+    },
+    {
+      "date": "2026-03-25",
+      "close": 82.8
+    },
+    {
+      "date": "2026-03-26",
+      "close": 82.64
+    },
+    {
+      "date": "2026-03-27",
+      "close": 81.8
+    },
+    {
+      "date": "2026-03-30",
+      "close": 69.3
+    },
+    {
+      "date": "2026-03-31",
+      "close": 71.33
+    },
+    {
+      "date": "2026-04-01",
+      "close": 72.17
+    },
+    {
+      "date": "2026-04-02",
+      "close": 71.16
+    },
+    {
+      "date": "2026-04-06",
+      "close": 73.24
+    },
+    {
+      "date": "2026-04-07",
+      "close": 73.24
+    },
+    {
+      "date": "2026-04-08",
+      "close": 75.15
+    },
+    {
+      "date": "2026-04-09",
+      "close": 74.99
+    },
+    {
+      "date": "2026-04-10",
+      "close": 72.82
+    },
+    {
+      "date": "2026-04-13",
+      "close": 73.36
+    },
+    {
+      "date": "2026-04-14",
+      "close": 74.04
+    },
+    {
+      "date": "2026-04-15",
+      "close": 74.09
+    },
+    {
+      "date": "2026-04-16",
+      "close": 74.05
+    },
+    {
+      "date": "2026-04-17",
+      "close": 76.27
+    },
+    {
+      "date": "2026-04-20",
+      "close": 76.26
+    },
+    {
+      "date": "2026-04-21",
+      "close": 74.79
+    },
+    {
+      "date": "2026-04-22",
+      "close": 75.53
+    },
+    {
+      "date": "2026-04-23",
+      "close": 75.81
+    },
+    {
+      "date": "2026-04-24",
+      "close": 76.56
+    },
+    {
+      "date": "2026-04-27",
+      "close": 75.36
+    },
+    {
+      "date": "2026-04-28",
+      "close": 73.37
+    },
+    {
+      "date": "2026-04-29",
+      "close": 73.97
+    },
+    {
+      "date": "2026-04-30",
+      "close": 74.71
+    },
+    {
+      "date": "2026-05-01",
+      "close": 74.05
+    },
+    {
+      "date": "2026-05-04",
+      "close": 72.49
+    },
+    {
+      "date": "2026-05-05",
+      "close": 72.84
+    },
+    {
+      "date": "2026-05-06",
+      "close": 73.33
+    },
+    {
+      "date": "2026-05-07",
+      "close": 72.88
+    },
+    {
+      "date": "2026-05-08",
+      "close": 72.44
+    },
+    {
+      "date": "2026-05-11",
+      "close": 72.57
+    },
+    {
+      "date": "2026-05-12",
+      "close": 72.98
+    },
+    {
+      "date": "2026-05-13",
+      "close": 73.19
+    },
+    {
+      "date": "2026-05-14",
+      "close": 73.05
+    },
+    {
+      "date": "2026-05-15",
+      "close": 72.57
+    },
+    {
+      "date": "2026-05-18",
+      "close": 73.52
+    },
+    {
+      "date": "2026-05-19",
+      "close": 75.19
+    },
+    {
+      "date": "2026-05-20",
+      "close": 75.46
+    },
+    {
+      "date": "2026-05-21",
+      "close": 77.0
+    },
+    {
+      "date": "2026-05-22",
+      "close": 76.29
+    },
+    {
+      "date": "2026-05-26",
+      "close": 75.32
+    },
+    {
+      "date": "2026-05-27",
+      "close": 75.22
+    },
+    {
+      "date": "2026-05-28",
+      "close": 75.92
+    },
+    {
+      "date": "2026-05-29",
+      "close": 75.81
+    },
+    {
+      "date": "2026-06-01",
+      "close": 73.72
+    },
+    {
+      "date": "2026-06-02",
+      "close": 74.1
+    },
+    {
+      "date": "2026-06-03",
+      "close": 75.24
+    },
+    {
+      "date": "2026-06-04",
+      "close": 74.35
+    }
+  ],
+  "price_status": "ok"
+}

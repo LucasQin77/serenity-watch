@@ -1,0 +1,164 @@
+{
+  "ticker": "AZZ",
+  "cashtag": "$AZZ",
+  "price_symbol": "AZZ",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-04-22",
+  "last_mention": "2026-04-22",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2047030798554132901",
+      "date": "2026-04-22",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$AZZ",
+      "text": "Yes. The President invoked the \"Defense Production Act\" 2 days ago.\n\nTo expand on domestic infra.\n \nImplicit beneficiaries were:\n\nTransmission & Advanced Conductors:\n$AMSC - HTS Wires (advanced conductors), power electronics\n$PLPC - advanced conductors \n$ATKR - transmission components\n$VMI - grid components\n\nPower Electronics\n$AEIS - power control electronics\n$VICR - power delivery\n\nCapacitor Banks\n$VSH - power capacitors and capacitor banks\n\nSubstations & High-Voltage Circuit Breakers\n$POWL - substations/switchgear\n$AZZ - substations\n\nTransformers\n$HPS.A - My favorite for transformers\n$SPXC - power transformers\n\nElectrical Core Steel\n$CLF - Only producer of electrical steel in America?\n\nThis included: \n-Transformers\n- transmission components\n- advanced conductors\n- power electronics\n- substations\n- high-voltage circuit breakers\n-  protective relays, capacitor banks\n- electrical core steel\n\nTLDR: The executive action declared a national energy emergency regarding the domestic supply chain for grid infrastructure. Authorized federal funding, purchase commitments, and expedited actions to rapidly expand the manufacturing. \n\nLot of beneficiaries, I made a mini ETF of with $AMSC, $CLF, $PLPC, and then $HPS.A; dont have any of the others. \n\nThere's probably going to be a bunch of DOE contracts in the next 3-6 months like \" DoE Awards ___ to $POWL \" off this act is my guess.",
+      "url": "https://x.com/aleabitoreddit/status/2047030798554132901",
+      "kind": "post",
+      "engagement": {
+        "views": 937957,
+        "likes": 1649,
+        "reposts": 208,
+        "replies": 88
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-04-22",
+      "close": 134.91
+    },
+    {
+      "date": "2026-04-23",
+      "close": 146.59
+    },
+    {
+      "date": "2026-04-24",
+      "close": 143.33
+    },
+    {
+      "date": "2026-04-27",
+      "close": 144.78
+    },
+    {
+      "date": "2026-04-28",
+      "close": 141.58
+    },
+    {
+      "date": "2026-04-29",
+      "close": 137.99
+    },
+    {
+      "date": "2026-04-30",
+      "close": 143.04
+    },
+    {
+      "date": "2026-05-01",
+      "close": 143.53
+    },
+    {
+      "date": "2026-05-04",
+      "close": 141.25
+    },
+    {
+      "date": "2026-05-05",
+      "close": 144.08
+    },
+    {
+      "date": "2026-05-06",
+      "close": 146.44
+    },
+    {
+      "date": "2026-05-07",
+      "close": 144.09
+    },
+    {
+      "date": "2026-05-08",
+      "close": 147.6
+    },
+    {
+      "date": "2026-05-11",
+      "close": 148.65
+    },
+    {
+      "date": "2026-05-12",
+      "close": 148.11
+    },
+    {
+      "date": "2026-05-13",
+      "close": 144.31
+    },
+    {
+      "date": "2026-05-14",
+      "close": 147.39
+    },
+    {
+      "date": "2026-05-15",
+      "close": 141.16
+    },
+    {
+      "date": "2026-05-18",
+      "close": 139.78
+    },
+    {
+      "date": "2026-05-19",
+      "close": 135.55
+    },
+    {
+      "date": "2026-05-20",
+      "close": 137.01
+    },
+    {
+      "date": "2026-05-21",
+      "close": 137.07
+    },
+    {
+      "date": "2026-05-22",
+      "close": 137.9
+    },
+    {
+      "date": "2026-05-26",
+      "close": 141.5
+    },
+    {
+      "date": "2026-05-27",
+      "close": 141.36
+    },
+    {
+      "date": "2026-05-28",
+      "close": 140.15
+    },
+    {
+      "date": "2026-05-29",
+      "close": 135.51
+    },
+    {
+      "date": "2026-06-01",
+      "close": 134.24
+    },
+    {
+      "date": "2026-06-02",
+      "close": 136.52
+    },
+    {
+      "date": "2026-06-03",
+      "close": 136.87
+    },
+    {
+      "date": "2026-06-04",
+      "close": 138.48
+    }
+  ],
+  "price_status": "ok"
+}

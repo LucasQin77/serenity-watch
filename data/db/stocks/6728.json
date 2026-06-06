@@ -1,0 +1,60 @@
+{
+  "ticker": "6728",
+  "cashtag": "Ulvac",
+  "price_symbol": "6728",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-05-19",
+  "last_mention": "2026-05-19",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2056939360222884144",
+      "date": "2026-05-19",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Ulvac (6728)",
+      "text": "Just a shower thought:\n\nUS Gov/Japan should put Ulvac (6728) on the export control list so they stop shipping to China.\n\nThat way you can disrupt China's entire humanoid program (since it's \"Dual Use Military Applications\").\n\nAs retaliation over upstream InP/rare earth related export controls. \n\nAdding 45% tariffs on sock exports won't do much, but disrupting China's robotics program, sure. \n\nUlvac is Japan's major chokepoint over neodymium magnets.\n\n\"Ulvac has long manufactured rare-earth magnet vacuum melting furnaces through its Chinese subsidiary\". \n\nSo maybe put that to rest? \n\nIf they stop shipping, you can break Unitree's and other humanoid mass production supply chains in China. \n\nAnd only if they allow rare earth exports to start flowing again, then exports can continue.",
+      "url": "https://x.com/aleabitoreddit/status/2056939360222884144",
+      "kind": "post",
+      "engagement": {
+        "views": 199692,
+        "likes": 685,
+        "reposts": 36,
+        "replies": 75
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2056943109448307141",
+      "date": "2026-05-19",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Ulvac",
+      "text": "@JuicedWealth I was thinking about export controls on Rasa/NCI but that would cause a lot of downstream collateral damage on $IQE, $LITE, etc. if you halted China's InP substrate production in general.\n\nBut halting China's humanoid production with Ulvac and other chokepoints doesn't really do as much collateral harm.",
+      "url": "https://x.com/aleabitoreddit/status/2056943109448307141",
+      "kind": "reply",
+      "engagement": {
+        "views": 8875,
+        "likes": 54,
+        "reposts": 0,
+        "replies": 7
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

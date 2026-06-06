@@ -1,0 +1,60 @@
+{
+  "ticker": "SPCX",
+  "cashtag": "$SPCX",
+  "price_symbol": "SPCX",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-05-25",
+  "last_mention": "2026-05-30",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2058968617681899915",
+      "date": "2026-05-25",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$SPCX",
+      "text": "I’m fully convinced the Stock Market secretly revolves around building the Death Star and Battle Droids:\n\n$RKLB / $SPCX / $PL = Death Star\n\n$LASR / $SIVE = Laser Beams\n\n$TSLA / Unitree = Battle Droids https://t.co/C53qKjWrS8",
+      "url": "https://x.com/aleabitoreddit/status/2058968617681899915",
+      "kind": "post",
+      "engagement": {
+        "views": 332439,
+        "likes": 2492,
+        "reposts": 165,
+        "replies": 307
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2060806434963763294",
+      "date": "2026-05-30",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$SPCX",
+      "text": "Everyone is out there making life changing returns on $RDDT.\n\nFully leveraged on the wrong $SPCE (Virgin Galactic) ticker.\n\nInstead of $SPCX, which is yet to launch. \n\nI guess this just goes to show how much retail demand there is for SpaceX’s IPO. https://t.co/AzcpV5fZ3P",
+      "url": "https://x.com/aleabitoreddit/status/2060806434963763294",
+      "kind": "post",
+      "engagement": {
+        "views": 336318,
+        "likes": 1512,
+        "reposts": 51,
+        "replies": 200
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

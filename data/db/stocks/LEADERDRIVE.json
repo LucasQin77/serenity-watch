@@ -1,0 +1,39 @@
+{
+  "ticker": "LEADERDRIVE",
+  "cashtag": "Leaderdrive",
+  "price_symbol": "LEADERDRIVE",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-05-13",
+  "last_mention": "2026-05-13",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2054723392306401499",
+      "date": "2026-05-13",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Leaderdrive",
+      "text": "@BC17743 Leaderdrive",
+      "url": "https://x.com/aleabitoreddit/status/2054723392306401499",
+      "kind": "reply",
+      "engagement": {
+        "views": 8478,
+        "likes": 32,
+        "reposts": 1,
+        "replies": 2
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

@@ -1,0 +1,124 @@
+{
+  "ticker": "CBRS",
+  "cashtag": "$CBRS",
+  "price_symbol": "CBRS",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-05-14",
+  "last_mention": "2026-05-14",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2055067155990012017",
+      "date": "2026-05-14",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$CBRS",
+      "text": "@Ryan76589177 @TheMarathon8320 Bro $CBRS is a newly listed company today, cut me some slack.",
+      "url": "https://x.com/aleabitoreddit/status/2055067155990012017",
+      "kind": "reply",
+      "engagement": {
+        "views": 15111,
+        "likes": 101,
+        "reposts": 0,
+        "replies": 4
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2055068788975157672",
+      "date": "2026-05-14",
+      "stance": "bearish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "not a fan at ~$90B-100B MC valuations",
+        "likes the company but not the valuation"
+      ],
+      "is_risk": true,
+      "conviction": null,
+      "raw_mention": "$CBRS",
+      "text": "Not a fan of $CBRS, especially at ~$90B-100B MC valuations.\n\nBut I do like the company.\n\nThere’s a lot of short term valuation disconnects with float dynamics after IPO as seen with $CRCL or $BULL though. \n\nSo would not be surprised if it ends up trading at absurd valuations for a short time until things correct.",
+      "url": "https://x.com/aleabitoreddit/status/2055068788975157672",
+      "kind": "post",
+      "engagement": {
+        "views": 331163,
+        "likes": 795,
+        "reposts": 34,
+        "replies": 100
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-05-14",
+      "close": 311.07
+    },
+    {
+      "date": "2026-05-15",
+      "close": 279.72
+    },
+    {
+      "date": "2026-05-18",
+      "close": 296.65
+    },
+    {
+      "date": "2026-05-19",
+      "close": 303.63
+    },
+    {
+      "date": "2026-05-20",
+      "close": 290.69
+    },
+    {
+      "date": "2026-05-21",
+      "close": 281.86
+    },
+    {
+      "date": "2026-05-22",
+      "close": 256.78
+    },
+    {
+      "date": "2026-05-26",
+      "close": 241.71
+    },
+    {
+      "date": "2026-05-27",
+      "close": 266.9
+    },
+    {
+      "date": "2026-05-28",
+      "close": 242.59
+    },
+    {
+      "date": "2026-05-29",
+      "close": 236.99
+    },
+    {
+      "date": "2026-06-01",
+      "close": 213.28
+    },
+    {
+      "date": "2026-06-02",
+      "close": 236.52
+    },
+    {
+      "date": "2026-06-03",
+      "close": 214.94
+    },
+    {
+      "date": "2026-06-04",
+      "close": 215.4
+    }
+  ],
+  "price_status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "ticker": "2802",
+  "cashtag": "Ajinomoto",
+  "price_symbol": "2802",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-04-11",
+  "last_mention": "2026-04-11",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2042950601550762021",
+      "date": "2026-04-11",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "Ajinomoto",
+      "text": "Holy ****, I really hope Ajinomoto doesn’t give into these activist shareholders.\n\nWSJ finally broke older news that:\n\n “Palliser Takes Stake in Ajinomoto, Urges 30%+ ABF Price Increase” (major chokepoint)\n\nYeah, I did the same with $AXTI … but that’s US/China so it’s okay.\n\nThere’s a reason why nobody copied that same playbook for Japanese companies.\n\nTrying to change Japanese culture with Western hedge fund predatory price hikes is not encouraged.",
+      "url": "https://x.com/aleabitoreddit/status/2042950601550762021",
+      "kind": "post",
+      "engagement": {
+        "views": 69187,
+        "likes": 364,
+        "reposts": 16,
+        "replies": 20
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [],
+  "price_status": "pending"
+}

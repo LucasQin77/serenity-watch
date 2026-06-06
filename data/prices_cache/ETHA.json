@@ -1,0 +1,16 @@
+{
+  "price_symbol": "ETHA",
+  "currency": "USD",
+  "price_unit": "USD",
+  "series": [
+    {
+      "date": "2026-06-03",
+      "close": 13.58
+    },
+    {
+      "date": "2026-06-04",
+      "close": 13.39
+    }
+  ],
+  "last_updated": "2026-06-05T20:35:26.387110+00:00"
+}

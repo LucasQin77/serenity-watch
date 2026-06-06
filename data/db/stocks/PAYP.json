@@ -1,0 +1,300 @@
+{
+  "ticker": "PAYP",
+  "cashtag": "$PAYP",
+  "price_symbol": "PAYP",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-13",
+  "last_mention": "2026-03-13",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2032334155053470177",
+      "date": "2026-03-13",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "he says it's not a terrible long at $11.8B",
+        "he would not chase if it goes a lot higher",
+        "he says there's a lot better mispriced choices out there"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$PAYP",
+      "text": "PayPay ( $PAYP ) is the newest IPO. \n\nIf you're wondering if you should fomo in the $PYPL / WeChat of Japan at an $11.8B MC?\n\n Let's find out. \n\nIf you've ever been to Japan: PayPay is everywhere. \n\nIt's the Japanese SuperApp for payments, investing, and banking. \n\nHere's a breakdown:\n\nFY 2025 metrics:\nRevenue: ¥299.1 billion (~$1.9 billion)\nGrowth Rate: ~26.3%\nNet Income (GAAP): ¥39.2 billion (~$248 million)\nP/E: ~44x\nStock Base Compensation: Virtually 0, unlike $SNAP and $DUOL in the US.\n\nIf we look at balance sheet:\n\nConsolidated accounting makes things a nightmare when you see $PAYP  ¥4.85 Trillion (~$32.3 Billion) in liabilities or customer deposits mixed into assets. \n\nBut pre-IPO net debt is approximately -$480M, and post-IPO proceeds of ~$496M.\n\nSo balance sheet looks roughly net cash slightly positive but neutral. Also PSA: Softbank is the majority owner, lockup expires September 2026. \n\nAt $11B, it's roughly ~5.8x P/S and very profitable for a  Japanese superapp growing at 26% with expanding margins and zero SBC.\n\nBy US standards, this is normally valued, not exactly a screaming buy. \n\nTLDR: In general, $PAYP is not a terrible long at $11.8B. \n\nMight get some IPO hype + mixed with low float dynamics, but would not chase if it ends up a lot higher.\n\nMaybe there's some TAM expansion like $HOOD that prices it up over time. But Softbank ATM-like overhang in a few months. \n\nBut there's a lot better mispriced choices out there like $RDDT right now.",
+      "url": "https://x.com/aleabitoreddit/status/2032334155053470177",
+      "kind": "post",
+      "engagement": {
+        "views": 63655,
+        "likes": 348,
+        "reposts": 15,
+        "replies": 25
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2032338040925065431",
+      "date": "2026-03-13",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "he personally ended up passing",
+        "he says it's already pretty richly valued from metrics"
+      ],
+      "is_risk": false,
+      "conviction": "low",
+      "raw_mention": "$PAYP",
+      "text": "@fr_cdn Thanks, thought I'd save others some time with $PAYP, got interested since I've heard of the name before in Japan. \n\nMaybe it ends up like $HOOD one day in Japan, but already pretty richly valued from metrics. So I personally ended up passing, but hope it's a good TLDR/starting point for others researching.",
+      "url": "https://x.com/aleabitoreddit/status/2032338040925065431",
+      "kind": "reply",
+      "engagement": {
+        "views": 4409,
+        "likes": 13,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-13",
+      "close": 21.14
+    },
+    {
+      "date": "2026-03-16",
+      "close": 19.35
+    },
+    {
+      "date": "2026-03-17",
+      "close": 19.79
+    },
+    {
+      "date": "2026-03-18",
+      "close": 18.46
+    },
+    {
+      "date": "2026-03-19",
+      "close": 20.45
+    },
+    {
+      "date": "2026-03-20",
+      "close": 19.9
+    },
+    {
+      "date": "2026-03-23",
+      "close": 24.11
+    },
+    {
+      "date": "2026-03-24",
+      "close": 22.51
+    },
+    {
+      "date": "2026-03-25",
+      "close": 24.56
+    },
+    {
+      "date": "2026-03-26",
+      "close": 22.71
+    },
+    {
+      "date": "2026-03-27",
+      "close": 23.04
+    },
+    {
+      "date": "2026-03-30",
+      "close": 20.66
+    },
+    {
+      "date": "2026-03-31",
+      "close": 21.34
+    },
+    {
+      "date": "2026-04-01",
+      "close": 21.13
+    },
+    {
+      "date": "2026-04-02",
+      "close": 21.02
+    },
+    {
+      "date": "2026-04-06",
+      "close": 18.84
+    },
+    {
+      "date": "2026-04-07",
+      "close": 20.1
+    },
+    {
+      "date": "2026-04-08",
+      "close": 20.36
+    },
+    {
+      "date": "2026-04-09",
+      "close": 21.16
+    },
+    {
+      "date": "2026-04-10",
+      "close": 20.1
+    },
+    {
+      "date": "2026-04-13",
+      "close": 20.5
+    },
+    {
+      "date": "2026-04-14",
+      "close": 22.19
+    },
+    {
+      "date": "2026-04-15",
+      "close": 21.56
+    },
+    {
+      "date": "2026-04-16",
+      "close": 20.85
+    },
+    {
+      "date": "2026-04-17",
+      "close": 21.6
+    },
+    {
+      "date": "2026-04-20",
+      "close": 20.91
+    },
+    {
+      "date": "2026-04-21",
+      "close": 19.56
+    },
+    {
+      "date": "2026-04-22",
+      "close": 20.41
+    },
+    {
+      "date": "2026-04-23",
+      "close": 20.23
+    },
+    {
+      "date": "2026-04-24",
+      "close": 20.02
+    },
+    {
+      "date": "2026-04-27",
+      "close": 20.23
+    },
+    {
+      "date": "2026-04-28",
+      "close": 20.27
+    },
+    {
+      "date": "2026-04-29",
+      "close": 20.16
+    },
+    {
+      "date": "2026-04-30",
+      "close": 22.14
+    },
+    {
+      "date": "2026-05-01",
+      "close": 21.87
+    },
+    {
+      "date": "2026-05-04",
+      "close": 21.18
+    },
+    {
+      "date": "2026-05-05",
+      "close": 21.29
+    },
+    {
+      "date": "2026-05-06",
+      "close": 21.36
+    },
+    {
+      "date": "2026-05-07",
+      "close": 19.27
+    },
+    {
+      "date": "2026-05-08",
+      "close": 19.61
+    },
+    {
+      "date": "2026-05-11",
+      "close": 19.21
+    },
+    {
+      "date": "2026-05-12",
+      "close": 20.34
+    },
+    {
+      "date": "2026-05-13",
+      "close": 19.69
+    },
+    {
+      "date": "2026-05-14",
+      "close": 19.78
+    },
+    {
+      "date": "2026-05-15",
+      "close": 19.29
+    },
+    {
+      "date": "2026-05-18",
+      "close": 19.3
+    },
+    {
+      "date": "2026-05-19",
+      "close": 19.13
+    },
+    {
+      "date": "2026-05-20",
+      "close": 19.76
+    },
+    {
+      "date": "2026-05-21",
+      "close": 19.41
+    },
+    {
+      "date": "2026-05-22",
+      "close": 19.11
+    },
+    {
+      "date": "2026-05-26",
+      "close": 19.61
+    },
+    {
+      "date": "2026-05-27",
+      "close": 19.32
+    },
+    {
+      "date": "2026-05-28",
+      "close": 19.73
+    },
+    {
+      "date": "2026-05-29",
+      "close": 19.52
+    },
+    {
+      "date": "2026-06-01",
+      "close": 18.61
+    },
+    {
+      "date": "2026-06-02",
+      "close": 18.7
+    },
+    {
+      "date": "2026-06-03",
+      "close": 17.05
+    },
+    {
+      "date": "2026-06-04",
+      "close": 15.74
+    }
+  ],
+  "price_status": "ok"
+}

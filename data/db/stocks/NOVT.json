@@ -1,0 +1,447 @@
+{
+  "ticker": "NOVT",
+  "cashtag": "$NOVT",
+  "price_symbol": "NOVT",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-01-16",
+  "last_mention": "2026-05-12",
+  "total_mentions": 2,
+  "mentions": [
+    {
+      "tweet_id": "2012071822481900030",
+      "date": "2026-01-16",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "feedback supplier for Atlas and Figure"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$NOVT",
+      "text": "Boston Dynamics/Optimus/Robotic supply chains TLDR:\n\n- $ALGM ($6.5B) motor/sensing (Optimus) \n- $NOVT ($4.7B) feedback (Atlas, Figure)\n- $VICR ($6.5B) power (Atlas)\n- $OUST ($1.64B) LiDAR (Spot, Atlas)\n- $AMBA ($2.7B) - Chips (Atlas, Figure)\n- $AEHR ($812m) - SiC Test (t2)\n- $RRX ($10.5B) - Joints (Agility, Apollo)\n- $TKR ($6.53B) - Harmonic Strain (t2)\n- $MP ($11.82B) - NdPr magnets (t3)\n- $LSCC ($11.6B) - Sensor Fusion FPGAs (t3)\n\nI'm personally in:\n- $SYSS ($998M) - Skeleton (Optimus, Atlas, Figure)\n- $LPTH ($701M) - Vision (T2)\n\nWas researching these companies after OpenAI's push into robotics yesterday and wanted to do a TLDR format of findings. \n\nAgain, robotics OEMs generally don't publish BOMs, so most of these are confirmed but some are unconfirmed but very likely from cross-referencing public findings. \n\nBut we should see an inflection point for robotics going into 2026-2027. \n\nThoughts:\n\n- Harmonic Drive Systems (6324.T). Was tracking this as the leader but they just got disrupted by China's Leaderdrive that copied their technology and at 40% lower cost.\n\n- Based on this, $TKR (US) is probably the most \"alpha\" up there since through Cone Drive acqusition, they're the primary US-based provider of harmonic gearing vs. Harmonic Drive / Leaderdrive. \n \n- $AMBA and $VICR are probably the most interesting ones outside of $SYSS that I've found in the US supply chains.\n\n- I picked $SYSS as my choice for robotics bottleneck exposure since they're the skeletons/materials for each humanoid on scale up (eg. with Boston Dynamics Atlas as known users) and effective US certification monopoly. \n\n- $LPTH happened to be a coincidental Robotics bottleneck exposure since I bought this for DoD/military bottleneck exposure too . \n\nThese are just the \"under the radar ones\" in the US for the mass production scale-up. Don't own any of them aside from two, but I'm still looking into them. \n\nUnfortunately many supply chains like $TSLA's actuators ($685M order with Sanhua) are still in China. But I expect many of them to flow back to the US, so still looking for alpha in terms of supply chain BOM. \n\nIf I missed any feel free to mention others.",
+      "url": "https://x.com/aleabitoreddit/status/2012071822481900030",
+      "kind": "post",
+      "engagement": {
+        "views": 158094,
+        "likes": 763,
+        "reposts": 101,
+        "replies": 49
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2054335940026573222",
+      "date": "2026-05-12",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$NOVT",
+      "text": "Here's the humanoid exposure crowdsourced list:\n\n- $OUST \n- Rainbow Robotics (277810)\n- $AMBA \n- Ubtech Robotics\n- $MKA\n- Nextronics\n- $SYM\n- Harmonic Drive (6324)\n- $VPG \n- Beijing Geekplus\n- $MBLY\n- $ARBE \n- Nabtesco (6268)\n- $SERV\n- $HSYDF\n- Robotstrategy\n- $ZBRA\n- $CATL\n- $ABB \n- $BOT\n- Unitree (not public yet)\n- $LSCC \n- Esunny Robot (300024)\n- $NOVT\n- $RR\n- $PDY \n- Hesai (2525)\n- $SHA.DE\n- $XBOT\n- $XPEV\n- $BAM\n- $ALNT\n- 6268.T\n- $AMBQ\n- $ATOM\n- $MRAM\n- $ISRG\n- $HLIT\n- Robosense (2498)\n- $HG\n- $ACUVI\n- $CGNX\n- $KLIC\n- $BSL\n- $AEVA\n- $AUR\n- $CTH.V\n- $IMSR\n- $NEO\n- $KDK\n- $MRLN \n- $KITT\n- $INDI\n- $NOVT \n\nOff the top of my head:\n\nHarmonic Drive, $OUST, $BOT, $VPG, $MBLY, and Ubtech showed up the most. \n\nWill start doing DD into mentions.",
+      "url": "https://x.com/aleabitoreddit/status/2054335940026573222",
+      "kind": "post",
+      "engagement": {
+        "views": 736604,
+        "likes": 3593,
+        "reposts": 351,
+        "replies": 235
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-01-16",
+      "close": 134.57
+    },
+    {
+      "date": "2026-01-20",
+      "close": 131.1
+    },
+    {
+      "date": "2026-01-21",
+      "close": 140.75
+    },
+    {
+      "date": "2026-01-22",
+      "close": 138.31
+    },
+    {
+      "date": "2026-01-23",
+      "close": 137.89
+    },
+    {
+      "date": "2026-01-26",
+      "close": 137.52
+    },
+    {
+      "date": "2026-01-27",
+      "close": 138.88
+    },
+    {
+      "date": "2026-01-28",
+      "close": 138.99
+    },
+    {
+      "date": "2026-01-29",
+      "close": 140.42
+    },
+    {
+      "date": "2026-01-30",
+      "close": 134.54
+    },
+    {
+      "date": "2026-02-02",
+      "close": 134.32
+    },
+    {
+      "date": "2026-02-03",
+      "close": 136.78
+    },
+    {
+      "date": "2026-02-04",
+      "close": 136.73
+    },
+    {
+      "date": "2026-02-05",
+      "close": 133.35
+    },
+    {
+      "date": "2026-02-06",
+      "close": 141.47
+    },
+    {
+      "date": "2026-02-09",
+      "close": 144.15
+    },
+    {
+      "date": "2026-02-10",
+      "close": 145.05
+    },
+    {
+      "date": "2026-02-11",
+      "close": 141.83
+    },
+    {
+      "date": "2026-02-12",
+      "close": 139.29
+    },
+    {
+      "date": "2026-02-13",
+      "close": 146.39
+    },
+    {
+      "date": "2026-02-17",
+      "close": 145.37
+    },
+    {
+      "date": "2026-02-18",
+      "close": 145.63
+    },
+    {
+      "date": "2026-02-19",
+      "close": 144.93
+    },
+    {
+      "date": "2026-02-20",
+      "close": 145.96
+    },
+    {
+      "date": "2026-02-23",
+      "close": 142.38
+    },
+    {
+      "date": "2026-02-24",
+      "close": 137.44
+    },
+    {
+      "date": "2026-02-25",
+      "close": 133.22
+    },
+    {
+      "date": "2026-02-26",
+      "close": 136.64
+    },
+    {
+      "date": "2026-02-27",
+      "close": 134.43
+    },
+    {
+      "date": "2026-03-02",
+      "close": 140.73
+    },
+    {
+      "date": "2026-03-03",
+      "close": 138.18
+    },
+    {
+      "date": "2026-03-04",
+      "close": 140.64
+    },
+    {
+      "date": "2026-03-05",
+      "close": 136.59
+    },
+    {
+      "date": "2026-03-06",
+      "close": 131.22
+    },
+    {
+      "date": "2026-03-09",
+      "close": 127.26
+    },
+    {
+      "date": "2026-03-10",
+      "close": 123.14
+    },
+    {
+      "date": "2026-03-11",
+      "close": 126.31
+    },
+    {
+      "date": "2026-03-12",
+      "close": 119.54
+    },
+    {
+      "date": "2026-03-13",
+      "close": 116.76
+    },
+    {
+      "date": "2026-03-16",
+      "close": 118.01
+    },
+    {
+      "date": "2026-03-17",
+      "close": 121.02
+    },
+    {
+      "date": "2026-03-18",
+      "close": 119.33
+    },
+    {
+      "date": "2026-03-19",
+      "close": 118.58
+    },
+    {
+      "date": "2026-03-20",
+      "close": 113.85
+    },
+    {
+      "date": "2026-03-23",
+      "close": 117.35
+    },
+    {
+      "date": "2026-03-24",
+      "close": 119.46
+    },
+    {
+      "date": "2026-03-25",
+      "close": 117.65
+    },
+    {
+      "date": "2026-03-26",
+      "close": 118.49
+    },
+    {
+      "date": "2026-03-27",
+      "close": 113.15
+    },
+    {
+      "date": "2026-03-30",
+      "close": 113.09
+    },
+    {
+      "date": "2026-03-31",
+      "close": 118.11
+    },
+    {
+      "date": "2026-04-01",
+      "close": 118.37
+    },
+    {
+      "date": "2026-04-02",
+      "close": 117.04
+    },
+    {
+      "date": "2026-04-06",
+      "close": 116.91
+    },
+    {
+      "date": "2026-04-07",
+      "close": 115.28
+    },
+    {
+      "date": "2026-04-08",
+      "close": 122.44
+    },
+    {
+      "date": "2026-04-09",
+      "close": 123.42
+    },
+    {
+      "date": "2026-04-10",
+      "close": 125.23
+    },
+    {
+      "date": "2026-04-13",
+      "close": 128.62
+    },
+    {
+      "date": "2026-04-14",
+      "close": 128.85
+    },
+    {
+      "date": "2026-04-15",
+      "close": 126.45
+    },
+    {
+      "date": "2026-04-16",
+      "close": 125.9
+    },
+    {
+      "date": "2026-04-17",
+      "close": 128.85
+    },
+    {
+      "date": "2026-04-20",
+      "close": 132.28
+    },
+    {
+      "date": "2026-04-21",
+      "close": 132.4
+    },
+    {
+      "date": "2026-04-22",
+      "close": 133.19
+    },
+    {
+      "date": "2026-04-23",
+      "close": 133.02
+    },
+    {
+      "date": "2026-04-24",
+      "close": 134.1
+    },
+    {
+      "date": "2026-04-27",
+      "close": 132.78
+    },
+    {
+      "date": "2026-04-28",
+      "close": 129.1
+    },
+    {
+      "date": "2026-04-29",
+      "close": 120.89
+    },
+    {
+      "date": "2026-04-30",
+      "close": 129.53
+    },
+    {
+      "date": "2026-05-01",
+      "close": 127.87
+    },
+    {
+      "date": "2026-05-04",
+      "close": 126.08
+    },
+    {
+      "date": "2026-05-05",
+      "close": 132.29
+    },
+    {
+      "date": "2026-05-06",
+      "close": 138.9
+    },
+    {
+      "date": "2026-05-07",
+      "close": 136.28
+    },
+    {
+      "date": "2026-05-08",
+      "close": 138.31
+    },
+    {
+      "date": "2026-05-11",
+      "close": 139.98
+    },
+    {
+      "date": "2026-05-12",
+      "close": 159.19
+    },
+    {
+      "date": "2026-05-13",
+      "close": 155.44
+    },
+    {
+      "date": "2026-05-14",
+      "close": 155.71
+    },
+    {
+      "date": "2026-05-15",
+      "close": 152.99
+    },
+    {
+      "date": "2026-05-18",
+      "close": 151.27
+    },
+    {
+      "date": "2026-05-19",
+      "close": 147.555
+    },
+    {
+      "date": "2026-05-20",
+      "close": 153.6
+    },
+    {
+      "date": "2026-05-21",
+      "close": 154.88
+    },
+    {
+      "date": "2026-05-22",
+      "close": 159.7
+    },
+    {
+      "date": "2026-05-26",
+      "close": 163.29
+    },
+    {
+      "date": "2026-05-27",
+      "close": 161.51
+    },
+    {
+      "date": "2026-05-28",
+      "close": 159.33
+    },
+    {
+      "date": "2026-05-29",
+      "close": 159.33
+    },
+    {
+      "date": "2026-06-01",
+      "close": 163.46
+    },
+    {
+      "date": "2026-06-02",
+      "close": 168.59
+    },
+    {
+      "date": "2026-06-03",
+      "close": 166.94
+    },
+    {
+      "date": "2026-06-04",
+      "close": 165.1
+    }
+  ],
+  "price_status": "ok"
+}

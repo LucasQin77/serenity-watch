@@ -1,0 +1,252 @@
+{
+  "ticker": "AMT",
+  "cashtag": "$AMT",
+  "price_symbol": "AMT",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2026-03-21",
+  "last_mention": "2026-03-21",
+  "total_mentions": 1,
+  "mentions": [
+    {
+      "tweet_id": "2035552610078572849",
+      "date": "2026-03-21",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "higher rates drive down property valuations",
+        "harder borrowing",
+        "government bonds compete with dividend yields"
+      ],
+      "is_risk": true,
+      "conviction": null,
+      "raw_mention": "$AMT",
+      "text": "JPM is projecting 0 rate cuts in 2026 (Mar 19th). \n\nDerivatives show~37% 0 rate cuts. \n\nHere's the traditional winners and losers:\n\n1. Banks / Stablecoins: $CRCL, $JPM, $BAC, $WFC\n- Interest from treasury, CCs, mortgage\n\n2. High Cash vs. MC: Berkshire < $BRK.B >, $ETOR, $VLN, and others\n- Companies that sit on large piles of cash relative to MC, where interest rates make material difference to operational income.\n- This is beneficial to a lot of brokerages, but also very nuanced eg. $HOOD. \n\n3. Insurance: $PGR, $MET, $ALL\n- Higher yields on bond portfolios\n\n4. Value/Cyclical Stocks: $XOM, $CAT, $DE\n- Strong cash flow today + underlying commodities boost as well. \n\nLosers:\n\n1. Telecommunications & Heavy Industrials: $T, $VZ, $ATUS\n- Companies that carry massive debt loads to build out optic cables, 5G, etc.\n\n2. Utilities: $NEE, $DUK, $SO, $XLU\n- Utilities carry heavy debt to maintain power grids and partly bond proxies\n\n3. Real Estate + REITs: $AMT, $O, $BXP \n- Higher rates drive down the valuation of the physical properties themselves and harder borrowing for buying homes. Then government bonds > dividend yields.\n\n4. Unprofitable / Speculative Tech: $ARKK \n\nNuanced:\n\nHistorically Mag7 like $NVDA, $AAPL, $MSFT, $AMZN were neutral-winner as they were typically sitting on loads of cash. \n\nBut for the first time, some are going into debt for the AI buildout and are scaling like startups again (eg. $META 33%+ Y/Y revenue growth): \n\n-> Cash-rich companies like $AAPL are likely to be fine, $MSFT + $GOOGL (largely funded by operational income)\n-> While $META, $ORCL, and others may face more challenges (projected to take on debt long term)\n\nHowever, despite short term volatility from projections + War in Iran:\n\nOne TACO could flip all the projections. \n\nSo, I would not bet on high interest rates or rate hikes or this trade. \n\nAnd I don't think markets will either long term.",
+      "url": "https://x.com/aleabitoreddit/status/2035552610078572849",
+      "kind": "post",
+      "engagement": {
+        "views": 73022,
+        "likes": 458,
+        "reposts": 23,
+        "replies": 31
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2026-03-23",
+      "close": 176.5
+    },
+    {
+      "date": "2026-03-24",
+      "close": 170.36
+    },
+    {
+      "date": "2026-03-25",
+      "close": 167.27
+    },
+    {
+      "date": "2026-03-26",
+      "close": 168.92
+    },
+    {
+      "date": "2026-03-27",
+      "close": 169.52
+    },
+    {
+      "date": "2026-03-30",
+      "close": 170.36
+    },
+    {
+      "date": "2026-03-31",
+      "close": 172.58
+    },
+    {
+      "date": "2026-04-01",
+      "close": 171.02
+    },
+    {
+      "date": "2026-04-02",
+      "close": 173.73
+    },
+    {
+      "date": "2026-04-06",
+      "close": 176.14
+    },
+    {
+      "date": "2026-04-07",
+      "close": 174.08
+    },
+    {
+      "date": "2026-04-08",
+      "close": 176.18
+    },
+    {
+      "date": "2026-04-09",
+      "close": 179.93
+    },
+    {
+      "date": "2026-04-10",
+      "close": 179.29
+    },
+    {
+      "date": "2026-04-13",
+      "close": 180.94
+    },
+    {
+      "date": "2026-04-14",
+      "close": 176.41
+    },
+    {
+      "date": "2026-04-15",
+      "close": 176.99
+    },
+    {
+      "date": "2026-04-16",
+      "close": 178.6
+    },
+    {
+      "date": "2026-04-17",
+      "close": 182.36
+    },
+    {
+      "date": "2026-04-20",
+      "close": 181.66
+    },
+    {
+      "date": "2026-04-21",
+      "close": 174.76
+    },
+    {
+      "date": "2026-04-22",
+      "close": 176.31
+    },
+    {
+      "date": "2026-04-23",
+      "close": 179.01
+    },
+    {
+      "date": "2026-04-24",
+      "close": 178.21
+    },
+    {
+      "date": "2026-04-27",
+      "close": 175.3
+    },
+    {
+      "date": "2026-04-28",
+      "close": 178.4
+    },
+    {
+      "date": "2026-04-29",
+      "close": 178.19
+    },
+    {
+      "date": "2026-04-30",
+      "close": 182.71
+    },
+    {
+      "date": "2026-05-01",
+      "close": 181.61
+    },
+    {
+      "date": "2026-05-04",
+      "close": 180.88
+    },
+    {
+      "date": "2026-05-05",
+      "close": 178.12
+    },
+    {
+      "date": "2026-05-06",
+      "close": 180.16
+    },
+    {
+      "date": "2026-05-07",
+      "close": 179.77
+    },
+    {
+      "date": "2026-05-08",
+      "close": 176.53
+    },
+    {
+      "date": "2026-05-11",
+      "close": 177.47
+    },
+    {
+      "date": "2026-05-12",
+      "close": 178.82
+    },
+    {
+      "date": "2026-05-13",
+      "close": 173.87
+    },
+    {
+      "date": "2026-05-14",
+      "close": 170.5
+    },
+    {
+      "date": "2026-05-15",
+      "close": 170.63
+    },
+    {
+      "date": "2026-05-18",
+      "close": 177.28
+    },
+    {
+      "date": "2026-05-19",
+      "close": 183.0
+    },
+    {
+      "date": "2026-05-20",
+      "close": 184.02
+    },
+    {
+      "date": "2026-05-21",
+      "close": 183.78
+    },
+    {
+      "date": "2026-05-22",
+      "close": 183.85
+    },
+    {
+      "date": "2026-05-26",
+      "close": 184.95
+    },
+    {
+      "date": "2026-05-27",
+      "close": 184.98
+    },
+    {
+      "date": "2026-05-28",
+      "close": 186.68
+    },
+    {
+      "date": "2026-05-29",
+      "close": 186.96
+    },
+    {
+      "date": "2026-06-01",
+      "close": 187.53
+    },
+    {
+      "date": "2026-06-02",
+      "close": 185.53
+    },
+    {
+      "date": "2026-06-03",
+      "close": 182.24
+    },
+    {
+      "date": "2026-06-04",
+      "close": 193.91
+    }
+  ],
+  "price_status": "ok"
+}

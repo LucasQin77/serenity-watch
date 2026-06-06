@@ -1,0 +1,780 @@
+{
+  "ticker": "ARKK",
+  "cashtag": "$ARKK",
+  "price_symbol": "ARKK",
+  "exchange": "US",
+  "currency": "USD",
+  "ticker_mapped": false,
+  "company": null,
+  "industry": null,
+  "thesis_summary": null,
+  "first_mention": "2025-10-05",
+  "last_mention": "2026-03-21",
+  "total_mentions": 4,
+  "mentions": [
+    {
+      "tweet_id": "1974734053070053566",
+      "date": "2025-10-05",
+      "stance": "neutral",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "good indicator for timing the top",
+        "canary in the coal mine when everything goes up"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "ARKK",
+      "text": "People are panicking about markets from $OKLO, $RGTI, etc. hitting all time highs and bubbles.  \n\nHalf joking but if you you want to time the top:\n\nCathie Wood's ARKK is actually a good indicator. (~Feb 2026)\n\nIt's a great canary in the coal mine when everything goes 🔼 https://t.co/auTXknICGd",
+      "url": "https://x.com/aleabitoreddit/status/1974734053070053566",
+      "kind": "post",
+      "engagement": {
+        "views": 42460,
+        "likes": 183,
+        "reposts": 12,
+        "replies": 14
+      },
+      "extractor_model": "claude-sonnet-4-6",
+      "prompt_version": "extract-v1"
+    },
+    {
+      "tweet_id": "2032931811924521346",
+      "date": "2026-03-14",
+      "stance": "bearish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "down 45.55% over past 5 years plus management fees"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ARKK",
+      "text": "@BrokeDadCapital The random bottleneck ETF I made earlier was hard outperforming the market (returns are probably different now)\n\nBut yeah, not sure why people put money into $ARKK, just do be down 45.55% over the past 5 years + management fees, when they can just build their own portfolios. https://t.co/0LxzwWmMJE",
+      "url": "https://x.com/aleabitoreddit/status/2032931811924521346",
+      "kind": "reply",
+      "engagement": {
+        "views": 3602,
+        "likes": 25,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2033898720027414616",
+      "date": "2026-03-17",
+      "stance": "bearish",
+      "mention_type": "explicit_stance",
+      "reasons": [
+        "sarcastic dismissal vs CPO photonics bottlenecks"
+      ],
+      "is_risk": false,
+      "conviction": null,
+      "raw_mention": "$ARKK",
+      "text": "@zzenrocker Idk, you can buy Cathie Wood’s $ARKK ETF, for “next generation AI companies” like $DUOL, the \"super stock\" set to benefit from AI-driven language education. \n\nMight be better than critical CPO photonics bottlenecks powering hyperscaler AI infrastructure.",
+      "url": "https://x.com/aleabitoreddit/status/2033898720027414616",
+      "kind": "reply",
+      "engagement": {
+        "views": 6259,
+        "likes": 29,
+        "reposts": 0,
+        "replies": 1
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    },
+    {
+      "tweet_id": "2035552610078572849",
+      "date": "2026-03-21",
+      "stance": "neutral",
+      "mention_type": "background",
+      "reasons": [
+        "unprofitable speculative tech loses in high rate environment"
+      ],
+      "is_risk": true,
+      "conviction": null,
+      "raw_mention": "$ARKK",
+      "text": "JPM is projecting 0 rate cuts in 2026 (Mar 19th). \n\nDerivatives show~37% 0 rate cuts. \n\nHere's the traditional winners and losers:\n\n1. Banks / Stablecoins: $CRCL, $JPM, $BAC, $WFC\n- Interest from treasury, CCs, mortgage\n\n2. High Cash vs. MC: Berkshire < $BRK.B >, $ETOR, $VLN, and others\n- Companies that sit on large piles of cash relative to MC, where interest rates make material difference to operational income.\n- This is beneficial to a lot of brokerages, but also very nuanced eg. $HOOD. \n\n3. Insurance: $PGR, $MET, $ALL\n- Higher yields on bond portfolios\n\n4. Value/Cyclical Stocks: $XOM, $CAT, $DE\n- Strong cash flow today + underlying commodities boost as well. \n\nLosers:\n\n1. Telecommunications & Heavy Industrials: $T, $VZ, $ATUS\n- Companies that carry massive debt loads to build out optic cables, 5G, etc.\n\n2. Utilities: $NEE, $DUK, $SO, $XLU\n- Utilities carry heavy debt to maintain power grids and partly bond proxies\n\n3. Real Estate + REITs: $AMT, $O, $BXP \n- Higher rates drive down the valuation of the physical properties themselves and harder borrowing for buying homes. Then government bonds > dividend yields.\n\n4. Unprofitable / Speculative Tech: $ARKK \n\nNuanced:\n\nHistorically Mag7 like $NVDA, $AAPL, $MSFT, $AMZN were neutral-winner as they were typically sitting on loads of cash. \n\nBut for the first time, some are going into debt for the AI buildout and are scaling like startups again (eg. $META 33%+ Y/Y revenue growth): \n\n-> Cash-rich companies like $AAPL are likely to be fine, $MSFT + $GOOGL (largely funded by operational income)\n-> While $META, $ORCL, and others may face more challenges (projected to take on debt long term)\n\nHowever, despite short term volatility from projections + War in Iran:\n\nOne TACO could flip all the projections. \n\nSo, I would not bet on high interest rates or rate hikes or this trade. \n\nAnd I don't think markets will either long term.",
+      "url": "https://x.com/aleabitoreddit/status/2035552610078572849",
+      "kind": "post",
+      "engagement": {
+        "views": 73022,
+        "likes": 458,
+        "reposts": 23,
+        "replies": 31
+      },
+      "extractor_model": "claude-opus-4-6",
+      "prompt_version": "extract-v2"
+    }
+  ],
+  "price_series": [
+    {
+      "date": "2025-10-06",
+      "close": 91.59
+    },
+    {
+      "date": "2025-10-07",
+      "close": 89.11
+    },
+    {
+      "date": "2025-10-08",
+      "close": 92.53
+    },
+    {
+      "date": "2025-10-09",
+      "close": 91.66
+    },
+    {
+      "date": "2025-10-10",
+      "close": 86.52
+    },
+    {
+      "date": "2025-10-13",
+      "close": 87.77
+    },
+    {
+      "date": "2025-10-14",
+      "close": 86.86
+    },
+    {
+      "date": "2025-10-15",
+      "close": 89.3
+    },
+    {
+      "date": "2025-10-16",
+      "close": 86.68
+    },
+    {
+      "date": "2025-10-17",
+      "close": 86.24
+    },
+    {
+      "date": "2025-10-20",
+      "close": 90.01
+    },
+    {
+      "date": "2025-10-21",
+      "close": 88.65
+    },
+    {
+      "date": "2025-10-22",
+      "close": 85.35
+    },
+    {
+      "date": "2025-10-23",
+      "close": 87.93
+    },
+    {
+      "date": "2025-10-24",
+      "close": 89.33
+    },
+    {
+      "date": "2025-10-27",
+      "close": 90.25
+    },
+    {
+      "date": "2025-10-28",
+      "close": 89.28
+    },
+    {
+      "date": "2025-10-29",
+      "close": 89.23
+    },
+    {
+      "date": "2025-10-30",
+      "close": 85.68
+    },
+    {
+      "date": "2025-10-31",
+      "close": 88.98
+    },
+    {
+      "date": "2025-11-03",
+      "close": 88.19
+    },
+    {
+      "date": "2025-11-04",
+      "close": 83.5
+    },
+    {
+      "date": "2025-11-05",
+      "close": 84.99
+    },
+    {
+      "date": "2025-11-06",
+      "close": 80.92
+    },
+    {
+      "date": "2025-11-07",
+      "close": 80.75
+    },
+    {
+      "date": "2025-11-10",
+      "close": 82.84
+    },
+    {
+      "date": "2025-11-11",
+      "close": 82.05
+    },
+    {
+      "date": "2025-11-12",
+      "close": 81.36
+    },
+    {
+      "date": "2025-11-13",
+      "close": 77.09
+    },
+    {
+      "date": "2025-11-14",
+      "close": 76.92
+    },
+    {
+      "date": "2025-11-17",
+      "close": 75.49
+    },
+    {
+      "date": "2025-11-18",
+      "close": 74.97
+    },
+    {
+      "date": "2025-11-19",
+      "close": 74.39
+    },
+    {
+      "date": "2025-11-20",
+      "close": 71.75
+    },
+    {
+      "date": "2025-11-21",
+      "close": 73.35
+    },
+    {
+      "date": "2025-11-24",
+      "close": 76.79
+    },
+    {
+      "date": "2025-11-25",
+      "close": 77.3
+    },
+    {
+      "date": "2025-11-26",
+      "close": 78.47
+    },
+    {
+      "date": "2025-11-28",
+      "close": 79.68
+    },
+    {
+      "date": "2025-12-01",
+      "close": 77.53
+    },
+    {
+      "date": "2025-12-02",
+      "close": 78.22
+    },
+    {
+      "date": "2025-12-03",
+      "close": 80.75
+    },
+    {
+      "date": "2025-12-04",
+      "close": 82.65
+    },
+    {
+      "date": "2025-12-05",
+      "close": 81.91
+    },
+    {
+      "date": "2025-12-08",
+      "close": 81.96
+    },
+    {
+      "date": "2025-12-09",
+      "close": 82.53
+    },
+    {
+      "date": "2025-12-10",
+      "close": 83.16
+    },
+    {
+      "date": "2025-12-11",
+      "close": 82.06
+    },
+    {
+      "date": "2025-12-12",
+      "close": 80.39
+    },
+    {
+      "date": "2025-12-15",
+      "close": 79.21
+    },
+    {
+      "date": "2025-12-16",
+      "close": 80.14
+    },
+    {
+      "date": "2025-12-17",
+      "close": 77.7
+    },
+    {
+      "date": "2025-12-18",
+      "close": 78.69
+    },
+    {
+      "date": "2025-12-19",
+      "close": 80.3
+    },
+    {
+      "date": "2025-12-22",
+      "close": 81.49
+    },
+    {
+      "date": "2025-12-23",
+      "close": 80.51
+    },
+    {
+      "date": "2025-12-24",
+      "close": 80.65
+    },
+    {
+      "date": "2025-12-26",
+      "close": 79.7
+    },
+    {
+      "date": "2025-12-29",
+      "close": 78.61
+    },
+    {
+      "date": "2025-12-30",
+      "close": 77.87
+    },
+    {
+      "date": "2025-12-31",
+      "close": 76.92
+    },
+    {
+      "date": "2026-01-02",
+      "close": 78.31
+    },
+    {
+      "date": "2026-01-05",
+      "close": 81.34
+    },
+    {
+      "date": "2026-01-06",
+      "close": 81.86
+    },
+    {
+      "date": "2026-01-07",
+      "close": 81.14
+    },
+    {
+      "date": "2026-01-08",
+      "close": 80.55
+    },
+    {
+      "date": "2026-01-09",
+      "close": 80.29
+    },
+    {
+      "date": "2026-01-12",
+      "close": 82.54
+    },
+    {
+      "date": "2026-01-13",
+      "close": 83.21
+    },
+    {
+      "date": "2026-01-14",
+      "close": 83.2
+    },
+    {
+      "date": "2026-01-15",
+      "close": 81.93
+    },
+    {
+      "date": "2026-01-16",
+      "close": 81.68
+    },
+    {
+      "date": "2026-01-20",
+      "close": 79.23
+    },
+    {
+      "date": "2026-01-21",
+      "close": 80.29
+    },
+    {
+      "date": "2026-01-22",
+      "close": 82.23
+    },
+    {
+      "date": "2026-01-23",
+      "close": 80.7
+    },
+    {
+      "date": "2026-01-26",
+      "close": 79.92
+    },
+    {
+      "date": "2026-01-27",
+      "close": 79.77
+    },
+    {
+      "date": "2026-01-28",
+      "close": 78.94
+    },
+    {
+      "date": "2026-01-29",
+      "close": 77.64
+    },
+    {
+      "date": "2026-01-30",
+      "close": 74.87
+    },
+    {
+      "date": "2026-02-02",
+      "close": 74.36
+    },
+    {
+      "date": "2026-02-03",
+      "close": 73.44
+    },
+    {
+      "date": "2026-02-04",
+      "close": 69.99
+    },
+    {
+      "date": "2026-02-05",
+      "close": 66.33
+    },
+    {
+      "date": "2026-02-06",
+      "close": 70.41
+    },
+    {
+      "date": "2026-02-09",
+      "close": 72.44
+    },
+    {
+      "date": "2026-02-10",
+      "close": 72.26
+    },
+    {
+      "date": "2026-02-11",
+      "close": 70.87
+    },
+    {
+      "date": "2026-02-12",
+      "close": 68.45
+    },
+    {
+      "date": "2026-02-13",
+      "close": 70.25
+    },
+    {
+      "date": "2026-02-17",
+      "close": 70.3
+    },
+    {
+      "date": "2026-02-18",
+      "close": 71.39
+    },
+    {
+      "date": "2026-02-19",
+      "close": 72.24
+    },
+    {
+      "date": "2026-02-20",
+      "close": 71.49
+    },
+    {
+      "date": "2026-02-23",
+      "close": 70.0
+    },
+    {
+      "date": "2026-02-24",
+      "close": 72.07
+    },
+    {
+      "date": "2026-02-25",
+      "close": 73.54
+    },
+    {
+      "date": "2026-02-26",
+      "close": 74.61
+    },
+    {
+      "date": "2026-02-27",
+      "close": 72.91
+    },
+    {
+      "date": "2026-03-02",
+      "close": 74.22
+    },
+    {
+      "date": "2026-03-03",
+      "close": 72.26
+    },
+    {
+      "date": "2026-03-04",
+      "close": 74.93
+    },
+    {
+      "date": "2026-03-05",
+      "close": 73.99
+    },
+    {
+      "date": "2026-03-06",
+      "close": 72.4
+    },
+    {
+      "date": "2026-03-09",
+      "close": 74.29
+    },
+    {
+      "date": "2026-03-10",
+      "close": 72.89
+    },
+    {
+      "date": "2026-03-11",
+      "close": 73.07
+    },
+    {
+      "date": "2026-03-12",
+      "close": 70.64
+    },
+    {
+      "date": "2026-03-13",
+      "close": 70.25
+    },
+    {
+      "date": "2026-03-16",
+      "close": 72.05
+    },
+    {
+      "date": "2026-03-17",
+      "close": 73.06
+    },
+    {
+      "date": "2026-03-18",
+      "close": 71.41
+    },
+    {
+      "date": "2026-03-19",
+      "close": 71.07
+    },
+    {
+      "date": "2026-03-20",
+      "close": 69.15
+    },
+    {
+      "date": "2026-03-23",
+      "close": 70.92
+    },
+    {
+      "date": "2026-03-24",
+      "close": 69.0
+    },
+    {
+      "date": "2026-03-25",
+      "close": 69.9
+    },
+    {
+      "date": "2026-03-26",
+      "close": 67.39
+    },
+    {
+      "date": "2026-03-27",
+      "close": 64.63
+    },
+    {
+      "date": "2026-03-30",
+      "close": 63.52
+    },
+    {
+      "date": "2026-03-31",
+      "close": 67.59
+    },
+    {
+      "date": "2026-04-01",
+      "close": 68.4
+    },
+    {
+      "date": "2026-04-02",
+      "close": 68.56
+    },
+    {
+      "date": "2026-04-06",
+      "close": 68.8
+    },
+    {
+      "date": "2026-04-07",
+      "close": 68.76
+    },
+    {
+      "date": "2026-04-08",
+      "close": 70.36
+    },
+    {
+      "date": "2026-04-09",
+      "close": 68.92
+    },
+    {
+      "date": "2026-04-10",
+      "close": 69.29
+    },
+    {
+      "date": "2026-04-13",
+      "close": 71.96
+    },
+    {
+      "date": "2026-04-14",
+      "close": 74.83
+    },
+    {
+      "date": "2026-04-15",
+      "close": 77.47
+    },
+    {
+      "date": "2026-04-16",
+      "close": 77.34
+    },
+    {
+      "date": "2026-04-17",
+      "close": 79.23
+    },
+    {
+      "date": "2026-04-20",
+      "close": 79.32
+    },
+    {
+      "date": "2026-04-21",
+      "close": 77.38
+    },
+    {
+      "date": "2026-04-22",
+      "close": 79.3
+    },
+    {
+      "date": "2026-04-23",
+      "close": 76.5
+    },
+    {
+      "date": "2026-04-24",
+      "close": 76.5
+    },
+    {
+      "date": "2026-04-27",
+      "close": 76.55
+    },
+    {
+      "date": "2026-04-28",
+      "close": 75.45
+    },
+    {
+      "date": "2026-04-29",
+      "close": 73.53
+    },
+    {
+      "date": "2026-04-30",
+      "close": 75.84
+    },
+    {
+      "date": "2026-05-01",
+      "close": 76.92
+    },
+    {
+      "date": "2026-05-04",
+      "close": 78.23
+    },
+    {
+      "date": "2026-05-05",
+      "close": 76.58
+    },
+    {
+      "date": "2026-05-06",
+      "close": 79.58
+    },
+    {
+      "date": "2026-05-07",
+      "close": 77.93
+    },
+    {
+      "date": "2026-05-08",
+      "close": 79.12
+    },
+    {
+      "date": "2026-05-11",
+      "close": 80.03
+    },
+    {
+      "date": "2026-05-12",
+      "close": 78.21
+    },
+    {
+      "date": "2026-05-13",
+      "close": 78.05
+    },
+    {
+      "date": "2026-05-14",
+      "close": 78.0
+    },
+    {
+      "date": "2026-05-15",
+      "close": 74.9
+    },
+    {
+      "date": "2026-05-18",
+      "close": 74.51
+    },
+    {
+      "date": "2026-05-19",
+      "close": 73.84
+    },
+    {
+      "date": "2026-05-20",
+      "close": 75.84
+    },
+    {
+      "date": "2026-05-21",
+      "close": 76.62
+    },
+    {
+      "date": "2026-05-22",
+      "close": 76.4
+    },
+    {
+      "date": "2026-05-26",
+      "close": 77.23
+    },
+    {
+      "date": "2026-05-27",
+      "close": 77.95
+    },
+    {
+      "date": "2026-05-28",
+      "close": 81.01
+    },
+    {
+      "date": "2026-05-29",
+      "close": 81.95
+    },
+    {
+      "date": "2026-06-01",
+      "close": 81.26
+    },
+    {
+      "date": "2026-06-02",
+      "close": 79.91
+    },
+    {
+      "date": "2026-06-03",
+      "close": 78.16
+    },
+    {
+      "date": "2026-06-04",
+      "close": 80.07
+    }
+  ],
+  "price_status": "ok"
+}
