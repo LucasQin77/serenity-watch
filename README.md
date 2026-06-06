@@ -5,7 +5,9 @@
 
 An open-source tracker for **[@aleabitoreddit](https://x.com/aleabitoreddit)** (Serenity) — one of the most influential voices in AI semiconductor investing on X.
 
-If you follow stocks, semiconductors, or AI investing, you've almost certainly seen Serenity on your timeline. With [630,000+ followers](https://x.com/aleabitoreddit/verified_followers) and [international media coverage](https://www.tijd.be/), Serenity has earned a reputation as a "supply-chain detective" — digging deep into the complex supply chains behind the AI revolution, spotlighting small, often-unknown companies building essential components for next-generation AI infrastructure, long before they hit the mainstream radar.
+If you follow stocks, semiconductors, or AI investing, you've almost certainly seen Serenity on your timeline. With **630,000+ followers** and **international media coverage**, Serenity has earned a reputation as a "supply-chain detective" — digging deep into the complex supply chains behind the AI revolution, spotlighting small, often-unknown companies building essential components for next-generation AI infrastructure, long before they hit the mainstream radar.
+
+<img width="1600" height="900" alt="serenity-display-board-preview" src="https://github.com/user-attachments/assets/9b69ef19-2189-477d-8767-8c1cd4a5b53b" />
 
 **We strongly recommend following [@aleabitoreddit](https://x.com/aleabitoreddit) directly. The original posts are where the real value is.** This project is simply a fan-built tool that reads Serenity's public posts, classifies each stock mention using AI, and organizes the results into a searchable, structured format.
 
@@ -36,11 +38,15 @@ If you follow stocks, semiconductors, or AI investing, you've almost certainly s
 - 📝 **~13,000 structured mentions** extracted from ~6,200 of Serenity's posts (July 2025 – June 2026), with stance labels, reasons, and links to original posts
 - 💾 **All data stored as plain JSON files** — plug into your own analysis tools, dashboards, or research pipelines
 
+<img width="4096" height="3911" alt="stock-opinion-tracker-case-showcase-numbered-hq" src="https://github.com/user-attachments/assets/0ed83be6-c1e2-40fb-bd8d-6b856a67351e" />
+
 **Plus a complete analysis toolchain:**
 
 - 📈 **Interactive HTML dashboards** — daily / weekly / monthly / quarterly views, each stock clickable into a detail page with price chart, stance timeline, and links back to Serenity's original posts
 - 🔍 **Stock Q&A script** — query any tracked ticker for a structured analysis (thesis arc, key opinions, bull/bear reasons)
 - 🔄 **Hourly auto-updates** via GitHub Actions (requires your own API keys — see [Quick Start](#-quick-start-fork--run))
+
+<img width="10000" height="5625" alt="serenity-case-showcase-preview" src="https://github.com/user-attachments/assets/d2e0de27-df5a-4700-b831-65a9b159c2a3" />
 
 > 💡 If you'd rather skip the setup, [Serenity Watch on Capafy](https://capafy.ai/agent/serenity-watch-public-x-mentions-tracker/2521387714) gives you the same dashboards and Q&A — ready to use in your browser.
 
