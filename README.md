@@ -249,7 +249,7 @@ First and foremost: **thank you to [@aleabitoreddit](https://x.com/aleabitoreddi
 
 ## ⚠️ Disclaimer
 
-> **This project is an automated aggregation of [@aleabitoreddit](https://x.com/aleabitoreddit) (Serenity)'s public posts on X. It is not run by, endorsed by, or affiliated with Serenity. It is not investment advice, financial analysis, or a recommendation to buy or sell any security.**
+> **This is an independent, fan-built project — not affiliated with [@aleabitoreddit](https://x.com/aleabitoreddit) (Serenity). It is not investment advice, financial analysis, or a recommendation to buy or sell any security.**
 >
 > The data is extracted and summarized by AI. It may contain errors, omissions, or misinterpretations. Metaphors, quotes of third-party views, and hypothetical discussions may be incorrectly classified. Always refer to [Serenity's original posts](https://x.com/aleabitoreddit) and verify independently.
 >
