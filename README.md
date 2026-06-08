@@ -44,6 +44,8 @@ If you follow stocks, semiconductors, or AI investing, you've almost certainly s
 - 🔍 **Stock Q&A script** — query any tracked ticker for a structured analysis (thesis arc, key opinions, bull/bear reasons)
 - 🔄 **Hourly auto-updates** via GitHub Actions (requires your own API keys — see [Quick Start](#-quick-start-fork--run))
 
+<img width="2400" height="1350" alt="skill-case-sive-02-narrative-arc-v3" src="https://github.com/user-attachments/assets/23f0919a-35b8-45b2-9eed-fadf041db382" />
+
 <img width="10000" height="5625" alt="serenity-case-showcase-preview" src="https://github.com/user-attachments/assets/d2e0de27-df5a-4700-b831-65a9b159c2a3" />
 
 > 💡 If you'd rather skip the setup, [Serenity Watch on Capafy](https://capafy.ai/agent/serenity-watch-public-x-mentions-tracker/2521387714) gives you the same dashboards and Q&A — ready to use in your browser.
