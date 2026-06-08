@@ -35,10 +35,14 @@ This SKILL is a **account-tracking tool**, NOT a stock-analysis or investment-ad
 | `SERENITY_REPO` | Yes | GitHub repo path, e.g. `your-username/serenity-watch` |
 | `GITHUB_TOKEN` | No | Only needed if your data repo is private. Public repos work without a token. |
 
-**Script location**: All scripts (serenity_render.py, analyze_stock.py) are in the `scripts/` subdirectory of this SKILL's installation path. Determine this path at the start of execution:
+**Script location**: All scripts (`serenity_render.py`, `analyze_stock.py`) are in the `scripts/` subdirectory of this SKILL's installation path. Determine this path at the start of execution:
 
 ```python
+import os
+# Find the SKILL root (where SKILL.md lives), then scripts/ under it
 SKILL_SCRIPTS_DIR = os.path.join(os.path.dirname(SKILL_MD_PATH), "scripts")
+# Or discover it:
+# SKILL_SCRIPTS_DIR = next(d for d in possible_paths if os.path.isfile(os.path.join(d, "serenity_render.py")))
 ```
 
 Do NOT guess this path — list the SKILL directory to confirm `scripts/serenity_render.py` exists before calling it.
@@ -65,17 +69,17 @@ LOCAL_MANIFEST = os.path.join(DB, "manifest.json")
 
 # Fetch remote manifest (tiny request, always do this)
 manifest = json.loads(requests.get(f"{RAW}/data/db/manifest.json", headers=HEADERS).text)
-remote_date = manifest["date_range"][1]
+remote_gen = manifest["generated_at"]
 
 # Compare with local cache
 need_download = True
 if os.path.exists(LOCAL_MANIFEST):
     local = json.loads(open(LOCAL_MANIFEST, encoding="utf-8").read())
-    if local.get("date_range", [None, None])[1] == remote_date:
+    if local.get("generated_at") == remote_gen:
         need_download = False   # Local data is current
 ```
 
-Tell the user: data covers `manifest["tickers"]` stocks (this is an integer, e.g. 941), latest data: `manifest["date_range"][1]` (a date string). Other manifest fields: `total_mentions` (int), `priced_tickers` (int), `size_mb` (float).
+Tell the user: data covers `manifest["tickers"]` stocks (this is an integer, e.g. 941), latest data: `manifest["date_range"][1]` (a date string), last updated: `manifest["generated_at"]` (ISO timestamp). Other manifest fields: `total_mentions` (int), `priced_tickers` (int), `size_mb` (float).
 
 ### Step 2 — Download data (only if needed)
 
@@ -126,8 +130,8 @@ Examples: "show me the dashboard", "run serenity tracker", "latest report", "wha
 **→ Q&A mode**: user asks about a specific stock or company.
 Examples: "what does Serenity think about NVDA?", "SIVE opinion history", "any bearish calls?".
 
-**→ General analysis mode**: user asks broad questions about the account's overall focus, cross-stock comparisons, industry breakdown, or any question not about a single specific stock.
-Examples: "which sectors does the account cover most?", "compare stance on NVDA vs AMD", "what are the most mentioned stocks this month?", "any new stocks flagged recently?".
+**→ General analysis mode**: user asks broad questions about the account's overall focus, cross-stock comparisons, industry breakdown, stance trends, or any question not about a single specific stock.
+Examples: "what industries does the account focus on?", "which stocks turned bearish recently?", "compare SIVE and AXTI".
 For these questions, write and execute Python code to analyze the local stock data at `{DB}/stocks/*.json` directly. The Stock JSON Schema section below documents the data structure. Always include the compliance disclaimer in your response.
 
 If ambiguous, default to Q&A if a stock name/ticker is mentioned, General analysis if a cross-stock or aggregate question is asked, otherwise Dashboard.
@@ -169,9 +173,29 @@ If the user requests a specific date, compare against `manifest["date_range"][1]
 Return the HTML file. Brief note:
 - What date the report covers
 - How many stocks are tracked
-- Data is synced hourly (on the hour, UTC). The current report reflects data as of `manifest["generated_at"]`. To check for newer data, just ask again.
 - Users can click any stock for a detail view (price chart + stance history + original tweet links)
+- Data update schedule: "Data is synced hourly (on the hour, UTC). The current report reflects data as of {manifest generated_at}. To check for newer data, just ask again."
 - **Include compliance disclaimer**
+
+### A4 — AI Daily Analysis
+
+After delivering the HTML, provide an AI-synthesized analysis:
+
+1. Write and execute a Python script to extract all mentions where `date == DAY` from `{DB}/stocks/*.json`. Collect: ticker, stance, mention_type, reasons, text, url. Also extract `date == DAY-1` separately (for context only).
+
+2. **Main analysis (DAY only):** Synthesize a structured analysis of DAY's mentions:
+   - Key events / catalysts (with original quotes where impactful)
+   - Major stance positions or changes
+   - New stocks first appearing
+   - Core conclusion (one sentence)
+
+3. **Yesterday context (brief, 1-3 sentences):** At the end, add a short note on any DAY-1 topics that continued into DAY — e.g. "Continuing from yesterday: JP Morgan's SIVE stake disclosure; Xintec thesis first raised." Only include if there is clear thematic continuity. Skip if unrelated.
+
+4. **Exception — low data:** If DAY has fewer than 3 explicit_stance mentions, expand the main analysis to cover both DAY-1 and DAY together. Explain: "Today's ET date ([DAY]) has limited posts so far. This analysis includes yesterday ([DAY-1]) for a more complete picture."
+
+5. At the top, state: "All dates use US Eastern Time (ET, UTC-4). This analysis covers [DAY] ET."
+
+6. End with the compliance disclaimer.
 
 ---
 
