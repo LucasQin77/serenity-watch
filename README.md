@@ -5,7 +5,7 @@
 
 An open-source tracker for **[@aleabitoreddit](https://x.com/aleabitoreddit)** (Serenity) — one of the most influential voices in AI semiconductor investing on X.
 
-If you follow stocks, semiconductors, or AI investing, you've almost certainly seen Serenity on your timeline. With **660,000+ followers** and **international media coverage**, Serenity has earned a reputation as a "supply-chain detective" — digging deep into the complex supply chains behind the AI revolution, spotlighting small, often-unknown companies building essential components for next-generation AI infrastructure, long before they hit the mainstream radar.
+If you follow stocks, semiconductors, or AI investing, you've almost certainly seen Serenity on your timeline. With **700,000+ followers** and **international media coverage**, Serenity has earned a reputation as a "supply-chain detective" — digging deep into the complex supply chains behind the AI revolution, spotlighting small, often-unknown companies building essential components for next-generation AI infrastructure, long before they hit the mainstream radar.
 
 **I strongly recommend following [@aleabitoreddit](https://x.com/aleabitoreddit) directly. The original posts are where the real value is.** This project is simply a fan-built tool that reads Serenity's public posts, classifies each stock mention using AI, and organizes the results into a searchable, structured format.
 
