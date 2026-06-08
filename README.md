@@ -227,7 +227,7 @@ serenity-watch/
 │   └── db/
 │       ├── index.json               — stock directory
 │       ├── manifest.json            — data health stats
-│       └── stocks/*.json            — 941 per-stock files
+│       └── stocks/*.json            — 900+ per-stock files
 └── skill/                           — optional: SKILL.md for ClawHub
 ```
 
