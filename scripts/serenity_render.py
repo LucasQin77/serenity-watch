@@ -96,7 +96,7 @@ STR={
   'dd_all_posts':"All posts",'dd_posts_meta':"Reverse chronological · original language kept, tap to open",
   'post_initial':"Initial view",
   'chart_leg_bull':"Mentioned while bullish",'chart_leg_bear':"Mentioned while bearish",
-  'chart_leg_note':"Dot = mention day (same-day merged); Y = that day's close",
+  'chart_leg_note':"Dot = mention day (same-day merged); Y = closing price (non-trading days use last available close)",
   'chart_dot_tip':"{date} · mentioned ({stance}) · close {c}",
   'chart_ph_no_series':"No continuous price data (not covered) — mention timing only, no price curve",
   'chart_no_cover':"Price data not covered; limited chart.",
@@ -160,7 +160,7 @@ STR={
   'dd_all_posts':"全部发言",'dd_posts_meta':"按时间倒序 · 原文保留英文,点击跳原帖",
   'post_initial':"初始观点",
   'chart_leg_bull':"看多时提及",'chart_leg_bear':"看空时提及",
-  'chart_leg_note':"圆点=提及当天(同日合并),纵轴=当日收盘价",
+  'chart_leg_note':"圆点=提及当天(同日合并); 纵轴=收盘价(非交易日使用最近交易日收盘价)",
   'chart_dot_tip':"{date} · {stance}时提及 · 收盘 {c}",
   'chart_ph_no_series':"无连续价格数据(行情未覆盖) — 仅记录提及时间点,不绘制价格曲线",
   'chart_no_cover':"该票行情未覆盖,价格曲线有限。",
@@ -309,7 +309,7 @@ def dd_data():
     for s in mdates:
         if not mdates[s]: continue
         if cnt(s,DAY-datetime.timedelta(days=89),DAY) < 3 and cnt(s,DAY-datetime.timedelta(days=27),DAY) < 1: continue   # 不在板上(day/week/month/quarter 窗口外)→ 不可点
-        if total(s) < 1: continue   # no mentions at all → skip
+        if total(s) < 1: continue   # 无任何提及 → 跳过
         ms=[m for m in MENT[s] if datetime.date.fromisoformat(m['date'])<=DAY]
         if not ms: continue
         ms.sort(key=lambda m:m['date'])                       # ascending
@@ -419,8 +419,9 @@ def period_section(cfg):
     chg_fn=daily_chg if cfg.get('chg')=='daily' else mention_chg
     syms=[s for s in mdates if cnt(s,w0,w1)>0]
     big=sorted([s for s in syms if cnt(s,w0,w1)>=BIG], key=lambda s:-cnt(s,w0,w1))
-    if not big and syms:
-        big=sorted(syms, key=lambda s:-cnt(s,w0,w1))[:min(cfg.get('big',3),3)]
+    if len(big)<3 and len(syms)>len(big):
+        rest=sorted([s for s in syms if s not in set(big)], key=lambda s:-cnt(s,w0,w1))
+        big=big+rest[:3-len(big)]
     small=[s for s in syms if s not in set(big)]
     def freqline_plain(s):
         parts=[]
@@ -591,7 +592,7 @@ SHARED_CSS='''<style>
 .morechip:hover{color:var(--accent);border-color:var(--accent)}
 .twocol{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:6px}
 .mwall{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-bottom:6px}
-.mcard{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--neutral);border-radius:8px;padding:13px 15px;cursor:pointer;box-shadow:var(--shadow);display:flex;flex-direction:column;min-width:0}
+.mcard{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--neutral);border-radius:8px;padding:13px 15px;cursor:pointer;box-shadow:var(--shadow);display:flex;flex-direction:column;min-width:0;overflow-wrap:break-word}
 .mcard.bull{border-left-color:var(--bull)}.mcard.bear{border-left-color:var(--bear)}.mcard.cw{border-left-color:var(--gold)}
 .mcard .mh{display:flex;align-items:center;gap:8px;margin-bottom:3px}
 .mcard .mh .tk{font-family:var(--mono);font-weight:700;font-size:15px}
@@ -674,6 +675,7 @@ SHARED_CSS='''<style>
 .leg{font-size:13px;color:var(--ink-soft);margin-top:14px;line-height:1.85}.leg .gb{color:var(--bull)}.leg .gr{color:var(--bear)}
 .mcard .mline b{color:var(--ink)}.mcard .mline{flex-wrap:wrap;min-width:0}
 .mwall>.mcard{min-width:0}.mcard .distbar{min-width:60px}
+@media(max-width:1100px){.mwall{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:900px){.daypad{padding:0 20px}.twocol{grid-template-columns:1fr}.mwall{grid-template-columns:1fr}}
 .ovnote{margin-top:10px;font-size:11.5px;color:var(--ink-faint)}.ovnote b{color:var(--ink-soft)}
 .stbl-wrap{max-height:600px;overflow:auto;border:1px solid var(--line);border-radius:10px;background:var(--card);margin-top:6px}
@@ -979,11 +981,14 @@ function ddChart(d){
   if(d.otc||!d.series||d.series.length<2) return '<div class="ddchart-ph">'+I18N.chart_ph_no_series+'</div>';
   var W=760,H=220,P=16,s=d.series,cs=s.map(function(p){return p.c;});
   var d0=Date.parse(s[0].d),dN=Date.parse(s[s.length-1].d),dsp=(dN-d0)||1;
+  var _dotMax=(d.dots||[]).reduce(function(mx,m){var t=Date.parse(m.d);return t>mx?t:mx;},dN);
+  if(_dotMax>dN){dN=_dotMax;dsp=(dN-d0)||1;}
   var mn=Math.min.apply(null,cs),mx=Math.max.apply(null,cs),sp=(mx-mn)||1;
   var X=function(t){return P+((t-d0)/dsp)*(W-2*P);},Y=function(v){return H-P-((v-mn)/sp)*(H-2*P);};
   var sx=s.map(function(p){return Date.parse(p.d);});
   var lineC=function(t){if(t<=sx[0])return s[0].c;if(t>=sx[sx.length-1])return s[s.length-1].c;for(var i=0;i<sx.length-1;i++){if(t>=sx[i]&&t<=sx[i+1]){var f=(sx[i+1]-sx[i])?(t-sx[i])/(sx[i+1]-sx[i]):0;return s[i].c+(s[i+1].c-s[i].c)*f;}}return s[s.length-1].c;};
   var pts=s.map(function(p){return X(Date.parse(p.d)).toFixed(1)+','+Y(p.c).toFixed(1);});
+  if(_dotMax>Date.parse(s[s.length-1].d)){pts.push(X(_dotMax).toFixed(1)+','+Y(s[s.length-1].c).toFixed(1));}
   var line='M'+pts.join(' L'),area='M'+X(d0).toFixed(1)+','+H+' L'+pts.join(' L')+' L'+X(dN).toFixed(1)+','+H+' Z';
   var dots=(d.dots||[]).map(function(m){
     var t=Date.parse(m.d),xp=(X(t)/W*100).toFixed(2),yp=(Y(lineC(t))/H*100).toFixed(2);
@@ -1014,7 +1019,7 @@ function renderDD(tk){
 }
 function dd(tk){renderDD(tk);}
 function qsort(k,th){var tb=document.getElementById('qtbl').tBodies[0];var rows=[].slice.call(tb.rows);var dir=th.getAttribute('data-dir')==='desc'?'asc':'desc';var hs=document.querySelectorAll('#qtbl th.sortable');for(var i=0;i<hs.length;i++){hs[i].setAttribute('data-dir','');hs[i].classList.remove('on');}th.setAttribute('data-dir',dir);th.classList.add('on');var asc=dir==='asc';rows.sort(function(a,b){var x=parseFloat(a.getAttribute('data-'+k)),y=parseFloat(b.getAttribute('data-'+k));var xn=isNaN(x),yn=isNaN(y);if(xn&&yn)return 0;if(xn)return 1;if(yn)return -1;return asc?x-y:y-x;});for(var j=0;j<rows.length;j++)tb.appendChild(rows[j]);}
-(function(){var d=new Date();var ld=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');var els=document.querySelectorAll('.local-date');for(var i=0;i<els.length;i++) els[i].textContent=ld;})();
+(function(){var d=new Date();var ld=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');var els=document.querySelectorAll('.local-date');for(var i=0;i<els.length;i++)els[i].textContent=ld;})();
 </script>'''
     overlay=f'<div id="ddPage"><div class="ddbar"><button class="ddback" onclick="closeDD()">{t("dd_back")}</button><span class="ddbart">{t("disc_detail_top")}</span></div><div id="ddBody"></div></div>'
     dddata='<script>var DD_DATA='+json.dumps(dd_data(),ensure_ascii=False)+';</script>'
