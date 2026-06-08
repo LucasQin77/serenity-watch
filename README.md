@@ -1,6 +1,6 @@
 # Serenity Watch
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org/)
 
 An open-source tracker for **[@aleabitoreddit](https://x.com/aleabitoreddit)** (Serenity) — one of the most influential voices in AI semiconductor investing on X.
@@ -263,4 +263,4 @@ First and foremost: **thank you to [@aleabitoreddit](https://x.com/aleabitoreddi
 
 ## 📄 License
 
-[MIT](LICENSE)
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — free for personal and non-commercial use. Commercial use requires written permission.
