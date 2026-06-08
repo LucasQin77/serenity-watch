@@ -4,7 +4,7 @@ This directory contains the `SKILL.md` file for running Serenity Watch as a host
 
 ## About Serenity Watch
 
-Serenity Watch is a fan-built tracker for [@aleabitoreddit](https://x.com/aleabitoreddit) (Serenity) — one of the most influential voices in AI semiconductor investing on X. This project exists entirely because of the exceptional quality of Serenity's public analysis, and we are deeply grateful for the insights shared. **We strongly recommend following [@aleabitoreddit](https://x.com/aleabitoreddit) directly — the original posts are where the real value is.**
+Serenity Watch is a fan-built tracker for [@aleabitoreddit](https://x.com/aleabitoreddit) (Serenity) — one of the most influential voices in AI semiconductor investing on X. This project exists entirely because of the exceptional quality of Serenity's public analysis, and I'm deeply grateful for the insights shared. **I strongly recommend following [@aleabitoreddit](https://x.com/aleabitoreddit) directly — the original posts are where the real value is.**
 
 ## For Users
 
